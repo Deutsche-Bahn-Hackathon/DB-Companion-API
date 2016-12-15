@@ -15,6 +15,7 @@ spl_autoload_register(function ($class) {
 });
 
 class Logger {
+
     public function __invoke(Request $request, Response $response, $next) {
         return $next($request, $response);
     }
