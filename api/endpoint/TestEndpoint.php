@@ -7,6 +7,7 @@ use Slim\Http\Request;
 use Slim\Http\Response;
 
 class TestEndpoint {
+
     private $containerInterface;
 
     public function __construct(ContainerInterface $containerInterface) {
