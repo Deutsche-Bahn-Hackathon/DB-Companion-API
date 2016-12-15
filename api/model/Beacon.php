@@ -13,8 +13,9 @@
  */
 namespace api\model;
 
+use JsonSerializable;
 
-class Beacon {
+class Beacon implements JsonSerializable {
 
     /**
      * @SWG\Property(format="string")
@@ -50,5 +51,8 @@ class Beacon {
 
     public function getUuid() {
         return $this->uuid;
+    }
+
+    function jsonSerialize() {
     }
 }

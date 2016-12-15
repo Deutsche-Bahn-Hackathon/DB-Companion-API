@@ -3,12 +3,12 @@
 /**
  * @SWG\Swagger(
  *     schemes={"https"},
- *     host="deutsche-bahn-api@appspot.gserviceaccount.com",
- *     basePath="/v1",
+ *     host="deutsche-bahn-api@appspot.com",
+ *     basePath="/",
  *     @SWG\Info(
  *         version="0.0.1",
- *         title="Swagger Deutsche Bahn",
- *         description="Api for the Deutsche Bahn project at Deutsche Bahn Hackathon Berlin 2016",
+ *         title="DB Companion",
+ *         description="Project DB Companion at Deutsche Bahn Hackathon Berlin 2016",
  *         termsOfService="http://helloreverb.com/terms/",
  *         @SWG\Contact(
  *             email="shopit.developments@gmail.com"
@@ -51,5 +51,7 @@ $c = new \Slim\Container();
 $app = (new App($c))->add(new Logger);
 
 $app->get('/test/{arg}', Endpoint::add('TestEndpoint', 'doTest'));
+
+$app->get('/swagger.json', Swagger::get());
 
 $app->run();
