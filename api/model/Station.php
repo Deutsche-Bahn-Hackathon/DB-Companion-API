@@ -18,7 +18,7 @@ use JsonSerializable;
 class Station implements JsonSerializable {
 
     /**
-     * @SWG\Property(format="int64")
+     * @SWG\Property(format="int32")
      * @var int
      */
     private $id;
