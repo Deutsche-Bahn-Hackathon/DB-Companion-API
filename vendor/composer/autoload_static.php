@@ -7,6 +7,7 @@ namespace Composer\Autoload;
 class ComposerStaticInit08ae8008123e8f1200997a975df74236
 {
     public static $files = array (
+        '253c157292f75eb38082b5acb06f3f01' => __DIR__ . '/..' . '/nikic/fast-route/src/functions.php',
         '0ccdf99b8f62f02c52cba55802e0c2e7' => __DIR__ . '/..' . '/zircote/swagger-php/src/functions.php',
     );
 
@@ -15,6 +16,19 @@ class ComposerStaticInit08ae8008123e8f1200997a975df74236
         array (
             'Symfony\\Component\\Finder\\' => 25,
             'Swagger\\' => 8,
+            'Slim\\' => 5,
+        ),
+        'P' => 
+        array (
+            'Psr\\Http\\Message\\' => 17,
+        ),
+        'I' => 
+        array (
+            'Interop\\Container\\' => 18,
+        ),
+        'F' => 
+        array (
+            'FastRoute\\' => 10,
         ),
     );
 
@@ -27,9 +41,32 @@ class ComposerStaticInit08ae8008123e8f1200997a975df74236
         array (
             0 => __DIR__ . '/..' . '/zircote/swagger-php/src',
         ),
+        'Slim\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/slim/slim/Slim',
+        ),
+        'Psr\\Http\\Message\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/psr/http-message/src',
+        ),
+        'Interop\\Container\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/container-interop/container-interop/src/Interop/Container',
+        ),
+        'FastRoute\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/nikic/fast-route/src',
+        ),
     );
 
     public static $prefixesPsr0 = array (
+        'P' => 
+        array (
+            'Pimple' => 
+            array (
+                0 => __DIR__ . '/..' . '/pimple/pimple/src',
+            ),
+        ),
         'D' => 
         array (
             'Doctrine\\Common\\Lexer\\' => 
