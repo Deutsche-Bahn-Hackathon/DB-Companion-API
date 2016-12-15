@@ -17,6 +17,14 @@ class Train implements JsonSerializable {
      */
     private $id;
 
+    /**
+     * @var Wagon
+     * * @SWG\Property(@SWG\Xml(name="wagons",wrapped=true))
+     */
+    private $wagons;
+
+
+
     function jsonSerialize() {
     }
 }

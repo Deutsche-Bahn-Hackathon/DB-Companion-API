@@ -7,7 +7,7 @@ use Slim\Http\Response;
 
 class Swagger {
 
-    public static function swag(Request $request, Response $response, array $args) {
+    public static function get(Request $request, Response $response, array $args) {
         $exclude = [
             "exclude" => "vendor",
         ];
