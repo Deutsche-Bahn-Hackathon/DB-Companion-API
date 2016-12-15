@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Moriz
- * Date: 12/15/2016
- * Time: 4:56 PM
- */
 
 namespace api\model;
 

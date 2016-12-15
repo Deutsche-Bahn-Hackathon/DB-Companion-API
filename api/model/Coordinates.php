@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Moriz
- * Date: 12/15/2016
- * Time: 3:50 PM
- */
 
 namespace api\model;
 
@@ -27,11 +21,11 @@ class Coordinates implements JsonSerializable {
      * @SWG\Property(format="double")
      * @var double
      */
-    private $long;
+    private $lng;
 
-    public function __construct($lat, $long) {
+    public function __construct($lat, $lng) {
         $this->lat = $lat;
-        $this->long = $long;
+        $this->lng = $lng;
     }
 
     function jsonSerialize() {
@@ -45,12 +39,12 @@ class Coordinates implements JsonSerializable {
         $this->lat = $lat;
     }
 
-    public function getLong() {
-        return $this->long;
+    public function getLng() {
+        return $this->lng;
     }
 
-    public function setLong($long) {
-        $this->long = $long;
+    public function setLng($lng) {
+        $this->lng = $lng;
     }
 
 
