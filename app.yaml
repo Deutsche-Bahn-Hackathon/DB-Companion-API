@@ -8,11 +8,14 @@ handlers:
    - url: /api-docs
      static_files: swagger.json
      upload: swagger.json
+
    - url: /docs
      static_files: vendor/swagger-api/swagger-ui/dist/index.html
      upload: vendor/swagger-api/swagger-ui/dist/index.html
+
    - url: /docs/(.*)
      static_files: vendor/swagger-api/swagger-ui/dist/\1
      upload: vendor/swagger-api/swagger-ui/dist/.
+
    - url: .*
-     script: main.php
+     script: api.php
