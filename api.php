@@ -1,5 +1,6 @@
 <?php
 
+use api\endpoint\Endpoint;
 use Slim\App;
 use Slim\Http\Request;
 use Slim\Http\Response;
@@ -23,8 +24,6 @@ $c = new \Slim\Container();
 
 $app = (new App($c))->add(new Logger);
 
-$app->get('/test', function (Request $request, Response $response) {
-    return $response->withJson(['test' => true]);
-});
+$app->get('/test/{arg}', Endpoint::add('TestEndpoint', 'doTest'));
 
 $app->run();
