@@ -10,17 +10,25 @@ namespace api\model;
 
 use JsonSerializable;
 
+/**
+ * @SWG\Definition(
+ *   @SWG\Xml(name="Station")
+ * )
+ */
 class Station implements JsonSerializable {
 
+    /**
+     * @SWG\Property(format="int64")
+     * @var int
+     */
+    private $id;
 
     /**
-     * Specify data which should be serialized to JSON
-     * @link http://php.net/manual/en/jsonserializable.jsonserialize.php
-     * @return mixed data which can be serialized by <b>json_encode</b>,
-     * which is a value of any type other than a resource.
-     * @since 5.4.0
+     * @SWG\Property
+     * @var Coordinates
      */
+    private $coordinate;
+
     function jsonSerialize() {
-        // TODO: Implement jsonSerialize() method.
     }
 }
