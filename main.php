@@ -1,10 +1,30 @@
 <?php
 
+use Slim\App;
+use Slim\Http\Request;
+use Slim\Http\Response;
+
+require_once __DIR__ . '/vendor/autoload.php';
+
+date_default_timezone_set('Europe/Rome');
+
 spl_autoload_register(function ($class) {
     /** @noinspection PhpIncludeInspection */
     require_once sprintf('%s/%s.php', $_SERVER['DOCUMENT_ROOT'], str_replace('\\', '/', $class));
 });
 
-date_default_timezone_set('Europe/Rome');
+class Logger {
+    public function __invoke(Request $request, Response $response, $next) {
+        return $next($request, $response);
+    }
+}
 
-require_once __DIR__ . '/vendor/autoload.php';
+$c = new \Slim\Container();
+
+$app = (new App($c))->add(new Logger);
+
+$app->get('/test', function (Request $request, Response $response) {
+    return $response->withJson(['test' => true]);
+});
+
+$app->run();
