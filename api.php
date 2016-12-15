@@ -52,6 +52,6 @@ $app = (new App($c))->add(new Logger);
 
 $app->get('/test/{arg}', Endpoint::add('TestEndpoint', 'doTest'));
 
-$app->get('/swagger.json', Swagger::get());
+$app->get('/swagger.json', Endpoint::add('Swagger', 'swag'));
 
 $app->run();
