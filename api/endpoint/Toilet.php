@@ -18,9 +18,7 @@ class Toilet {
         return $response
             ->withHeader('Content-Type', 'application/json')
             ->withJson([
-                'free' => true,
-                'toilet' => 1,
-                'train' => 'ICE-1206'
+                'free' => true
             ]);
     }
 
