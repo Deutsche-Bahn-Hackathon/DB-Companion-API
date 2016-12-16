@@ -52,8 +52,6 @@ $c = new \Slim\Container($configuration);
 
 $app = (new App($c))->add(new Logger);
 
-$app->get('/test/{arg}', Endpoint::add('TestEndpoint', 'doTest'));
-
 $app->get('/swagger.json', Endpoint::add('Swagger', 'get'));
 
 /**
