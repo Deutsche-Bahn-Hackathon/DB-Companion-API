@@ -14,7 +14,6 @@ class Station {
         $this->containerInterface = $containerInterface;
     }
 
-
     public static function getAll(Request $request, Response $response, array $args) {
         $stations_raw = file('http://localhost:8080/static/stations.csv');
         $stations = [];
