@@ -79,6 +79,33 @@ $app->get('/stations', Endpoint::add('Station', 'getAll'));
 $app->get('/train/ice1206/toilet/1/status/{status}', Endpoint::add('Toilet', 'get'));
 $app->put('/train/ice1206/toilet/1/status/{status}', Endpoint::add('Toilet', 'put'));
 
+/**
+ * @SWG\Get(
+ *     path="/search/stations/{arg}",
+ *     summary="Search for stations",
+ *     description="Multiple search terms can be separated by a '+'",
+ *     operationId="search",
+ *     consumes={""},
+ *     produces={"application/xml", "application/json"},
+ *     tags={"timetable"},
+ *     @SWG\Parameter(
+ *         description="Search term ",
+ *         in="path",
+ *         name="arg",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Response(
+ *         response=200,
+ *         description="successful operation",
+ *         @SWG\Schema(
+ *             type="array",
+ *             @SWG\Items(ref="#/definitions/Location")
+ *         ),
+ *     )
+ * )
+ */
 $app->get('/search/stations/{arg}', Endpoint::add('Timetable', 'search'));
 
 $app->run();
