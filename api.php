@@ -79,4 +79,6 @@ $app->get('/swagger.json', Endpoint::add('Swagger', 'get'));
  * */
 $app->get('/stations', Endpoint::add('Station', 'getAll'));
 
+$app->get('/search/stations/{arg}', Endpoint::add('Timetable', 'search'));
+
 $app->run();
