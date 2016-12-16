@@ -21,14 +21,18 @@ class Coordinates implements JsonSerializable {
      * @SWG\Property(format="double")
      * @var double
      */
-    private $lng;
+    private $lon;
 
     public function __construct($lat, $lng) {
         $this->lat = $lat;
-        $this->lng = $lng;
+        $this->lon = $lng;
     }
 
     function jsonSerialize() {
+        return [
+            'lat' => $this->lat,
+            'lon' => $this->lon
+        ];
     }
 
     public function getLat() {
@@ -39,12 +43,12 @@ class Coordinates implements JsonSerializable {
         $this->lat = $lat;
     }
 
-    public function getLng() {
-        return $this->lng;
+    public function getLon() {
+        return $this->lon;
     }
 
-    public function setLng($lng) {
-        $this->lng = $lng;
+    public function setLon($lon) {
+        $this->lon = $lon;
     }
 
 
