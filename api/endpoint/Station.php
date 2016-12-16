@@ -1,12 +1,5 @@
 <?php
 
-/**
- * Created by PhpStorm.
- * User: Moriz
- * Date: 12/16/2016
- * Time: 8:37 PM
- */
-
 namespace api\endpoint;
 
 use Interop\Container\ContainerInterface;
