@@ -42,12 +42,41 @@ class Logger {
     }
 }
 
-$c = new \Slim\Container();
+$configuration = [
+    'settings' => [
+        'displayErrorDetails' => true,
+    ],
+];
+
+$c = new \Slim\Container($configuration);
 
 $app = (new App($c))->add(new Logger);
 
 $app->get('/test/{arg}', Endpoint::add('TestEndpoint', 'doTest'));
 
 $app->get('/swagger.json', Endpoint::add('Swagger', 'get'));
+
+/**
+ * @SWG\Get(
+ *     path="/stations",
+ *     consumes={""},
+ *     description="Returns all stations",
+ *     operationId="get",
+ *     produces={"application/json"},
+ *     @SWG\Response(
+ *         response=200,
+ *         description="successful operation",
+ *         @SWG\Schema(
+ *             type="array",
+ *             @SWG\Items(ref="#/definitions/Station")
+ *         ),
+ *     ),
+ *     summary="Returns all stations",
+ *     tags={
+ *         "station"
+ *     }
+ * )
+ * */
+$app->get('/stations', Endpoint::add('Station', 'getAll'));
 
 $app->run();

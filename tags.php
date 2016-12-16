@@ -8,23 +8,15 @@
 
 /**
  * @SWG\Tag(
- *   name="pet",
- *   description="Everything about your Pets",
- *   @SWG\ExternalDocumentation(
- *     description="Find out more",
- *     url="http://swagger.io"
- *   )
- * )
- *
- * @SWG\Tag(
  *   name="test",
  *   description="Test Endpoints",
  * )
  *
  * @SWG\Tag(
- *   name="store",
- *   description="Operations about user"
+ *   name="station",
+ *   description="Stations",
  * )
+ *
  * @SWG\Tag(
  *   name="user",
  *   description="Access to Petstore orders",
