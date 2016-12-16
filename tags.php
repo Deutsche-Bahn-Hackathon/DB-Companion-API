@@ -15,6 +15,12 @@
  *     url="http://swagger.io"
  *   )
  * )
+ *
+ * @SWG\Tag(
+ *   name="test",
+ *   description="Test Endpoints",
+ * )
+ *
  * @SWG\Tag(
  *   name="store",
  *   description="Operations about user"

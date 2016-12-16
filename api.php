@@ -2,8 +2,8 @@
 
 /**
  * @SWG\Swagger(
- *     schemes={"https"},
- *     host="deutsche-bahn-api@appspot.com",
+ *     schemes={"http"},
+ *     host="localhost:8080",
  *     basePath="/",
  *     @SWG\Info(
  *         version="0.0.1",
@@ -17,10 +17,6 @@
  *             name="Apache 2.0",
  *             url="http://www.apache.org/licenses/LICENSE-2.0.html"
  *         )
- *     ),
- *     @SWG\ExternalDocumentation(
- *         description="Find out more about Swagger",
- *         url="http://swagger.io"
  *     )
  * )
  */
