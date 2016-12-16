@@ -42,15 +42,11 @@ class Logger {
     }
 }
 
-$configuration = [
+$app = (new App(new \Slim\Container([
     'settings' => [
         'displayErrorDetails' => true,
     ],
-];
-
-$c = new \Slim\Container($configuration);
-
-$app = (new App($c))->add(new Logger);
+])))->add(new Logger);
 
 $app->get('/swagger.json', Endpoint::add('Swagger', 'get'));
 
