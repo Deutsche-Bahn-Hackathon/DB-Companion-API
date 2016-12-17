@@ -4,6 +4,7 @@ namespace api\endpoint;
 
 use api\model\station\Arrival;
 use api\model\station\Departure;
+use api\model\Stop;
 use DateTime;
 use Interop\Container\ContainerInterface;
 use Slim\Http\Request;
@@ -80,7 +81,25 @@ class Station {
     }
 
     public static function journey(Request $request, Response $response, array $args) {
-        $arrivals = json_decode(file_get_contents('https://open-api.bahn.de/bin/rest.exe/' . $args['journey']), true);
-        $data = [];
+        $journey = json_decode(file_get_contents('https://open-api.bahn.de/bin/rest.exe/' . $args['journey'] . '?' . $request->getUri()->getQuery()), true);
+        $stops = [];
+
+        // TODO: Solve this better with separated constructors if no departure time or arrive time
+        if (!isset($journey['JourneyDetail']['Stops']['Stop']['name'])) {
+            foreach ($journey['JourneyDetail']['Stops']['Stop'] as $stop) {
+                $datetime_arrive = DateTime::createFromFormat('Y-m-d G:i', $stop['arrDate'] . ' ' . $stop['arrTime']);
+                $datetime_departure = DateTime::createFromFormat('Y-m-d G:i', $stop['depDate'] . ' ' . $stop['depTime']);
+                $stops[] = new Stop($stop['id'], $stop['name'], $stop['lat'], $stop['lon'], $stop['routeIdx'], is_object($datetime_arrive) ? $datetime_arrive : date_create_from_format('Y', '1800'), is_object($datetime_departure) ? $datetime_departure : date_create_from_format('Y', '1800'), $stop['track']);
+            }
+        } else {
+            $stop = $journey['JourneyDetail']['Stops']['Stop'];
+            $datetime_arrive = DateTime::createFromFormat('Y-m-d G:i', $stop['arrDate'] . ' ' . $stop['arrTime']);
+            $datetime_departure = DateTime::createFromFormat('Y-m-d G:i', $stop['depDate'] . ' ' . $stop['depTime']);
+            $stops[] = new Stop($stop['id'], $stop['name'], $stop['lat'], $stop['lon'], $stop['routeIdx'], is_object($datetime_arrive) ? $datetime_arrive : date_create_from_format('Y', '1800'), is_object($datetime_departure) ? $datetime_departure : date_create_from_format('Y', '1800'), $stop['track']);
+        }
+
+        return $response
+            ->withHeader('Content-Type', 'application/json')
+            ->withJson(['stops' => $stops]);
     }
 }

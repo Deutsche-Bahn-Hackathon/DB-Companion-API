@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Moriz
- * Date: 12/16/2016
- * Time: 11:15 PM
- */
 
 /**
  * @SWG\Definition(
