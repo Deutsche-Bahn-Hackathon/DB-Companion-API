@@ -3,7098 +3,5324 @@
     {
       "id": "008000002",
       "name": "Aalen Hbf",
-      "coordinates": {
-        "lat": "48.841009",
-        "lon": "10.096270"
-      }
+      "lat": "48.841009",
+      "lon": "10.096270"
     },
     {
       "id": "008000010",
       "name": "Aschaffenburg Hbf",
-      "coordinates": {
-        "lat": "49.980554",
-        "lon": "9.143692"
-      }
+      "lat": "49.980554",
+      "lon": "9.143692"
     },
     {
       "id": "008000001",
       "name": "Aachen Hbf",
-      "coordinates": {
-        "lat": "50.767802",
-        "lon": "6.091495"
-      }
+      "lat": "50.767802",
+      "lon": "6.091495"
     },
     {
       "id": "008000013",
       "name": "Augsburg Hbf",
-      "coordinates": {
-        "lat": "48.365444",
-        "lon": "10.885568"
-      }
+      "lat": "48.365444",
+      "lon": "10.885568"
     },
     {
       "id": "008096009",
       "name": "AMBURGO",
-      "coordinates": {
-        "lat": "53.557110",
-        "lon": "9.997434"
-      }
+      "lat": "53.557110",
+      "lon": "9.997434"
     },
     {
       "id": "008002549",
       "name": "Amburgo(Hamburg)",
-      "coordinates": {
-        "lat": "53.552732",
-        "lon": "10.006908"
-      }
+      "lat": "53.552732",
+      "lon": "10.006908"
     },
     {
       "id": "008000331",
       "name": "Andernach",
-      "coordinates": {
-        "lat": "50.434545",
-        "lon": "7.404837"
-      }
+      "lat": "50.434545",
+      "lon": "7.404837"
     },
     {
       "id": "008011044",
       "name": "Anklam",
-      "coordinates": {
-        "lat": "53.856100",
-        "lon": "13.701825"
-      }
+      "lat": "53.856100",
+      "lon": "13.701825"
     },
     {
       "id": "008000009",
       "name": "Ansbach",
-      "coordinates": {
-        "lat": "49.298030",
-        "lon": "10.578236"
-      }
+      "lat": "49.298030",
+      "lon": "10.578236"
     },
     {
       "id": "008000664",
       "name": "Augustfehn",
-      "coordinates": {
-        "lat": "53.220886",
-        "lon": "7.759659"
-      }
+      "lat": "53.220886",
+      "lon": "7.759659"
     },
     {
       "id": "008000004",
       "name": "Altenbeken",
-      "coordinates": {
-        "lat": "51.766432",
-        "lon": "8.943323"
-      }
+      "lat": "51.766432",
+      "lon": "8.943323"
     },
     {
       "id": "008010004",
       "name": "Angerm\u00fcnde",
-      "coordinates": {
-        "lat": "53.015222",
-        "lon": "13.996357"
-      }
+      "lat": "53.015222",
+      "lon": "13.996357"
     },
     {
       "id": "008000483",
       "name": "Alfeld(Leine)",
-      "coordinates": {
-        "lat": "51.981418",
-        "lon": "9.817775"
-      }
+      "lat": "51.981418",
+      "lon": "9.817775"
     },
     {
       "id": "008000459",
       "name": "Ainring",
-      "coordinates": {
-        "lat": "47.815034",
-        "lon": "12.964503"
-      }
+      "lat": "47.815034",
+      "lon": "12.964503"
     },
     {
       "id": "008002570",
       "name": "Ainring-Hammerau",
-      "coordinates": {
-        "lat": "47.795878",
-        "lon": "12.946129"
-      }
+      "lat": "47.795878",
+      "lon": "12.946129"
     },
     {
       "id": "008011051",
       "name": "Apolda",
-      "coordinates": {
-        "lat": "51.030943",
-        "lon": "11.526139"
-      }
+      "lat": "51.030943",
+      "lon": "11.526139"
     },
     {
       "id": "008000635",
       "name": "Assmannshausen",
-      "coordinates": {
-        "lat": "49.985327",
-        "lon": "7.867359"
-      }
+      "lat": "49.985327",
+      "lon": "7.867359"
     },
     {
       "id": "008000014",
       "name": "Aulendorf",
-      "coordinates": {
-        "lat": "47.953055",
-        "lon": "9.644050"
-      }
+      "lat": "47.953055",
+      "lon": "9.644050"
     },
     {
       "id": "008400058",
       "name": "Amsterdam Centraal",
-      "coordinates": {
-        "lat": "52.379190",
-        "lon": "4.899426"
-      }
+      "lat": "52.379190",
+      "lon": "4.899426"
     },
     {
       "id": "005400019",
       "name": "Aussig",
-      "coordinates": {
-        "lat": "50.659563",
-        "lon": "14.044728"
-      }
+      "lat": "50.659563",
+      "lon": "14.044728"
     },
     {
       "id": "008400051",
       "name": "Almelo",
-      "coordinates": {
-        "lat": "52.357284",
-        "lon": "6.654813"
-      }
+      "lat": "52.357284",
+      "lon": "6.654813"
     },
     {
       "id": "008400055",
       "name": "Amersfoort",
-      "coordinates": {
-        "lat": "52.153642",
-        "lon": "5.373239"
-      }
+      "lat": "52.153642",
+      "lon": "5.373239"
     },
     {
       "id": "008400066",
       "name": "Apeldoorn",
-      "coordinates": {
-        "lat": "52.209429",
-        "lon": "5.967489"
-      }
+      "lat": "52.209429",
+      "lon": "5.967489"
     },
     {
       "id": "008400071",
       "name": "Arnhem Centraal",
-      "coordinates": {
-        "lat": "51.984780",
-        "lon": "5.901004"
-      }
+      "lat": "51.984780",
+      "lon": "5.901004"
     },
     {
       "id": "008502113",
       "name": "Aarau",
-      "coordinates": {
-        "lat": "47.391148",
-        "lon": "8.051323"
-      }
+      "lat": "47.391148",
+      "lon": "8.051323"
     },
     {
       "id": "008600087",
       "name": "Aarhus",
-      "coordinates": {
-        "lat": "56.150075",
-        "lon": "10.204995"
-      }
+      "lat": "56.150075",
+      "lon": "10.204995"
     },
     {
       "id": "008100064",
       "name": "Anton am Arlberg St",
-      "coordinates": {
-        "lat": "47.127566",
-        "lon": "10.266993"
-      }
+      "lat": "47.127566",
+      "lon": "10.266993"
     },
     {
       "id": "008704980",
       "name": "Aix-en-Provence TGV",
-      "coordinates": {
-        "lat": "43.455167",
-        "lon": "5.317227"
-      }
+      "lat": "43.455167",
+      "lon": "5.317227"
     },
     {
       "id": "008796005",
       "name": "AVIGNON (TGV)",
-      "coordinates": {
-        "lat": "43.939569",
-        "lon": "4.800329"
-      }
+      "lat": "43.939569",
+      "lon": "4.800329"
     },
     {
       "id": "008704918",
       "name": "Avignon TGV",
-      "coordinates": {
-        "lat": "43.921932",
-        "lon": "4.786045"
-      }
+      "lat": "43.921932",
+      "lon": "4.786045"
     },
     {
       "id": "007896001",
       "name": "AGRAM",
-      "coordinates": {
-        "lat": "45.807411",
-        "lon": "15.990290"
-      }
+      "lat": "45.807411",
+      "lon": "15.990290"
     },
     {
       "id": "008100012",
       "name": "Amstetten N\u00d6",
-      "coordinates": {
-        "lat": "48.121603",
-        "lon": "14.878109"
-      }
+      "lat": "48.121603",
+      "lon": "14.878109"
     },
     {
       "id": "008400080",
       "name": "Almere Centrum",
-      "coordinates": {
-        "lat": "52.375244",
-        "lon": "5.218768"
-      }
+      "lat": "52.375244",
+      "lon": "5.218768"
     },
     {
       "id": "008300179",
       "name": "Arezzo",
-      "coordinates": {
-        "lat": "43.461073",
-        "lon": "11.875388"
-      }
+      "lat": "43.461073",
+      "lon": "11.875388"
     },
     {
       "id": "008300521",
       "name": "Abano-Montegrotto Eu",
-      "coordinates": {
-        "lat": "45.327378",
-        "lon": "11.796436"
-      }
+      "lat": "45.327378",
+      "lon": "11.796436"
     },
     {
       "id": "008300556",
       "name": "Abano Terme",
-      "coordinates": {
-        "lat": "45.355262",
-        "lon": "11.811565"
-      }
+      "lat": "45.355262",
+      "lon": "11.811565"
     },
     {
       "id": "008300252",
       "name": "Attigliano-Bomarzo",
-      "coordinates": {
-        "lat": "42.517476",
-        "lon": "12.295894"
-      }
+      "lat": "42.517476",
+      "lon": "12.295894"
     },
     {
       "id": "008500309",
       "name": "Brugg AG",
-      "coordinates": {
-        "lat": "47.480851",
-        "lon": "8.208832"
-      }
+      "lat": "47.480851",
+      "lon": "8.208832"
     },
     {
       "id": "008006272",
       "name": "Weil am Rhein",
-      "coordinates": {
-        "lat": "47.593972",
-        "lon": "7.608415"
-      }
+      "lat": "47.593972",
+      "lon": "7.608415"
     },
     {
       "id": "008100080",
       "name": "P\u00f6rtschach am W\u00f6rther See",
-      "coordinates": {
-        "lat": "46.636198",
-        "lon": "14.146234"
-      }
+      "lat": "46.636198",
+      "lon": "14.146234"
     },
     {
       "id": "008100081",
       "name": "Velden am W\u00f6rther See",
-      "coordinates": {
-        "lat": "46.620053",
-        "lon": "14.044836"
-      }
+      "lat": "46.620053",
+      "lon": "14.044836"
     },
     {
       "id": "008100065",
       "name": "Langen am Arlberg",
-      "coordinates": {
-        "lat": "47.131719",
-        "lon": "10.120370"
-      }
+      "lat": "47.131719",
+      "lon": "10.120370"
     },
     {
       "id": "008100048",
       "name": "Zell am See",
-      "coordinates": {
-        "lat": "47.320520",
-        "lon": "12.796567"
-      }
+      "lat": "47.320520",
+      "lon": "12.796567"
     },
     {
       "id": "008000025",
       "name": "Bamberg",
-      "coordinates": {
-        "lat": "49.900757",
-        "lon": "10.899492"
-      }
+      "lat": "49.900757",
+      "lon": "10.899492"
     },
     {
       "id": "008001055",
       "name": "B\u00f6blingen",
-      "coordinates": {
-        "lat": "48.687761",
-        "lon": "9.004126"
-      }
+      "lat": "48.687761",
+      "lon": "9.004126"
     },
     {
       "id": "008000943",
       "name": "Biberach(Ri\u00df)",
-      "coordinates": {
-        "lat": "48.101844",
-        "lon": "9.793127"
-      }
+      "lat": "48.101844",
+      "lon": "9.793127"
     },
     {
       "id": "008011160",
       "name": "Berlin Hbf",
-      "coordinates": {
-        "lat": "52.525589",
-        "lon": "13.369548"
-      }
+      "lat": "52.525589",
+      "lon": "13.369548"
     },
     {
       "id": "008000036",
       "name": "Bielefeld Hbf",
-      "coordinates": {
-        "lat": "52.029258",
-        "lon": "8.532722"
-      }
+      "lat": "52.029258",
+      "lon": "8.532722"
     },
     {
       "id": "008000041",
       "name": "Bochum Hbf",
-      "coordinates": {
-        "lat": "51.478606",
-        "lon": "7.223273"
-      }
+      "lat": "51.478606",
+      "lon": "7.223273"
     },
     {
       "id": "008000049",
       "name": "Braunschweig Hbf",
-      "coordinates": {
-        "lat": "52.252218",
-        "lon": "10.540292"
-      }
+      "lat": "52.252218",
+      "lon": "10.540292"
     },
     {
       "id": "008000050",
       "name": "Bremen Hbf",
-      "coordinates": {
-        "lat": "53.083477",
-        "lon": "8.813833"
-      }
+      "lat": "53.083477",
+      "lon": "8.813833"
     },
     {
       "id": "008011113",
       "name": "Berlin S\u00fcdkreuz",
-      "coordinates": {
-        "lat": "52.475042",
-        "lon": "13.365314"
-      }
+      "lat": "52.475042",
+      "lon": "13.365314"
     },
     {
       "id": "008096003",
       "name": "BERLINO",
-      "coordinates": {
-        "lat": "52.520501",
-        "lon": "13.386987"
-      }
+      "lat": "52.520501",
+      "lon": "13.386987"
     },
     {
       "id": "008000026",
       "name": "Basel Bad Bf",
-      "coordinates": {
-        "lat": "47.567292",
-        "lon": "7.607804"
-      }
+      "lat": "47.567292",
+      "lon": "7.607804"
     },
     {
       "id": "008010255",
       "name": "Berlin Ostbahnhof",
-      "coordinates": {
-        "lat": "52.510972",
-        "lon": "13.434567"
-      }
+      "lat": "52.510972",
+      "lon": "13.434567"
     },
     {
       "id": "008010404",
       "name": "Berlin-Spandau",
-      "coordinates": {
-        "lat": "52.534470",
-        "lon": "13.197530"
-      }
+      "lat": "52.534470",
+      "lon": "13.197530"
     },
     {
       "id": "008000774",
       "name": "Baden-Baden",
-      "coordinates": {
-        "lat": "48.790328",
-        "lon": "8.190827"
-      }
+      "lat": "48.790328",
+      "lon": "8.190827"
     },
     {
       "id": "008011102",
       "name": "Berlin Gesundbrunnen",
-      "coordinates": {
-        "lat": "52.548961",
-        "lon": "13.388515"
-      }
+      "lat": "52.548961",
+      "lon": "13.388515"
     },
     {
       "id": "008010050",
       "name": "Bitterfeld",
-      "coordinates": {
-        "lat": "51.622856",
-        "lon": "12.316848"
-      }
+      "lat": "51.622856",
+      "lon": "12.316848"
     },
     {
       "id": "008000020",
       "name": "Bad Hersfeld",
-      "coordinates": {
-        "lat": "50.869632",
-        "lon": "9.716179"
-      }
+      "lat": "50.869632",
+      "lon": "9.716179"
     },
     {
       "id": "008000044",
       "name": "Bonn Hbf",
-      "coordinates": {
-        "lat": "50.732007",
-        "lon": "7.097136"
-      }
+      "lat": "50.732007",
+      "lon": "7.097136"
     },
     {
       "id": "008000039",
       "name": "Bingen(Rhein) Hbf",
-      "coordinates": {
-        "lat": "49.968724",
-        "lon": "7.884258"
-      }
+      "lat": "49.968724",
+      "lon": "7.884258"
     },
     {
       "id": "008010060",
       "name": "Brandenburg Hbf",
-      "coordinates": {
-        "lat": "52.400558",
-        "lon": "12.566137"
-      }
+      "lat": "52.400558",
+      "lon": "12.566137"
     },
     {
       "id": "008000045",
       "name": "Boppard Hbf",
-      "coordinates": {
-        "lat": "50.231416",
-        "lon": "7.586104"
-      }
+      "lat": "50.231416",
+      "lon": "7.586104"
     },
     {
       "id": "008000885",
       "name": "Berchtesgaden Hbf",
-      "coordinates": {
-        "lat": "47.626683",
-        "lon": "12.999058"
-      }
+      "lat": "47.626683",
+      "lon": "12.999058"
     },
     {
       "id": "008000031",
       "name": "Bensheim",
-      "coordinates": {
-        "lat": "49.681330",
-        "lon": "8.616717"
-      }
+      "lat": "49.681330",
+      "lon": "8.616717"
     },
     {
       "id": "008000055",
       "name": "Bruchsal",
-      "coordinates": {
-        "lat": "49.124619",
-        "lon": "8.589651"
-      }
+      "lat": "49.124619",
+      "lon": "8.589651"
     },
     {
       "id": "008000058",
       "name": "B\u00fcchen",
-      "coordinates": {
-        "lat": "53.474976",
-        "lon": "10.623299"
-      }
+      "lat": "53.474976",
+      "lon": "10.623299"
     },
     {
       "id": "008010033",
       "name": "Bergen auf R\u00fcgen",
-      "coordinates": {
-        "lat": "54.420497",
-        "lon": "13.417820"
-      }
+      "lat": "54.420497",
+      "lon": "13.417820"
     },
     {
       "id": "008011191",
       "name": "Binz (R\u00fcgen)",
-      "coordinates": {
-        "lat": "54.404820",
-        "lon": "13.600508"
-      }
+      "lat": "54.404820",
+      "lon": "13.600508"
     },
     {
       "id": "008000879",
       "name": "Bad Bentheim",
-      "coordinates": {
-        "lat": "52.309848",
-        "lon": "7.158541"
-      }
+      "lat": "52.309848",
+      "lon": "7.158541"
     },
     {
       "id": "008000732",
       "name": "Bad Oeynhausen",
-      "coordinates": {
-        "lat": "52.205393",
-        "lon": "8.796520"
-      }
+      "lat": "52.205393",
+      "lon": "8.796520"
     },
     {
       "id": "008010022",
       "name": "Bad Schandau",
-      "coordinates": {
-        "lat": "50.918839",
-        "lon": "14.139321"
-      }
+      "lat": "50.918839",
+      "lon": "14.139321"
     },
     {
       "id": "008000770",
       "name": "Bad Zwischenahn",
-      "coordinates": {
-        "lat": "53.182547",
-        "lon": "8.003123"
-      }
+      "lat": "53.182547",
+      "lon": "8.003123"
     },
     {
       "id": "008003330",
       "name": "Bonn\/K\u00f6ln Flughafen",
-      "coordinates": {
-        "lat": "50.878900",
-        "lon": "7.119303"
-      }
+      "lat": "50.878900",
+      "lon": "7.119303"
     },
     {
       "id": "008010036",
       "name": "Berlin-Lichtenberg",
-      "coordinates": {
-        "lat": "52.509894",
-        "lon": "13.496925"
-      }
+      "lat": "52.509894",
+      "lon": "13.496925"
     },
     {
       "id": "008010405",
       "name": "Berlin Wannsee",
-      "coordinates": {
-        "lat": "52.421053",
-        "lon": "13.179336"
-      }
+      "lat": "52.421053",
+      "lon": "13.179336"
     },
     {
       "id": "008000057",
       "name": "Buchloe",
-      "coordinates": {
-        "lat": "48.033724",
-        "lon": "10.716220"
-      }
+      "lat": "48.033724",
+      "lon": "10.716220"
     },
     {
       "id": "008001787",
       "name": "Bad Endorf",
-      "coordinates": {
-        "lat": "47.905061",
-        "lon": "12.301558"
-      }
+      "lat": "47.905061",
+      "lon": "12.301558"
     },
     {
       "id": "008000935",
       "name": "Bad Bevensen",
-      "coordinates": {
-        "lat": "53.078246",
-        "lon": "10.574137"
-      }
+      "lat": "53.078246",
+      "lon": "10.574137"
     },
     {
       "id": "008010018",
       "name": "Bad Kleinen",
-      "coordinates": {
-        "lat": "53.766972",
-        "lon": "11.466927"
-      }
+      "lat": "53.766972",
+      "lon": "11.466927"
     },
     {
       "id": "008000059",
       "name": "B\u00fcnde(Westf)",
-      "coordinates": {
-        "lat": "52.202076",
-        "lon": "8.573875"
-      }
+      "lat": "52.202076",
+      "lon": "8.573875"
     },
     {
       "id": "008010066",
       "name": "B\u00fctzow",
-      "coordinates": {
-        "lat": "53.837115",
-        "lon": "11.998190"
-      }
+      "lat": "53.837115",
+      "lon": "11.998190"
     },
     {
       "id": "008001082",
       "name": "Bonn-Bad Godesberg",
-      "coordinates": {
-        "lat": "50.683924",
-        "lon": "7.159557"
-      }
+      "lat": "50.683924",
+      "lon": "7.159557"
     },
     {
       "id": "008000737",
       "name": "Bad Reichenhall",
-      "coordinates": {
-        "lat": "47.731165",
-        "lon": "12.881820"
-      }
+      "lat": "47.731165",
+      "lon": "12.881820"
     },
     {
       "id": "008000738",
       "name": "Bad Reichenhall-Kirchberg",
-      "coordinates": {
-        "lat": "47.718535",
-        "lon": "12.874000"
-      }
+      "lat": "47.718535",
+      "lon": "12.874000"
     },
     {
       "id": "008000831",
       "name": "Bayerisch Gmain",
-      "coordinates": {
-        "lat": "47.720378",
-        "lon": "12.895070"
-      }
+      "lat": "47.720378",
+      "lon": "12.895070"
     },
     {
       "id": "008000997",
       "name": "Bischofswiesen",
-      "coordinates": {
-        "lat": "47.651889",
-        "lon": "12.960143"
-      }
+      "lat": "47.651889",
+      "lon": "12.960143"
     },
     {
       "id": "008000718",
       "name": "Bad Krozingen",
-      "coordinates": {
-        "lat": "47.919723",
-        "lon": "7.697633"
-      }
+      "lat": "47.919723",
+      "lon": "7.697633"
     },
     {
       "id": "008000029",
       "name": "Bebra",
-      "coordinates": {
-        "lat": "50.969565",
-        "lon": "9.797783"
-      }
+      "lat": "50.969565",
+      "lon": "9.797783"
     },
     {
       "id": "008010403",
       "name": "Berlin-Charlottenburg",
-      "coordinates": {
-        "lat": "52.504725",
-        "lon": "13.303522"
-      }
+      "lat": "52.504725",
+      "lon": "13.303522"
     },
     {
       "id": "008010406",
       "name": "Berlin Zoologischer Garten",
-      "coordinates": {
-        "lat": "52.507278",
-        "lon": "13.331991"
-      }
+      "lat": "52.507278",
+      "lon": "13.331991"
     },
     {
       "id": "008013470",
       "name": "Bernau(b Berlin)",
-      "coordinates": {
-        "lat": "52.675834",
-        "lon": "13.592292"
-      }
+      "lat": "52.675834",
+      "lon": "13.592292"
     },
     {
       "id": "008601988",
       "name": "R\u00f6dby BF",
-      "coordinates": {
-        "lat": "54.655718",
-        "lon": "11.357466"
-      }
+      "lat": "54.655718",
+      "lon": "11.357466"
     },
     {
       "id": "008001274",
       "name": "Burg(Fehmarn)",
-      "coordinates": {
-        "lat": "54.443590",
-        "lon": "11.188981"
-      }
+      "lat": "54.443590",
+      "lon": "11.188981"
     },
     {
       "id": "002196004",
       "name": "MINSK(BY)",
-      "coordinates": {
-        "lat": "53.868712",
-        "lon": "27.651025"
-      }
+      "lat": "53.868712",
+      "lon": "27.651025"
     },
     {
       "id": "008000368",
       "name": "Wabern(Bz Kassel)",
-      "coordinates": {
-        "lat": "51.103136",
-        "lon": "9.358040"
-      }
+      "lat": "51.103136",
+      "lon": "9.358040"
     },
     {
       "id": "008096022",
       "name": "C\u00d6LN",
-      "coordinates": {
-        "lat": "50.941312",
-        "lon": "6.967206"
-      }
+      "lat": "50.941312",
+      "lon": "6.967206"
     },
     {
       "id": "008000207",
       "name": "Colonia(K\u00f6ln)",
-      "coordinates": {
-        "lat": "50.943029",
-        "lon": "6.958729"
-      }
+      "lat": "50.943029",
+      "lon": "6.958729"
     },
     {
       "id": "008000191",
       "name": "Carlsruhe",
-      "coordinates": {
-        "lat": "48.993511",
-        "lon": "8.402181"
-      }
+      "lat": "48.993511",
+      "lon": "8.402181"
     },
     {
       "id": "008096023",
       "name": "CASSEL",
-      "coordinates": {
-        "lat": "51.315946",
-        "lon": "9.470378"
-      }
+      "lat": "51.315946",
+      "lon": "9.470378"
     },
     {
       "id": "008003368",
       "name": "Cologne-Deutz foires",
-      "coordinates": {
-        "lat": "50.940871",
-        "lon": "6.975000"
-      }
+      "lat": "50.940871",
+      "lon": "6.975000"
     },
     {
       "id": "008000206",
       "name": "Coblence",
-      "coordinates": {
-        "lat": "50.350927",
-        "lon": "7.588342"
-      }
+      "lat": "50.350927",
+      "lon": "7.588342"
     },
     {
       "id": "008000064",
       "name": "Celle",
-      "coordinates": {
-        "lat": "52.621171",
-        "lon": "10.062704"
-      }
+      "lat": "52.621171",
+      "lon": "10.062704"
     },
     {
       "id": "008000067",
       "name": "Crailsheim",
-      "coordinates": {
-        "lat": "49.137869",
-        "lon": "10.064322"
-      }
+      "lat": "49.137869",
+      "lon": "10.064322"
     },
     {
       "id": "008010073",
       "name": "Cottbus",
-      "coordinates": {
-        "lat": "51.750952",
-        "lon": "14.324158"
-      }
+      "lat": "51.750952",
+      "lon": "14.324158"
     },
     {
       "id": "008509000",
       "name": "Chur",
-      "coordinates": {
-        "lat": "46.853440",
-        "lon": "9.528475"
-      }
+      "lat": "46.853440",
+      "lon": "9.528475"
     },
     {
       "id": "008100085",
       "name": "Celovec gl.kol.",
-      "coordinates": {
-        "lat": "46.615586",
-        "lon": "14.313568"
-      }
+      "lat": "46.615586",
+      "lon": "14.313568"
     },
     {
       "id": "008696001",
       "name": "Copenhagen",
-      "coordinates": {
-        "lat": "55.688237",
-        "lon": "12.578425"
-      }
+      "lat": "55.688237",
+      "lon": "12.578425"
     },
     {
       "id": "008700091",
       "name": "Chalon sur Sa\u00f4ne",
-      "coordinates": {
-        "lat": "46.781742",
-        "lon": "4.843396"
-      }
+      "lat": "46.781742",
+      "lon": "4.843396"
     },
     {
       "id": "008300086",
       "name": "Conegliano",
-      "coordinates": {
-        "lat": "45.884664",
-        "lon": "12.299104"
-      }
+      "lat": "45.884664",
+      "lon": "12.299104"
     },
     {
       "id": "008796004",
       "name": "CALAIS",
-      "coordinates": {
-        "lat": "50.947694",
-        "lon": "1.853800"
-      }
+      "lat": "50.947694",
+      "lon": "1.853800"
     },
     {
       "id": "008700386",
       "name": "Calais Ville",
-      "coordinates": {
-        "lat": "50.953402",
-        "lon": "1.850177"
-      }
+      "lat": "50.953402",
+      "lon": "1.850177"
     },
     {
       "id": "008300618",
       "name": "Camucia-Cortona",
-      "coordinates": {
-        "lat": "43.261692",
-        "lon": "11.970889"
-      }
+      "lat": "43.261692",
+      "lon": "11.970889"
     },
     {
       "id": "008300074",
       "name": "Carnia",
-      "coordinates": {
-        "lat": "46.373767",
-        "lon": "13.133033"
-      }
+      "lat": "46.373767",
+      "lon": "13.133033"
     },
     {
       "id": "008300080",
       "name": "Casarsa",
-      "coordinates": {
-        "lat": "45.953216",
-        "lon": "12.840398"
-      }
+      "lat": "45.953216",
+      "lon": "12.840398"
     },
     {
       "id": "008300580",
       "name": "Castiglione del Lago",
-      "coordinates": {
-        "lat": "43.122854",
-        "lon": "12.032484"
-      }
+      "lat": "43.122854",
+      "lon": "12.032484"
     },
     {
       "id": "008300148",
       "name": "Chiusi-Chianciano Terme",
-      "coordinates": {
-        "lat": "43.002471",
-        "lon": "11.957900"
-      }
+      "lat": "43.002471",
+      "lon": "11.957900"
     },
     {
       "id": "008301330",
       "name": "Ceggia",
-      "coordinates": {
-        "lat": "45.688313",
-        "lon": "12.633979"
-      }
+      "lat": "45.688313",
+      "lon": "12.633979"
     },
     {
       "id": "008300095",
       "name": "Cervignano-Aquileia-Grado",
-      "coordinates": {
-        "lat": "45.823933",
-        "lon": "13.343704"
-      }
+      "lat": "45.823933",
+      "lon": "13.343704"
     },
     {
       "id": "008300530",
       "name": "Chiari",
-      "coordinates": {
-        "lat": "45.540053",
-        "lon": "9.926572"
-      }
+      "lat": "45.540053",
+      "lon": "9.926572"
     },
     {
       "id": "008200134",
       "name": "Clervaux",
-      "coordinates": {
-        "lat": "50.061241",
-        "lon": "6.024840"
-      }
+      "lat": "50.061241",
+      "lon": "6.024840"
     },
     {
       "id": "008300628",
       "name": "Codroipo",
-      "coordinates": {
-        "lat": "45.965720",
-        "lon": "12.976728"
-      }
+      "lat": "45.965720",
+      "lon": "12.976728"
     },
     {
       "id": "008300535",
       "name": "Cormons",
-      "coordinates": {
-        "lat": "45.957566",
-        "lon": "13.461517"
-      }
+      "lat": "45.957566",
+      "lon": "13.461517"
     },
     {
       "id": "008506302",
       "name": "St. Gallen(CH)",
-      "coordinates": {
-        "lat": "47.423276",
-        "lon": "9.369303"
-      }
+      "lat": "47.423276",
+      "lon": "9.369303"
     },
     {
       "id": "008506206",
       "name": "Wil(CH)",
-      "coordinates": {
-        "lat": "47.462343",
-        "lon": "9.040190"
-      }
+      "lat": "47.462343",
+      "lon": "9.040190"
     },
     {
       "id": "008503504",
       "name": "Baden(CH)",
-      "coordinates": {
-        "lat": "47.476465",
-        "lon": "8.307408"
-      }
+      "lat": "47.476465",
+      "lon": "8.307408"
     },
     {
       "id": "005400003",
       "name": "Bodenbach(CZ)",
-      "coordinates": {
-        "lat": "50.773411",
-        "lon": "14.201248"
-      }
+      "lat": "50.773411",
+      "lon": "14.201248"
     },
     {
       "id": "005400022",
       "name": "Kolin(CZ)",
-      "coordinates": {
-        "lat": "50.025437",
-        "lon": "15.214278"
-      }
+      "lat": "50.025437",
+      "lon": "15.214278"
     },
     {
       "id": "008000068",
       "name": "Darmstadt Hbf",
-      "coordinates": {
-        "lat": "49.872503",
-        "lon": "8.629635"
-      }
+      "lat": "49.872503",
+      "lon": "8.629635"
     },
     {
       "id": "008000085",
       "name": "D\u00fcsseldorf Hbf",
-      "coordinates": {
-        "lat": "51.219960",
-        "lon": "6.794316"
-      }
+      "lat": "51.219960",
+      "lon": "6.794316"
     },
     {
       "id": "008000080",
       "name": "Dortmund Hbf",
-      "coordinates": {
-        "lat": "51.517898",
-        "lon": "7.459293"
-      }
+      "lat": "51.517898",
+      "lon": "7.459293"
     },
     {
       "id": "008000086",
       "name": "Duisburg Hbf",
-      "coordinates": {
-        "lat": "51.429786",
-        "lon": "6.775906"
-      }
+      "lat": "51.429786",
+      "lon": "6.775906"
     },
     {
       "id": "008000082",
       "name": "D\u00fcsseldorf Flughafen",
-      "coordinates": {
-        "lat": "51.292008",
-        "lon": "6.786837"
-      }
+      "lat": "51.292008",
+      "lon": "6.786837"
     },
     {
       "id": "008096014",
       "name": "D\u00dcSSELDORF FLUGHAFEN (DUS)",
-      "coordinates": {
-        "lat": "51.277706",
-        "lon": "6.767286"
-      }
+      "lat": "51.277706",
+      "lon": "6.767286"
     },
     {
       "id": "008010085",
       "name": "Dresden Hbf",
-      "coordinates": {
-        "lat": "51.040562",
-        "lon": "13.732038"
-      }
+      "lat": "51.040562",
+      "lon": "13.732038"
     },
     {
       "id": "008010077",
       "name": "Dessau Hbf",
-      "coordinates": {
-        "lat": "51.839865",
-        "lon": "12.234948"
-      }
+      "lat": "51.839865",
+      "lon": "12.234948"
     },
     {
       "id": "008000070",
       "name": "Delmenhorst",
-      "coordinates": {
-        "lat": "53.052788",
-        "lon": "8.629761"
-      }
+      "lat": "53.052788",
+      "lon": "8.629761"
     },
     {
       "id": "008010089",
       "name": "Dresden-Neustadt",
-      "coordinates": {
-        "lat": "51.065902",
-        "lon": "13.740704"
-      }
+      "lat": "51.065902",
+      "lon": "13.740704"
     },
     {
       "id": "008000078",
       "name": "Donauw\u00f6rth",
-      "coordinates": {
-        "lat": "48.714028",
-        "lon": "10.771441"
-      }
+      "lat": "48.714028",
+      "lon": "10.771441"
     },
     {
       "id": "008001443",
       "name": "Diepholz",
-      "coordinates": {
-        "lat": "52.604775",
-        "lon": "8.380337"
-      }
+      "lat": "52.604775",
+      "lon": "8.380337"
     },
     {
       "id": "008000084",
       "name": "D\u00fcren",
-      "coordinates": {
-        "lat": "50.809512",
-        "lon": "6.482454"
-      }
+      "lat": "50.809512",
+      "lon": "6.482454"
     },
     {
       "id": "008000077",
       "name": "Donaueschingen",
-      "coordinates": {
-        "lat": "47.947787",
-        "lon": "8.498923"
-      }
+      "lat": "47.947787",
+      "lon": "8.498923"
     },
     {
       "id": "005100009",
       "name": "Danzig Hbf",
-      "coordinates": {
-        "lat": "54.355523",
-        "lon": "18.643807"
-      }
+      "lat": "54.355523",
+      "lon": "18.643807"
     },
     {
       "id": "005100075",
       "name": "Deutsch Eylau Hbf",
-      "coordinates": {
-        "lat": "53.582253",
-        "lon": "19.573849"
-      }
+      "lat": "53.582253",
+      "lon": "19.573849"
     },
     {
       "id": "008400173",
       "name": "Deventer",
-      "coordinates": {
-        "lat": "52.257432",
-        "lon": "6.160505"
-      }
+      "lat": "52.257432",
+      "lon": "6.160505"
     },
     {
       "id": "008100098",
       "name": "Dorfgastein",
-      "coordinates": {
-        "lat": "47.238673",
-        "lon": "13.103063"
-      }
+      "lat": "47.238673",
+      "lon": "13.103063"
     },
     {
       "id": "008300106",
       "name": "Desenzano del Garda\/Sirmione",
-      "coordinates": {
-        "lat": "45.462665",
-        "lon": "10.536274"
-      }
+      "lat": "45.462665",
+      "lon": "10.536274"
     },
     {
       "id": "007900017",
       "name": "Dobova",
-      "coordinates": {
-        "lat": "45.898804",
-        "lon": "15.654552"
-      }
+      "lat": "45.898804",
+      "lon": "15.654552"
     },
     {
       "id": "005196007",
       "name": "DANZIG",
-      "coordinates": {
-        "lat": "54.365842",
-        "lon": "18.643960"
-      }
+      "lat": "54.365842",
+      "lon": "18.643960"
     },
     {
       "id": "005100061",
       "name": "Dirschau",
-      "coordinates": {
-        "lat": "54.097317",
-        "lon": "18.790151"
-      }
+      "lat": "54.097317",
+      "lon": "18.790151"
     },
     {
       "id": "008100122",
       "name": "Dornbirn",
-      "coordinates": {
-        "lat": "47.417693",
-        "lon": "9.738805"
-      }
+      "lat": "47.417693",
+      "lon": "9.738805"
     },
     {
       "id": "008270360",
       "name": "Drauffelt",
-      "coordinates": {
-        "lat": "50.014875",
-        "lon": "6.006619"
-      }
+      "lat": "50.014875",
+      "lon": "6.006619"
     },
     {
       "id": "008000261",
       "name": "Monaco di Baviera",
-      "coordinates": {
-        "lat": "48.140228",
-        "lon": "11.558338"
-      }
+      "lat": "48.140228",
+      "lon": "11.558338"
     },
     {
       "id": "008300180",
       "name": "Firenze Campo di Marte",
-      "coordinates": {
-        "lat": "43.777574",
-        "lon": "11.276590"
-      }
+      "lat": "43.777574",
+      "lon": "11.276590"
     },
     {
       "id": "008300116",
       "name": "S. Don\u00e0 di Piave-Jesolo",
-      "coordinates": {
-        "lat": "45.639762",
-        "lon": "12.559908"
-      }
+      "lat": "45.639762",
+      "lon": "12.559908"
     },
     {
       "id": "008300117",
       "name": "S.Giorgio di Nogaro",
-      "coordinates": {
-        "lat": "45.829236",
-        "lon": "13.209900"
-      }
+      "lat": "45.829236",
+      "lon": "13.209900"
     },
     {
       "id": "008300638",
       "name": "S.Stino di Livenza",
-      "coordinates": {
-        "lat": "45.721006",
-        "lon": "12.681999"
-      }
+      "lat": "45.721006",
+      "lon": "12.681999"
     },
     {
       "id": "008010097",
       "name": "Eisenach",
-      "coordinates": {
-        "lat": "50.976918",
-        "lon": "10.331985"
-      }
+      "lat": "50.976918",
+      "lon": "10.331985"
     },
     {
       "id": "008000098",
       "name": "Essen Hbf",
-      "coordinates": {
-        "lat": "51.451351",
-        "lon": "7.014795"
-      }
+      "lat": "51.451351",
+      "lon": "7.014795"
     },
     {
       "id": "008010101",
       "name": "Erfurt Hbf",
-      "coordinates": {
-        "lat": "50.972549",
-        "lon": "11.038501"
-      }
+      "lat": "50.972549",
+      "lon": "11.038501"
     },
     {
       "id": "008001844",
       "name": "Erlangen",
-      "coordinates": {
-        "lat": "49.595896",
-        "lon": "11.001906"
-      }
+      "lat": "49.595896",
+      "lon": "11.001906"
     },
     {
       "id": "008010093",
       "name": "Eberswalde Hbf",
-      "coordinates": {
-        "lat": "52.834018",
-        "lon": "13.797057"
-      }
+      "lat": "52.834018",
+      "lon": "13.797057"
     },
     {
       "id": "008001768",
       "name": "Emden Hbf",
-      "coordinates": {
-        "lat": "53.369038",
-        "lon": "7.195172"
-      }
+      "lat": "53.369038",
+      "lon": "7.195172"
     },
     {
       "id": "008001751",
       "name": "Ellwangen",
-      "coordinates": {
-        "lat": "48.964117",
-        "lon": "10.129683"
-      }
+      "lat": "48.964117",
+      "lon": "10.129683"
     },
     {
       "id": "008001787",
       "name": "Endorf Bad",
-      "coordinates": {
-        "lat": "47.905061",
-        "lon": "12.301558"
-      }
+      "lat": "47.905061",
+      "lon": "12.301558"
     },
     {
       "id": "008000093",
       "name": "Elze(Han)",
-      "coordinates": {
-        "lat": "52.120148",
-        "lon": "9.746895"
-      }
+      "lat": "52.120148",
+      "lon": "9.746895"
     },
     {
       "id": "008001767",
       "name": "Emden Au\u00dfenhafen",
-      "coordinates": {
-        "lat": "53.344470",
-        "lon": "7.186174"
-      }
+      "lat": "53.344470",
+      "lon": "7.186174"
     },
     {
       "id": "008001763",
       "name": "Eltville",
-      "coordinates": {
-        "lat": "50.027558",
-        "lon": "8.121529"
-      }
+      "lat": "50.027558",
+      "lon": "8.121529"
     },
     {
       "id": "008001920",
       "name": "Esslingen(Neckar)",
-      "coordinates": {
-        "lat": "48.738811",
-        "lon": "9.300077"
-      }
+      "lat": "48.738811",
+      "lon": "9.300077"
     },
     {
       "id": "008200120",
       "name": "Ettelbruck",
-      "coordinates": {
-        "lat": "49.847442",
-        "lon": "6.106830"
-      }
+      "lat": "49.847442",
+      "lon": "6.106830"
     },
     {
       "id": "008300521",
       "name": "Euganee-Abano-Monteg",
-      "coordinates": {
-        "lat": "45.327378",
-        "lon": "11.796436"
-      }
+      "lat": "45.327378",
+      "lon": "11.796436"
     },
     {
       "id": "008704980",
       "name": "Aix-en-Provence TGV",
-      "coordinates": {
-        "lat": "43.455167",
-        "lon": "5.317227"
-      }
+      "lat": "43.455167",
+      "lon": "5.317227"
     },
     {
       "id": "008000107",
       "name": "Freiburg(Breisgau) Hbf",
-      "coordinates": {
-        "lat": "47.997695",
-        "lon": "7.841173"
-      }
+      "lat": "47.997695",
+      "lon": "7.841173"
     },
     {
       "id": "008000105",
       "name": "Frankfurt(Main)Hbf",
-      "coordinates": {
-        "lat": "50.107149",
-        "lon": "8.663785"
-      }
+      "lat": "50.107149",
+      "lon": "8.663785"
     },
     {
       "id": "008000281",
       "name": "Frankfurt(M)Flughafen",
-      "coordinates": {
-        "lat": "50.051209",
-        "lon": "8.570971"
-      }
+      "lat": "50.051209",
+      "lon": "8.570971"
     },
     {
       "id": "008096021",
       "name": "FRANKFURT(MAIN)",
-      "coordinates": {
-        "lat": "50.107149",
-        "lon": "8.663785"
-      }
+      "lat": "50.107149",
+      "lon": "8.663785"
     },
     {
       "id": "008070003",
       "name": "Frankfurt(M) Flughafen Fernbf",
-      "coordinates": {
-        "lat": "50.053169",
-        "lon": "8.570180"
-      }
+      "lat": "50.053169",
+      "lon": "8.570180"
     },
     {
       "id": "008000115",
       "name": "Fulda",
-      "coordinates": {
-        "lat": "50.554722",
-        "lon": "9.683980"
-      }
+      "lat": "50.554722",
+      "lon": "9.683980"
     },
     {
       "id": "008096014",
       "name": "Flughafen D\u00fcsseldorf",
-      "coordinates": {
-        "lat": "51.277706",
-        "lon": "6.767286"
-      }
+      "lat": "51.277706",
+      "lon": "6.767286"
     },
     {
       "id": "008002041",
       "name": "Frankfurt(Main)S\u00fcd",
-      "coordinates": {
-        "lat": "50.099364",
-        "lon": "8.686456"
-      }
+      "lat": "50.099364",
+      "lon": "8.686456"
     },
     {
       "id": "008000114",
       "name": "F\u00fcrth(Bay)Hbf",
-      "coordinates": {
-        "lat": "49.469706",
-        "lon": "10.989987"
-      }
+      "lat": "49.469706",
+      "lon": "10.989987"
     },
     {
       "id": "008000108",
       "name": "Freilassing",
-      "coordinates": {
-        "lat": "47.836914",
-        "lon": "12.977196"
-      }
+      "lat": "47.836914",
+      "lon": "12.977196"
     },
     {
       "id": "008000111",
       "name": "Friedberg(Hess)",
-      "coordinates": {
-        "lat": "50.332607",
-        "lon": "8.762055"
-      }
+      "lat": "50.332607",
+      "lon": "8.762055"
     },
     {
       "id": "008000103",
       "name": "Flensburg",
-      "coordinates": {
-        "lat": "54.774043",
-        "lon": "9.436525"
-      }
+      "lat": "54.774043",
+      "lon": "9.436525"
     },
     {
       "id": "008003330",
       "name": "Flughafen K\u00f6ln\/Bonn",
-      "coordinates": {
-        "lat": "50.878900",
-        "lon": "7.119303"
-      }
+      "lat": "50.878900",
+      "lon": "7.119303"
     },
     {
       "id": "008002042",
       "name": "Frankfurt(Main)West",
-      "coordinates": {
-        "lat": "50.118862",
-        "lon": "8.639334"
-      }
+      "lat": "50.118862",
+      "lon": "8.639334"
     },
     {
       "id": "008010113",
       "name": "Frankfurt(Oder)",
-      "coordinates": {
-        "lat": "52.336420",
-        "lon": "14.546497"
-      }
+      "lat": "52.336420",
+      "lon": "14.546497"
     },
     {
       "id": "008001995",
       "name": "Fischen",
-      "coordinates": {
-        "lat": "47.456590",
-        "lon": "10.271712"
-      }
+      "lat": "47.456590",
+      "lon": "10.271712"
     },
     {
       "id": "008070004",
       "name": "Frankfurt(M) Flughafen Regionalbf",
-      "coordinates": {
-        "lat": "50.051218",
-        "lon": "8.571250"
-      }
+      "lat": "50.051218",
+      "lon": "8.571250"
     },
     {
       "id": "008010103",
       "name": "Falkenberg(Elster)",
-      "coordinates": {
-        "lat": "51.583618",
-        "lon": "13.247681"
-      }
+      "lat": "51.583618",
+      "lon": "13.247681"
     },
     {
       "id": "008001274",
       "name": "Fehmarn-Burg",
-      "coordinates": {
-        "lat": "54.443590",
-        "lon": "11.188981"
-      }
+      "lat": "54.443590",
+      "lon": "11.188981"
     },
     {
       "id": "008000112",
       "name": "Friedrichshafen Stadt",
-      "coordinates": {
-        "lat": "47.653220",
-        "lon": "9.473902"
-      }
+      "lat": "47.653220",
+      "lon": "9.473902"
     },
     {
       "id": "008002159",
       "name": "Furth i Wald",
-      "coordinates": {
-        "lat": "49.309815",
-        "lon": "12.838807"
-      }
+      "lat": "49.309815",
+      "lon": "12.838807"
     },
     {
       "id": "008600623",
       "name": "Fredericia st",
-      "coordinates": {
-        "lat": "55.568087",
-        "lon": "9.738814"
-      }
+      "lat": "55.568087",
+      "lon": "9.738814"
     },
     {
       "id": "008700271",
       "name": "Forbach(F)",
-      "coordinates": {
-        "lat": "49.189215",
-        "lon": "6.900254"
-      }
+      "lat": "49.189215",
+      "lon": "6.900254"
     },
     {
       "id": "008300089",
       "name": "Fortezza\/Franzensfeste",
-      "coordinates": {
-        "lat": "46.788718",
-        "lon": "11.610080"
-      }
+      "lat": "46.788718",
+      "lon": "11.610080"
     },
     {
       "id": "008100197",
       "name": "Feldkirch",
-      "coordinates": {
-        "lat": "47.240974",
-        "lon": "9.604102"
-      }
+      "lat": "47.240974",
+      "lon": "9.604102"
     },
     {
       "id": "008100353",
       "name": "Flughafen Wien",
-      "coordinates": {
-        "lat": "48.120901",
-        "lon": "16.563074"
-      }
+      "lat": "48.120901",
+      "lon": "16.563074"
     },
     {
       "id": "008100053",
       "name": "Fieberbrunn",
-      "coordinates": {
-        "lat": "47.491135",
-        "lon": "12.528940"
-      }
+      "lat": "47.491135",
+      "lon": "12.528940"
     },
     {
       "id": "008300209",
       "name": "Ferrara",
-      "coordinates": {
-        "lat": "44.843120",
-        "lon": "11.603833"
-      }
+      "lat": "44.843120",
+      "lon": "11.603833"
     },
     {
       "id": "008396001",
       "name": "FIRENZE",
-      "coordinates": {
-        "lat": "43.765834",
-        "lon": "11.249928"
-      }
+      "lat": "43.765834",
+      "lon": "11.249928"
     },
     {
       "id": "008300151",
       "name": "Firenze S.M.N.",
-      "coordinates": {
-        "lat": "43.776810",
-        "lon": "11.247806"
-      }
+      "lat": "43.776810",
+      "lon": "11.247806"
     },
     {
       "id": "008300180",
       "name": "Firenze Campo di Marte",
-      "coordinates": {
-        "lat": "43.777574",
-        "lon": "11.276590"
-      }
+      "lat": "43.777574",
+      "lon": "11.276590"
     },
     {
       "id": "008300497",
       "name": "Firenze Rifredi",
-      "coordinates": {
-        "lat": "43.800137",
-        "lon": "11.236408"
-      }
+      "lat": "43.800137",
+      "lon": "11.236408"
     },
     {
       "id": "008010136",
       "name": "Gotha Hbf",
-      "coordinates": {
-        "lat": "50.939074",
-        "lon": "10.712570"
-      }
+      "lat": "50.939074",
+      "lon": "10.712570"
     },
     {
       "id": "008000128",
       "name": "G\u00f6ttingen",
-      "coordinates": {
-        "lat": "51.536811",
-        "lon": "9.926068"
-      }
+      "lat": "51.536811",
+      "lon": "9.926068"
     },
     {
       "id": "008002461",
       "name": "G\u00fctersloh Hbf",
-      "coordinates": {
-        "lat": "51.906942",
-        "lon": "8.385074"
-      }
+      "lat": "51.906942",
+      "lon": "8.385074"
     },
     {
       "id": "008000118",
       "name": "Gelsenkirchen Hbf",
-      "coordinates": {
-        "lat": "51.504900",
-        "lon": "7.102458"
-      }
+      "lat": "51.504900",
+      "lon": "7.102458"
     },
     {
       "id": "008000139",
       "name": "G\u00fcnzburg",
-      "coordinates": {
-        "lat": "48.460334",
-        "lon": "10.278652"
-      }
+      "lat": "48.460334",
+      "lon": "10.278652"
     },
     {
       "id": "008000124",
       "name": "Gie\u00dfen",
-      "coordinates": {
-        "lat": "50.579056",
-        "lon": "8.661466"
-      }
+      "lat": "50.579056",
+      "lon": "8.661466"
     },
     {
       "id": "008010139",
       "name": "Greifswald",
-      "coordinates": {
-        "lat": "54.092921",
-        "lon": "13.370258"
-      }
+      "lat": "54.092921",
+      "lon": "13.370258"
     },
     {
       "id": "008000127",
       "name": "G\u00f6ppingen",
-      "coordinates": {
-        "lat": "48.700022",
-        "lon": "9.651969"
-      }
+      "lat": "48.700022",
+      "lon": "9.651969"
     },
     {
       "id": "008000329",
       "name": "Schw\u00e4bisch Gm\u00fcnd",
-      "coordinates": {
-        "lat": "48.801007",
-        "lon": "9.787796"
-      }
+      "lat": "48.801007",
+      "lon": "9.787796"
     },
     {
       "id": "008002218",
       "name": "Geislingen(Steige)",
-      "coordinates": {
-        "lat": "48.619353",
-        "lon": "9.841938"
-      }
+      "lat": "48.619353",
+      "lon": "9.841938"
     },
     {
       "id": "008002187",
       "name": "Garmisch-Partenkirchen",
-      "coordinates": {
-        "lat": "47.491450",
-        "lon": "11.097012"
-      }
+      "lat": "47.491450",
+      "lon": "11.097012"
     },
     {
       "id": "008000091",
       "name": "Gallmersgarten-Steinach(b Rothenburg o Tauber)",
-      "coordinates": {
-        "lat": "49.453220",
-        "lon": "10.273537"
-      }
+      "lat": "49.453220",
+      "lon": "10.273537"
     },
     {
       "id": "008000385",
       "name": "Gunzenhausen",
-      "coordinates": {
-        "lat": "49.120448",
-        "lon": "10.755467"
-      }
+      "lat": "49.120448",
+      "lon": "10.755467"
     },
     {
       "id": "008002206",
       "name": "Geilenkirchen",
-      "coordinates": {
-        "lat": "50.961034",
-        "lon": "6.124521"
-      }
+      "lat": "50.961034",
+      "lon": "6.124521"
     },
     {
       "id": "008000119",
       "name": "Geltendorf",
-      "coordinates": {
-        "lat": "48.105773",
-        "lon": "11.037737"
-      }
+      "lat": "48.105773",
+      "lon": "11.037737"
     },
     {
       "id": "008005644",
       "name": "Georgen(Schwarzw) St",
-      "coordinates": {
-        "lat": "48.123814",
-        "lon": "8.341953"
-      }
+      "lat": "48.123814",
+      "lon": "8.341953"
     },
     {
       "id": "008100173",
       "name": "Graz Hbf",
-      "coordinates": {
-        "lat": "47.072301",
-        "lon": "15.416437"
-      }
+      "lat": "47.072301",
+      "lon": "15.416437"
     },
     {
       "id": "005500080",
       "name": "Gy\u00f6r",
-      "coordinates": {
-        "lat": "47.681985",
-        "lon": "17.634795"
-      }
+      "lat": "47.681985",
+      "lon": "17.634795"
     },
     {
       "id": "008100095",
       "name": "Gastein Bad",
-      "coordinates": {
-        "lat": "47.111745",
-        "lon": "13.131999"
-      }
+      "lat": "47.111745",
+      "lon": "13.131999"
     },
     {
       "id": "008100041",
       "name": "Golling-Abtenau",
-      "coordinates": {
-        "lat": "47.600579",
-        "lon": "13.164082"
-      }
+      "lat": "47.600579",
+      "lon": "13.164082"
     },
     {
       "id": "008506302",
       "name": "Gallen St",
-      "coordinates": {
-        "lat": "47.423276",
-        "lon": "9.369303"
-      }
+      "lat": "47.423276",
+      "lon": "9.369303"
     },
     {
       "id": "008506210",
       "name": "Gossau SG",
-      "coordinates": {
-        "lat": "47.411635",
-        "lon": "9.253504"
-      }
+      "lat": "47.411635",
+      "lon": "9.253504"
     },
     {
       "id": "005100013",
       "name": "Gniezno",
-      "coordinates": {
-        "lat": "52.529652",
-        "lon": "17.602182"
-      }
+      "lat": "52.529652",
+      "lon": "17.602182"
     },
     {
       "id": "008400263",
       "name": "Groningen",
-      "coordinates": {
-        "lat": "53.210684",
-        "lon": "6.564273"
-      }
+      "lat": "53.210684",
+      "lon": "6.564273"
     },
     {
       "id": "005196007",
       "name": "GDANSK",
-      "coordinates": {
-        "lat": "54.365842",
-        "lon": "18.643960"
-      }
+      "lat": "54.365842",
+      "lon": "18.643960"
     },
     {
       "id": "005100009",
       "name": "Gdansk Glowny",
-      "coordinates": {
-        "lat": "54.355523",
-        "lon": "18.643807"
-      }
+      "lat": "54.355523",
+      "lon": "18.643807"
     },
     {
       "id": "005101104",
       "name": "Gdansk Oliwa",
-      "coordinates": {
-        "lat": "54.409890",
-        "lon": "18.571740"
-      }
+      "lat": "54.409890",
+      "lon": "18.571740"
     },
     {
       "id": "005101307",
       "name": "Gdansk Wrzeszcz",
-      "coordinates": {
-        "lat": "54.381861",
-        "lon": "18.605432"
-      }
+      "lat": "54.381861",
+      "lon": "18.605432"
     },
     {
       "id": "005196006",
       "name": "GDYNIA",
-      "coordinates": {
-        "lat": "54.541528",
-        "lon": "18.473551"
-      }
+      "lat": "54.541528",
+      "lon": "18.473551"
     },
     {
       "id": "005100010",
       "name": "Gdynia Glowna",
-      "coordinates": {
-        "lat": "54.520843",
-        "lon": "18.529554"
-      }
+      "lat": "54.520843",
+      "lon": "18.529554"
     },
     {
       "id": "008300090",
       "name": "Gemona del Friuli",
-      "coordinates": {
-        "lat": "46.272090",
-        "lon": "13.127576"
-      }
+      "lat": "46.272090",
+      "lon": "13.127576"
     },
     {
       "id": "008300117",
       "name": "Giorgio di Nogaro S",
-      "coordinates": {
-        "lat": "45.829236",
-        "lon": "13.209900"
-      }
+      "lat": "45.829236",
+      "lon": "13.209900"
     },
     {
       "id": "008270480",
       "name": "Goebelsm\u00fchle",
-      "coordinates": {
-        "lat": "49.920641",
-        "lon": "6.054828"
-      }
+      "lat": "49.920641",
+      "lon": "6.054828"
     },
     {
       "id": "000958389",
       "name": "Goethestra\u00dfe, Leipzig",
-      "coordinates": {
-        "lat": "51.341170",
-        "lon": "12.380699"
-      }
+      "lat": "51.341170",
+      "lon": "12.380699"
     },
     {
       "id": "008300096",
       "name": "Gorizia Centrale",
-      "coordinates": {
-        "lat": "45.933305",
-        "lon": "13.606935"
-      }
+      "lat": "45.933305",
+      "lon": "13.606935"
     },
     {
       "id": "008400258",
       "name": "Gouda",
-      "coordinates": {
-        "lat": "52.017348",
-        "lon": "4.706131"
-      }
+      "lat": "52.017348",
+      "lon": "4.706131"
     },
     {
       "id": "008800060",
       "name": "Gouvy",
-      "coordinates": {
-        "lat": "50.189724",
-        "lon": "5.953735"
-      }
+      "lat": "50.189724",
+      "lon": "5.953735"
     },
     {
       "id": "008100147",
       "name": "Beljak gl.kol.",
-      "coordinates": {
-        "lat": "46.618624",
-        "lon": "13.848538"
-      }
+      "lat": "46.618624",
+      "lon": "13.848538"
     },
     {
       "id": "008100085",
       "name": "Celovec gl.kol.",
-      "coordinates": {
-        "lat": "46.615586",
-        "lon": "14.313568"
-      }
+      "lat": "46.615586",
+      "lon": "14.313568"
     },
     {
       "id": "005100081",
       "name": "Poznan Gl.",
-      "coordinates": {
-        "lat": "52.401996",
-        "lon": "16.910866"
-      }
+      "lat": "52.401996",
+      "lon": "16.910866"
     },
     {
       "id": "008000142",
       "name": "Hagen Hbf",
-      "coordinates": {
-        "lat": "51.362744",
-        "lon": "7.460246"
-      }
+      "lat": "51.362744",
+      "lon": "7.460246"
     },
     {
       "id": "008000050",
       "name": "Bremen Hbf",
-      "coordinates": {
-        "lat": "53.083477",
-        "lon": "8.813833"
-      }
+      "lat": "53.083477",
+      "lon": "8.813833"
     },
     {
       "id": "008503000",
       "name": "Z\u00fcrich HB",
-      "coordinates": {
-        "lat": "47.378186",
-        "lon": "8.539203"
-      }
+      "lat": "47.378186",
+      "lon": "8.539203"
     },
     {
       "id": "008000152",
       "name": "Hannover Hbf",
-      "coordinates": {
-        "lat": "52.376763",
-        "lon": "9.741016"
-      }
+      "lat": "52.376763",
+      "lon": "9.741016"
     },
     {
       "id": "008002549",
       "name": "Hamburg Hbf",
-      "coordinates": {
-        "lat": "53.552732",
-        "lon": "10.006908"
-      }
+      "lat": "53.552732",
+      "lon": "10.006908"
     },
     {
       "id": "008000150",
       "name": "Hanau Hbf",
-      "coordinates": {
-        "lat": "50.120956",
-        "lon": "8.929003"
-      }
+      "lat": "50.120956",
+      "lon": "8.929003"
     },
     {
       "id": "008000169",
       "name": "Hildesheim Hbf",
-      "coordinates": {
-        "lat": "52.160627",
-        "lon": "9.953494"
-      }
+      "lat": "52.160627",
+      "lon": "9.953494"
     },
     {
       "id": "008096009",
       "name": "HAMBURG",
-      "coordinates": {
-        "lat": "53.557110",
-        "lon": "9.997434"
-      }
+      "lat": "53.557110",
+      "lon": "9.997434"
     },
     {
       "id": "008002553",
       "name": "Hamburg-Altona",
-      "coordinates": {
-        "lat": "53.552696",
-        "lon": "9.935174"
-      }
+      "lat": "53.552696",
+      "lon": "9.935174"
     },
     {
       "id": "008002548",
       "name": "Hamburg Dammtor",
-      "coordinates": {
-        "lat": "53.560751",
-        "lon": "9.989568"
-      }
+      "lat": "53.560751",
+      "lon": "9.989568"
     },
     {
       "id": "008000147",
       "name": "Hamburg-Harburg",
-      "coordinates": {
-        "lat": "53.455909",
-        "lon": "9.991698"
-      }
+      "lat": "53.455909",
+      "lon": "9.991698"
     },
     {
       "id": "008000149",
       "name": "Hamm(Westf)",
-      "coordinates": {
-        "lat": "51.678077",
-        "lon": "7.807823"
-      }
+      "lat": "51.678077",
+      "lon": "7.807823"
     },
     {
       "id": "008000020",
       "name": "Bad Hersfeld",
-      "coordinates": {
-        "lat": "50.869632",
-        "lon": "9.716179"
-      }
+      "lat": "50.869632",
+      "lon": "9.716179"
     },
     {
       "id": "008000156",
       "name": "Heidelberg Hbf",
-      "coordinates": {
-        "lat": "49.403563",
-        "lon": "8.675444"
-      }
+      "lat": "49.403563",
+      "lon": "8.675444"
     },
     {
       "id": "008010159",
       "name": "Halle(Saale)Hbf",
-      "coordinates": {
-        "lat": "51.477509",
-        "lon": "11.987088"
-      }
+      "lat": "51.477509",
+      "lon": "11.987088"
     },
     {
       "id": "008000192",
       "name": "Herne-WanneEickelHbf",
-      "coordinates": {
-        "lat": "51.531256",
-        "lon": "7.165787"
-      }
+      "lat": "51.531256",
+      "lon": "7.165787"
     },
     {
       "id": "008000176",
       "name": "Homburg(Saar)Hbf",
-      "coordinates": {
-        "lat": "49.328081",
-        "lon": "7.337031"
-      }
+      "lat": "49.328081",
+      "lon": "7.337031"
     },
     {
       "id": "008000162",
       "name": "Herford",
-      "coordinates": {
-        "lat": "52.119609",
-        "lon": "8.663641"
-      }
+      "lat": "52.119609",
+      "lon": "8.663641"
     },
     {
       "id": "008010338",
       "name": "Stralsund Hbf",
-      "coordinates": {
-        "lat": "54.308626",
-        "lon": "13.077318"
-      }
+      "lat": "54.308626",
+      "lon": "13.077318"
     },
     {
       "id": "008000237",
       "name": "L\u00fcbeck Hbf",
-      "coordinates": {
-        "lat": "53.867543",
-        "lon": "10.669818"
-      }
+      "lat": "53.867543",
+      "lon": "10.669818"
     },
     {
       "id": "008010304",
       "name": "Rostock Hbf",
-      "coordinates": {
-        "lat": "54.078242",
-        "lon": "12.131077"
-      }
+      "lat": "54.078242",
+      "lon": "12.131077"
     },
     {
       "id": "008000177",
       "name": "Horb",
-      "coordinates": {
-        "lat": "48.441475",
-        "lon": "8.688982"
-      }
+      "lat": "48.441475",
+      "lon": "8.688982"
     },
     {
       "id": "008000159",
       "name": "Helmstedt",
-      "coordinates": {
-        "lat": "52.222086",
-        "lon": "11.010554"
-      }
+      "lat": "52.222086",
+      "lon": "11.010554"
     },
     {
       "id": "008000522",
       "name": "Hude",
-      "coordinates": {
-        "lat": "53.109429",
-        "lon": "8.460952"
-      }
+      "lat": "53.109429",
+      "lon": "8.460952"
     },
     {
       "id": "008002554",
       "name": "Hamburg-Bergedorf",
-      "coordinates": {
-        "lat": "53.489835",
-        "lon": "10.206172"
-      }
+      "lat": "53.489835",
+      "lon": "10.206172"
     },
     {
       "id": "008000155",
       "name": "Heide(Holst)",
-      "coordinates": {
-        "lat": "54.193564",
-        "lon": "9.101029"
-      }
+      "lat": "54.193564",
+      "lon": "9.101029"
     },
     {
       "id": "008000181",
       "name": "Husum",
-      "coordinates": {
-        "lat": "54.472275",
-        "lon": "9.055022"
-      }
+      "lat": "54.472275",
+      "lon": "9.055022"
     },
     {
       "id": "008096012",
       "name": "HANNOVER MESSE",
-      "coordinates": {
-        "lat": "52.323161",
-        "lon": "9.798206"
-      }
+      "lat": "52.323161",
+      "lon": "9.798206"
     },
     {
       "id": "008003487",
       "name": "Hannover Messe\/Laatzen",
-      "coordinates": {
-        "lat": "52.316895",
-        "lon": "9.792866"
-      }
+      "lat": "52.316895",
+      "lon": "9.792866"
     },
     {
       "id": "008002570",
       "name": "Hammerau",
-      "coordinates": {
-        "lat": "47.795878",
-        "lon": "12.946129"
-      }
+      "lat": "47.795878",
+      "lon": "12.946129"
     },
     {
       "id": "008002504",
       "name": "Haffkrug",
-      "coordinates": {
-        "lat": "54.054186",
-        "lon": "10.742684"
-      }
+      "lat": "54.054186",
+      "lon": "10.742684"
     },
     {
       "id": "008000333",
       "name": "Hausach",
-      "coordinates": {
-        "lat": "48.284928",
-        "lon": "8.181666"
-      }
+      "lat": "48.284928",
+      "lon": "8.181666"
     },
     {
       "id": "008011849",
       "name": "Heilbad Heiligenstadt",
-      "coordinates": {
-        "lat": "51.377064",
-        "lon": "10.123849"
-      }
+      "lat": "51.377064",
+      "lon": "10.123849"
     },
     {
       "id": "008002757",
       "name": "Heppenheim(Bergstr)",
-      "coordinates": {
-        "lat": "49.641553",
-        "lon": "8.633374"
-      }
+      "lat": "49.641553",
+      "lon": "8.633374"
     },
     {
       "id": "008002806",
       "name": "Herzogenrath",
-      "coordinates": {
-        "lat": "50.870917",
-        "lon": "6.094488"
-      }
+      "lat": "50.870917",
+      "lon": "6.094488"
     },
     {
       "id": "008003001",
       "name": "Hornberg(Schwarzw)",
-      "coordinates": {
-        "lat": "48.211890",
-        "lon": "8.232941"
-      }
+      "lat": "48.211890",
+      "lon": "8.232941"
     },
     {
       "id": "008003016",
       "name": "H\u00fcnfeld",
-      "coordinates": {
-        "lat": "50.673272",
-        "lon": "9.762456"
-      }
+      "lat": "50.673272",
+      "lon": "9.762456"
     },
     {
       "id": "008400316",
       "name": "Hengelo",
-      "coordinates": {
-        "lat": "52.261854",
-        "lon": "6.793723"
-      }
+      "lat": "52.261854",
+      "lon": "6.793723"
     },
     {
       "id": "008400322",
       "name": "Hilversum",
-      "coordinates": {
-        "lat": "52.226670",
-        "lon": "5.181400"
-      }
+      "lat": "52.226670",
+      "lon": "5.181400"
     },
     {
       "id": "005500017",
       "name": "Hegyeshalom",
-      "coordinates": {
-        "lat": "47.913502",
-        "lon": "17.147022"
-      }
+      "lat": "47.913502",
+      "lon": "17.147022"
     },
     {
       "id": "008601031",
       "name": "Hoeje Taastrup st",
-      "coordinates": {
-        "lat": "55.648621",
-        "lon": "12.268801"
-      }
+      "lat": "55.648621",
+      "lon": "12.268801"
     },
     {
       "id": "008100097",
       "name": "Hofgastein Bad",
-      "coordinates": {
-        "lat": "47.195714",
-        "lon": "13.100941"
-      }
+      "lat": "47.195714",
+      "lon": "13.100941"
     },
     {
       "id": "008100040",
       "name": "Hallein",
-      "coordinates": {
-        "lat": "47.685167",
-        "lon": "13.099431"
-      }
+      "lat": "47.685167",
+      "lon": "13.099431"
     },
     {
       "id": "008601089",
       "name": "Horsens st",
-      "coordinates": {
-        "lat": "55.862789",
-        "lon": "9.835502"
-      }
+      "lat": "55.862789",
+      "lon": "9.835502"
     },
     {
       "id": "008600929",
       "name": "Hedehusene st",
-      "coordinates": {
-        "lat": "55.648576",
-        "lon": "12.198182"
-      }
+      "lat": "55.648576",
+      "lon": "12.198182"
     },
     {
       "id": "008100052",
       "name": "Hochfilzen",
-      "coordinates": {
-        "lat": "47.467709",
-        "lon": "12.626527"
-      }
+      "lat": "47.467709",
+      "lon": "12.626527"
     },
     {
       "id": "008100059",
       "name": "Hopfgarten im Brixental",
-      "coordinates": {
-        "lat": "47.455349",
-        "lon": "12.149181"
-      }
+      "lat": "47.455349",
+      "lon": "12.149181"
     },
     {
       "id": "008400305",
       "name": "Heerenveen",
-      "coordinates": {
-        "lat": "52.960936",
-        "lon": "5.915153"
-      }
+      "lat": "52.960936",
+      "lon": "5.915153"
     },
     {
       "id": "008100013",
       "name": "Linec hl.n.",
-      "coordinates": {
-        "lat": "48.290177",
-        "lon": "14.292129"
-      }
+      "lat": "48.290177",
+      "lon": "14.292129"
     },
     {
       "id": "008103000",
       "name": "V\u00edden hl.n.",
-      "coordinates": {
-        "lat": "48.184923",
-        "lon": "16.375864"
-      }
+      "lat": "48.184923",
+      "lon": "16.375864"
     },
     {
       "id": "005400003",
       "name": "Decin hl.n.",
-      "coordinates": {
-        "lat": "50.773411",
-        "lon": "14.201248"
-      }
+      "lat": "50.773411",
+      "lon": "14.201248"
     },
     {
       "id": "005400014",
       "name": "Praha hl.n.",
-      "coordinates": {
-        "lat": "50.083058",
-        "lon": "14.436037"
-      }
+      "lat": "50.083058",
+      "lon": "14.436037"
     },
     {
       "id": "005400019",
       "name": "Usti nad Labem hl.n.",
-      "coordinates": {
-        "lat": "50.659563",
-        "lon": "14.044728"
-      }
+      "lat": "50.659563",
+      "lon": "14.044728"
     },
     {
       "id": "005600207",
       "name": "Bratislava hl.st.",
-      "coordinates": {
-        "lat": "48.158908",
-        "lon": "17.106463"
-      }
+      "lat": "48.158908",
+      "lon": "17.106463"
     },
     {
       "id": "005400001",
       "name": "Brno hl.n.",
-      "coordinates": {
-        "lat": "49.190537",
-        "lon": "16.612775"
-      }
+      "lat": "49.190537",
+      "lon": "16.612775"
     },
     {
       "id": "005400161",
       "name": "Pardubice hl.n.",
-      "coordinates": {
-        "lat": "50.031738",
-        "lon": "15.756211"
-      }
+      "lat": "50.031738",
+      "lon": "15.756211"
     },
     {
       "id": "005400012",
       "name": "Plzen hl.n.",
-      "coordinates": {
-        "lat": "49.743167",
-        "lon": "13.388246"
-      }
+      "lat": "49.743167",
+      "lon": "13.388246"
     },
     {
       "id": "008000183",
       "name": "Ingolstadt Hbf",
-      "coordinates": {
-        "lat": "48.744537",
-        "lon": "11.437335"
-      }
+      "lat": "48.744537",
+      "lon": "11.437335"
     },
     {
       "id": "008096004",
       "name": "Iena",
-      "coordinates": {
-        "lat": "50.924008",
-        "lon": "11.582726"
-      }
+      "lat": "50.924008",
+      "lon": "11.582726"
     },
     {
       "id": "008003065",
       "name": "Immenstadt",
-      "coordinates": {
-        "lat": "47.559201",
-        "lon": "10.214002"
-      }
+      "lat": "47.559201",
+      "lon": "10.214002"
     },
     {
       "id": "008003102",
       "name": "Itzehoe",
-      "coordinates": {
-        "lat": "53.923870",
-        "lon": "9.510290"
-      }
+      "lat": "53.923870",
+      "lon": "9.510290"
     },
     {
       "id": "008003036",
       "name": "Ibbenb\u00fcren",
-      "coordinates": {
-        "lat": "52.276866",
-        "lon": "7.721482"
-      }
+      "lat": "52.276866",
+      "lon": "7.721482"
     },
     {
       "id": "008000182",
       "name": "Immendingen",
-      "coordinates": {
-        "lat": "47.936002",
-        "lon": "8.729532"
-      }
+      "lat": "47.936002",
+      "lon": "8.729532"
     },
     {
       "id": "008100108",
       "name": "Innsbruck Hbf",
-      "coordinates": {
-        "lat": "47.263277",
-        "lon": "11.401000"
-      }
+      "lat": "47.263277",
+      "lon": "11.401000"
     },
     {
       "id": "008507492",
       "name": "Interlaken Ost",
-      "coordinates": {
-        "lat": "46.690691",
-        "lon": "7.868977"
-      }
+      "lat": "46.690691",
+      "lon": "7.868977"
     },
     {
       "id": "008507493",
       "name": "Interlaken West",
-      "coordinates": {
-        "lat": "46.682627",
-        "lon": "7.851439"
-      }
+      "lat": "46.682627",
+      "lon": "7.851439"
     },
     {
       "id": "008100062",
       "name": "Imst-Pitztal",
-      "coordinates": {
-        "lat": "47.219077",
-        "lon": "10.761669"
-      }
+      "lat": "47.219077",
+      "lon": "10.761669"
     },
     {
       "id": "007900029",
       "name": "Ilirska Bistrica",
-      "coordinates": {
-        "lat": "45.569358",
-        "lon": "14.236126"
-      }
+      "lat": "45.569358",
+      "lon": "14.236126"
     },
     {
       "id": "005100015",
       "name": "Inowroclaw",
-      "coordinates": {
-        "lat": "52.804947",
-        "lon": "18.244057"
-      }
+      "lat": "52.804947",
+      "lon": "18.244057"
     },
     {
       "id": "005100075",
       "name": "Ilawa Glowna",
-      "coordinates": {
-        "lat": "53.582253",
-        "lon": "19.573849"
-      }
+      "lat": "53.582253",
+      "lon": "19.573849"
     },
     {
       "id": "008300231",
       "name": "Isola della Scala",
-      "coordinates": {
-        "lat": "45.269316",
-        "lon": "11.013466"
-      }
+      "lat": "45.269316",
+      "lon": "11.013466"
     },
     {
       "id": "008002159",
       "name": "Furth im Wald",
-      "coordinates": {
-        "lat": "49.309815",
-        "lon": "12.838807"
-      }
+      "lat": "49.309815",
+      "lon": "12.838807"
     },
     {
       "id": "008100043",
       "name": "St. Johann im Pongau",
-      "coordinates": {
-        "lat": "47.348377",
-        "lon": "13.194960"
-      }
+      "lat": "47.348377",
+      "lon": "13.194960"
     },
     {
       "id": "008100366",
       "name": "Brixen im Thale",
-      "coordinates": {
-        "lat": "47.449227",
-        "lon": "12.260549"
-      }
+      "lat": "47.449227",
+      "lon": "12.260549"
     },
     {
       "id": "008100059",
       "name": "Hopfgarten im Brixental",
-      "coordinates": {
-        "lat": "47.455349",
-        "lon": "12.149181"
-      }
+      "lat": "47.455349",
+      "lon": "12.149181"
     },
     {
       "id": "008100071",
       "name": "St.Michael in Obersteiermark",
-      "coordinates": {
-        "lat": "47.346625",
-        "lon": "15.009189"
-      }
+      "lat": "47.346625",
+      "lon": "15.009189"
     },
     {
       "id": "008100113",
       "name": "Seefeld in Tirol",
-      "coordinates": {
-        "lat": "47.328727",
-        "lon": "11.189484"
-      }
+      "lat": "47.328727",
+      "lon": "11.189484"
     },
     {
       "id": "008100057",
       "name": "Kirchberg in Tirol",
-      "coordinates": {
-        "lat": "47.448922",
-        "lon": "12.309100"
-      }
+      "lat": "47.448922",
+      "lon": "12.309100"
     },
     {
       "id": "008100054",
       "name": "St. Johann in Tirol",
-      "coordinates": {
-        "lat": "47.519622",
-        "lon": "12.430778"
-      }
+      "lat": "47.519622",
+      "lon": "12.430778"
     },
     {
       "id": "008100058",
       "name": "Westendorf in Tirol",
-      "coordinates": {
-        "lat": "47.441110",
-        "lon": "12.222902"
-      }
+      "lat": "47.441110",
+      "lon": "12.222902"
     },
     {
       "id": "008302177",
       "name": "S.Pietro in Casale",
-      "coordinates": {
-        "lat": "44.697980",
-        "lon": "11.404830"
-      }
+      "lat": "44.697980",
+      "lon": "11.404830"
     },
     {
       "id": "008011956",
       "name": "Jena Paradies",
-      "coordinates": {
-        "lat": "50.924853",
-        "lon": "11.587464"
-      }
+      "lat": "50.924853",
+      "lon": "11.587464"
     },
     {
       "id": "008100102",
       "name": "Jenbach",
-      "coordinates": {
-        "lat": "47.388451",
-        "lon": "11.778457"
-      }
+      "lat": "47.388451",
+      "lon": "11.778457"
     },
     {
       "id": "007900001",
       "name": "Jesenice(SL)",
-      "coordinates": {
-        "lat": "46.436350",
-        "lon": "14.053304"
-      }
+      "lat": "46.436350",
+      "lon": "14.053304"
     },
     {
       "id": "008300116",
       "name": "Jesolo-S. Dona di Piave",
-      "coordinates": {
-        "lat": "45.639762",
-        "lon": "12.559908"
-      }
+      "lat": "45.639762",
+      "lon": "12.559908"
     },
     {
       "id": "008000191",
       "name": "Karlsruhe Hbf",
-      "coordinates": {
-        "lat": "48.993511",
-        "lon": "8.402181"
-      }
+      "lat": "48.993511",
+      "lon": "8.402181"
     },
     {
       "id": "008000207",
       "name": "K\u00f6ln Hbf",
-      "coordinates": {
-        "lat": "50.943029",
-        "lon": "6.958729"
-      }
+      "lat": "50.943029",
+      "lon": "6.958729"
     },
     {
       "id": "008096022",
       "name": "K\u00d6LN",
-      "coordinates": {
-        "lat": "50.941312",
-        "lon": "6.967206"
-      }
+      "lat": "50.941312",
+      "lon": "6.967206"
     },
     {
       "id": "008096023",
       "name": "KASSEL",
-      "coordinates": {
-        "lat": "51.315946",
-        "lon": "9.470378"
-      }
+      "lat": "51.315946",
+      "lon": "9.470378"
     },
     {
       "id": "008003200",
       "name": "Kassel-Wilhelmsh\u00f6he",
-      "coordinates": {
-        "lat": "51.313115",
-        "lon": "9.446898"
-      }
+      "lat": "51.313115",
+      "lon": "9.446898"
     },
     {
       "id": "008003368",
       "name": "K\u00f6ln Messe\/Deutz",
-      "coordinates": {
-        "lat": "50.940871",
-        "lon": "6.975000"
-      }
+      "lat": "50.940871",
+      "lon": "6.975000"
     },
     {
       "id": "008000206",
       "name": "Koblenz Hbf",
-      "coordinates": {
-        "lat": "50.350927",
-        "lon": "7.588342"
-      }
+      "lat": "50.350927",
+      "lon": "7.588342"
     },
     {
       "id": "008000199",
       "name": "Kiel Hbf",
-      "coordinates": {
-        "lat": "54.314982",
-        "lon": "10.131975"
-      }
+      "lat": "54.314982",
+      "lon": "10.131975"
     },
     {
       "id": "008000189",
       "name": "Kaiserslautern Hbf",
-      "coordinates": {
-        "lat": "49.436140",
-        "lon": "7.768711"
-      }
+      "lat": "49.436140",
+      "lon": "7.768711"
     },
     {
       "id": "008000197",
       "name": "Kempten(Allg\u00e4u)Hbf",
-      "coordinates": {
-        "lat": "47.711748",
-        "lon": "10.317611"
-      }
+      "lat": "47.711748",
+      "lon": "10.317611"
     },
     {
       "id": "008000211",
       "name": "Krefeld Hbf",
-      "coordinates": {
-        "lat": "51.325718",
-        "lon": "6.569883"
-      }
+      "lat": "51.325718",
+      "lon": "6.569883"
     },
     {
       "id": "008010195",
       "name": "K\u00f6then",
-      "coordinates": {
-        "lat": "51.751932",
-        "lon": "11.989353"
-      }
+      "lat": "51.751932",
+      "lon": "11.989353"
     },
     {
       "id": "008003330",
       "name": "K\u00f6ln\/Bonn Flughafen",
-      "coordinates": {
-        "lat": "50.878900",
-        "lon": "7.119303"
-      }
+      "lat": "50.878900",
+      "lon": "7.119303"
     },
     {
       "id": "008003184",
       "name": "Karlsruhe-Durlach",
-      "coordinates": {
-        "lat": "49.002330",
-        "lon": "8.462822"
-      }
+      "lat": "49.002330",
+      "lon": "8.462822"
     },
     {
       "id": "008010018",
       "name": "Kleinen Bad",
-      "coordinates": {
-        "lat": "53.766972",
-        "lon": "11.466927"
-      }
+      "lat": "53.766972",
+      "lon": "11.466927"
     },
     {
       "id": "008000213",
       "name": "Kreiensen",
-      "coordinates": {
-        "lat": "51.851425",
-        "lon": "9.967796"
-      }
+      "lat": "51.851425",
+      "lon": "9.967796"
     },
     {
       "id": "008000194",
       "name": "Kaufbeuren",
-      "coordinates": {
-        "lat": "47.875433",
-        "lon": "10.629492"
-      }
+      "lat": "47.875433",
+      "lon": "10.629492"
     },
     {
       "id": "008010193",
       "name": "K\u00f6nigs Wusterhausen",
-      "coordinates": {
-        "lat": "52.296634",
-        "lon": "13.631476"
-      }
+      "lat": "52.296634",
+      "lon": "13.631476"
     },
     {
       "id": "008003400",
       "name": "Konstanz",
-      "coordinates": {
-        "lat": "47.658757",
-        "lon": "9.177312"
-      }
+      "lat": "47.658757",
+      "lon": "9.177312"
     },
     {
       "id": "008000718",
       "name": "Krozingen Bad",
-      "coordinates": {
-        "lat": "47.919723",
-        "lon": "7.697633"
-      }
+      "lat": "47.919723",
+      "lon": "7.697633"
     },
     {
       "id": "008003218",
       "name": "Kehl",
-      "coordinates": {
-        "lat": "48.576655",
-        "lon": "7.806556"
-      }
+      "lat": "48.576655",
+      "lon": "7.806556"
     },
     {
       "id": "008003411",
       "name": "Kornwestheim Pbf",
-      "coordinates": {
-        "lat": "48.862215",
-        "lon": "9.179964"
-      }
+      "lat": "48.862215",
+      "lon": "9.179964"
     },
     {
       "id": "008100085",
       "name": "Klagenfurt Hbf",
-      "coordinates": {
-        "lat": "46.615586",
-        "lon": "14.313568"
-      }
+      "lat": "46.615586",
+      "lon": "14.313568"
     },
     {
       "id": "008100001",
       "name": "Kufstein",
-      "coordinates": {
-        "lat": "47.583077",
-        "lon": "12.165551"
-      }
+      "lat": "47.583077",
+      "lon": "12.165551"
     },
     {
       "id": "008601318",
       "name": "Kolding st",
-      "coordinates": {
-        "lat": "55.490842",
-        "lon": "9.481525"
-      }
+      "lat": "55.490842",
+      "lon": "9.481525"
     },
     {
       "id": "005500008",
       "name": "Kelenf\u00f6ld",
-      "coordinates": {
-        "lat": "47.464356",
-        "lon": "19.020455"
-      }
+      "lat": "47.464356",
+      "lon": "19.020455"
     },
     {
       "id": "008696001",
       "name": "KOEBENHAVN",
-      "coordinates": {
-        "lat": "55.688237",
-        "lon": "12.578425"
-      }
+      "lat": "55.688237",
+      "lon": "12.578425"
     },
     {
       "id": "008601309",
       "name": "Koebenhavn H",
-      "coordinates": {
-        "lat": "55.672721",
-        "lon": "12.564618"
-      }
+      "lat": "55.672721",
+      "lon": "12.564618"
     },
     {
       "id": "008100079",
       "name": "Krumpendorf\/W\u00f6rthersee",
-      "coordinates": {
-        "lat": "46.626337",
-        "lon": "14.221510"
-      }
+      "lat": "46.626337",
+      "lon": "14.221510"
     },
     {
       "id": "005100026",
       "name": "Konin",
-      "coordinates": {
-        "lat": "52.231399",
-        "lon": "18.253333"
-      }
+      "lat": "52.231399",
+      "lon": "18.253333"
     },
     {
       "id": "005100032",
       "name": "Kutno",
-      "coordinates": {
-        "lat": "52.226958",
-        "lon": "19.348615"
-      }
+      "lat": "52.226958",
+      "lon": "19.348615"
     },
     {
       "id": "008601312",
       "name": "Koege st",
-      "coordinates": {
-        "lat": "55.457501",
-        "lon": "12.186469"
-      }
+      "lat": "55.457501",
+      "lon": "12.186469"
     },
     {
       "id": "005600081",
       "name": "Kuty",
-      "coordinates": {
-        "lat": "48.661890",
-        "lon": "17.047691"
-      }
+      "lat": "48.661890",
+      "lon": "17.047691"
     },
     {
       "id": "007900014",
       "name": "Kranj",
-      "coordinates": {
-        "lat": "46.239010",
-        "lon": "14.348168"
-      }
+      "lat": "46.239010",
+      "lon": "14.348168"
     },
     {
       "id": "008100055",
       "name": "Kitzb\u00fchel",
-      "coordinates": {
-        "lat": "47.454109",
-        "lon": "12.391045"
-      }
+      "lat": "47.454109",
+      "lon": "12.391045"
     },
     {
       "id": "008101044",
       "name": "Kitzb\u00fchel Hahnenkamm",
-      "coordinates": {
-        "lat": "47.443384",
-        "lon": "12.389859"
-      }
+      "lat": "47.443384",
+      "lon": "12.389859"
     },
     {
       "id": "005400022",
       "name": "Kolin(CZ)",
-      "coordinates": {
-        "lat": "50.025437",
-        "lon": "15.214278"
-      }
+      "lat": "50.025437",
+      "lon": "15.214278"
     },
     {
       "id": "008601343",
       "name": "Korsoer st",
-      "coordinates": {
-        "lat": "55.357200",
-        "lon": "11.135126"
-      }
+      "lat": "55.357200",
+      "lon": "11.135126"
     },
     {
       "id": "007900030",
       "name": "Krsko",
-      "coordinates": {
-        "lat": "45.956227",
-        "lon": "15.493286"
-      }
+      "lat": "45.956227",
+      "lon": "15.493286"
     },
     {
       "id": "008270630",
       "name": "Kautenbach",
-      "coordinates": {
-        "lat": "49.949190",
-        "lon": "6.021702"
-      }
+      "lat": "49.949190",
+      "lon": "6.021702"
     },
     {
       "id": "008000001",
       "name": "Aachen Hbf",
-      "coordinates": {
-        "lat": "50.767802",
-        "lon": "6.091495"
-      }
+      "lat": "50.767802",
+      "lon": "6.091495"
     },
     {
       "id": "008000235",
       "name": "Ludwigsburg",
-      "coordinates": {
-        "lat": "48.891861",
-        "lon": "9.185420"
-      }
+      "lat": "48.891861",
+      "lon": "9.185420"
     },
     {
       "id": "008010205",
       "name": "Leipzig Hbf",
-      "coordinates": {
-        "lat": "51.346546",
-        "lon": "12.383333"
-      }
+      "lat": "51.346546",
+      "lon": "12.383333"
     },
     {
       "id": "008010222",
       "name": "Lutherstadt Wittenberg Hbf",
-      "coordinates": {
-        "lat": "51.867812",
-        "lon": "12.662286"
-      }
+      "lat": "51.867812",
+      "lon": "12.662286"
     },
     {
       "id": "008000228",
       "name": "Lichtenfels",
-      "coordinates": {
-        "lat": "50.146450",
-        "lon": "11.059473"
-      }
+      "lat": "50.146450",
+      "lon": "11.059473"
     },
     {
       "id": "008003680",
       "name": "Limburg S\u00fcd",
-      "coordinates": {
-        "lat": "50.382498",
-        "lon": "8.096107"
-      }
+      "lat": "50.382498",
+      "lon": "8.096107"
     },
     {
       "id": "008000237",
       "name": "L\u00fcbeck Hbf",
-      "coordinates": {
-        "lat": "53.867543",
-        "lon": "10.669818"
-      }
+      "lat": "53.867543",
+      "lon": "10.669818"
     },
     {
       "id": "008000230",
       "name": "Lindau Hbf",
-      "coordinates": {
-        "lat": "47.544342",
-        "lon": "9.680465"
-      }
+      "lat": "47.544342",
+      "lon": "9.680465"
     },
     {
       "id": "008000236",
       "name": "Ludwigshafen(Rh)Hbf",
-      "coordinates": {
-        "lat": "49.477985",
-        "lon": "8.433400"
-      }
+      "lat": "49.477985",
+      "lon": "8.433400"
     },
     {
       "id": "008000238",
       "name": "L\u00fcneburg",
-      "coordinates": {
-        "lat": "53.249652",
-        "lon": "10.419891"
-      }
+      "lat": "53.249652",
+      "lon": "10.419891"
     },
     {
       "id": "008010216",
       "name": "Ludwigslust",
-      "coordinates": {
-        "lat": "53.334672",
-        "lon": "11.494488"
-      }
+      "lat": "53.334672",
+      "lon": "11.494488"
     },
     {
       "id": "008000225",
       "name": "Leer(Ostfriesl)",
-      "coordinates": {
-        "lat": "53.231647",
-        "lon": "7.465280"
-      }
+      "lat": "53.231647",
+      "lon": "7.465280"
     },
     {
       "id": "008012183",
       "name": "Leipzig\/Halle Flughafen",
-      "coordinates": {
-        "lat": "51.423340",
-        "lon": "12.223423"
-      }
+      "lat": "51.423340",
+      "lon": "12.223423"
     },
     {
       "id": "008100013",
       "name": "Linz Hbf",
-      "coordinates": {
-        "lat": "48.290177",
-        "lon": "14.292129"
-      }
+      "lat": "48.290177",
+      "lon": "14.292129"
     },
     {
       "id": "008003701",
       "name": "Lingen(Ems)",
-      "coordinates": {
-        "lat": "52.519863",
-        "lon": "7.321731"
-      }
+      "lat": "52.519863",
+      "lon": "7.321731"
     },
     {
       "id": "008000571",
       "name": "Lippstadt",
-      "coordinates": {
-        "lat": "51.670688",
-        "lon": "8.348785"
-      }
+      "lat": "51.670688",
+      "lon": "8.348785"
     },
     {
       "id": "008003487",
       "name": "LaatzenHannoverMesse",
-      "coordinates": {
-        "lat": "52.316895",
-        "lon": "9.792866"
-      }
+      "lat": "52.316895",
+      "lon": "9.792866"
     },
     {
       "id": "008012478",
       "name": "Leipzig Messe",
-      "coordinates": {
-        "lat": "51.396148",
-        "lon": "12.389274"
-      }
+      "lat": "51.396148",
+      "lon": "12.389274"
     },
     {
       "id": "008006713",
       "name": "Leverkusen Mitte",
-      "coordinates": {
-        "lat": "51.031510",
-        "lon": "6.991657"
-      }
+      "lat": "51.031510",
+      "lon": "6.991657"
     },
     {
       "id": "008003494",
       "name": "Lahr(Schwarzw)",
-      "coordinates": {
-        "lat": "48.340436",
-        "lon": "7.834737"
-      }
+      "lat": "48.340436",
+      "lon": "7.834737"
     },
     {
       "id": "008003515",
       "name": "Landstuhl",
-      "coordinates": {
-        "lat": "49.416283",
-        "lon": "7.565932"
-      }
+      "lat": "49.416283",
+      "lon": "7.565932"
     },
     {
       "id": "008003545",
       "name": "Langenhagen Mitte",
-      "coordinates": {
-        "lat": "52.440281",
-        "lon": "9.725429"
-      }
+      "lat": "52.440281",
+      "lon": "9.725429"
     },
     {
       "id": "008010203",
       "name": "Leinefelde",
-      "coordinates": {
-        "lat": "51.388750",
-        "lon": "10.329297"
-      }
+      "lat": "51.388750",
+      "lon": "10.329297"
     },
     {
       "id": "008010217",
       "name": "L\u00fcbben(Spreewald)",
-      "coordinates": {
-        "lat": "51.939735",
-        "lon": "13.877178"
-      }
+      "lat": "51.939735",
+      "lon": "13.877178"
     },
     {
       "id": "008010220",
       "name": "L\u00fcbbenau(Spreewald)",
-      "coordinates": {
-        "lat": "51.862167",
-        "lon": "13.960903"
-      }
+      "lat": "51.862167",
+      "lon": "13.960903"
     },
     {
       "id": "008000226",
       "name": "Lehrte",
-      "coordinates": {
-        "lat": "52.376718",
-        "lon": "9.974601"
-      }
+      "lat": "52.376718",
+      "lon": "9.974601"
     },
     {
       "id": "008003708",
       "name": "Linz(Rhein)",
-      "coordinates": {
-        "lat": "50.569338",
-        "lon": "7.276030"
-      }
+      "lat": "50.569338",
+      "lon": "7.276030"
     },
     {
       "id": "008100070",
       "name": "Leoben Hbf",
-      "coordinates": {
-        "lat": "47.386600",
-        "lon": "15.089607"
-      }
+      "lat": "47.386600",
+      "lon": "15.089607"
     },
     {
       "id": "008500023",
       "name": "Liestal",
-      "coordinates": {
-        "lat": "47.484375",
-        "lon": "7.731352"
-      }
+      "lat": "47.484375",
+      "lon": "7.731352"
     },
     {
       "id": "008601512",
       "name": "Lunderskov st",
-      "coordinates": {
-        "lat": "55.480118",
-        "lon": "9.303790"
-      }
+      "lat": "55.480118",
+      "lon": "9.303790"
     },
     {
       "id": "008509002",
       "name": "Landquart",
-      "coordinates": {
-        "lat": "46.967451",
-        "lon": "9.554059"
-      }
+      "lat": "46.967451",
+      "lon": "9.554059"
     },
     {
       "id": "008800012",
       "name": "Li\u00e8ge-Guillemins",
-      "coordinates": {
-        "lat": "50.624361",
-        "lon": "5.566480"
-      }
+      "lat": "50.624361",
+      "lon": "5.566480"
     },
     {
       "id": "008502119",
       "name": "Lenzburg",
-      "coordinates": {
-        "lat": "47.391301",
-        "lon": "8.170583"
-      }
+      "lat": "47.391301",
+      "lon": "8.170583"
     },
     {
       "id": "008100131",
       "name": "Liezen",
-      "coordinates": {
-        "lat": "47.562707",
-        "lon": "14.241888"
-      }
+      "lat": "47.562707",
+      "lon": "14.241888"
     },
     {
       "id": "008100063",
       "name": "Landeck-Zams",
-      "coordinates": {
-        "lat": "47.148242",
-        "lon": "10.578388"
-      }
+      "lat": "47.148242",
+      "lon": "10.578388"
     },
     {
       "id": "008100065",
       "name": "Langen am Arlberg",
-      "coordinates": {
-        "lat": "47.131719",
-        "lon": "10.120370"
-      }
+      "lat": "47.131719",
+      "lon": "10.120370"
     },
     {
       "id": "007900003",
       "name": "Ljubljana Avtobusna postaja",
-      "coordinates": {
-        "lat": "46.058686",
-        "lon": "14.512940"
-      }
+      "lat": "46.058686",
+      "lon": "14.512940"
     },
     {
       "id": "008200100",
       "name": "Luxembourg Gare",
-      "coordinates": {
-        "lat": "49.599717",
-        "lon": "6.134391"
-      }
+      "lat": "49.599717",
+      "lon": "6.134391"
     },
     {
       "id": "008700729",
       "name": "Lorraine",
-      "coordinates": {
-        "lat": "48.947406",
-        "lon": "6.169692"
-      }
+      "lat": "48.947406",
+      "lon": "6.169692"
     },
     {
       "id": "008796002",
       "name": "LYON",
-      "coordinates": {
-        "lat": "45.702255",
-        "lon": "4.863811"
-      }
+      "lat": "45.702255",
+      "lon": "4.863811"
     },
     {
       "id": "008700152",
       "name": "Lyon Part Dieu",
-      "coordinates": {
-        "lat": "45.760568",
-        "lon": "4.859991"
-      }
+      "lat": "45.760568",
+      "lon": "4.859991"
     },
     {
       "id": "007900002",
       "name": "Lesce-Bled",
-      "coordinates": {
-        "lat": "46.360427",
-        "lon": "14.157632"
-      }
+      "lat": "46.360427",
+      "lon": "14.157632"
     },
     {
       "id": "008601404",
       "name": "Langeskov st",
-      "coordinates": {
-        "lat": "55.344903",
-        "lon": "10.598596"
-      }
+      "lat": "55.344903",
+      "lon": "10.598596"
     },
     {
       "id": "008300100",
       "name": "Latisana-Lig.-Bibio.",
-      "coordinates": {
-        "lat": "45.777773",
-        "lon": "13.001188"
-      }
+      "lat": "45.777773",
+      "lon": "13.001188"
     },
     {
       "id": "008400387",
       "name": "Leeuwarden",
-      "coordinates": {
-        "lat": "53.196220",
-        "lon": "5.791686"
-      }
+      "lat": "53.196220",
+      "lon": "5.791686"
     },
     {
       "id": "008300682",
       "name": "Legnago",
-      "coordinates": {
-        "lat": "45.189070",
-        "lon": "11.304681"
-      }
+      "lat": "45.189070",
+      "lon": "11.304681"
     },
     {
       "id": "008700188",
       "name": "Longueau",
-      "coordinates": {
-        "lat": "49.863613",
-        "lon": "2.352512"
-      }
+      "lat": "49.863613",
+      "lon": "2.352512"
     },
     {
       "id": "008300601",
       "name": "Lonigo",
-      "coordinates": {
-        "lat": "45.413252",
-        "lon": "11.345060"
-      }
+      "lat": "45.413252",
+      "lon": "11.345060"
     },
     {
       "id": "008700436",
       "name": "Noisy-le-Sec",
-      "coordinates": {
-        "lat": "48.896509",
-        "lon": "2.458792"
-      }
+      "lat": "48.896509",
+      "lon": "2.458792"
     },
     {
       "id": "008000183",
       "name": "Ingolstadt Hbf",
-      "coordinates": {
-        "lat": "48.744537",
-        "lon": "11.437335"
-      }
+      "lat": "48.744537",
+      "lon": "11.437335"
     },
     {
       "id": "008096004",
       "name": "Iena",
-      "coordinates": {
-        "lat": "50.924008",
-        "lon": "11.582726"
-      }
+      "lat": "50.924008",
+      "lon": "11.582726"
     },
     {
       "id": "008003065",
       "name": "Immenstadt",
-      "coordinates": {
-        "lat": "47.559201",
-        "lon": "10.214002"
-      }
+      "lat": "47.559201",
+      "lon": "10.214002"
     },
     {
       "id": "008003102",
       "name": "Itzehoe",
-      "coordinates": {
-        "lat": "53.923870",
-        "lon": "9.510290"
-      }
+      "lat": "53.923870",
+      "lon": "9.510290"
     },
     {
       "id": "008003036",
       "name": "Ibbenb\u00fcren",
-      "coordinates": {
-        "lat": "52.276866",
-        "lon": "7.721482"
-      }
+      "lat": "52.276866",
+      "lon": "7.721482"
     },
     {
       "id": "008000182",
       "name": "Immendingen",
-      "coordinates": {
-        "lat": "47.936002",
-        "lon": "8.729532"
-      }
+      "lat": "47.936002",
+      "lon": "8.729532"
     },
     {
       "id": "008100108",
       "name": "Innsbruck Hbf",
-      "coordinates": {
-        "lat": "47.263277",
-        "lon": "11.401000"
-      }
+      "lat": "47.263277",
+      "lon": "11.401000"
     },
     {
       "id": "008507492",
       "name": "Interlaken Ost",
-      "coordinates": {
-        "lat": "46.690691",
-        "lon": "7.868977"
-      }
+      "lat": "46.690691",
+      "lon": "7.868977"
     },
     {
       "id": "008507493",
       "name": "Interlaken West",
-      "coordinates": {
-        "lat": "46.682627",
-        "lon": "7.851439"
-      }
+      "lat": "46.682627",
+      "lon": "7.851439"
     },
     {
       "id": "008100062",
       "name": "Imst-Pitztal",
-      "coordinates": {
-        "lat": "47.219077",
-        "lon": "10.761669"
-      }
+      "lat": "47.219077",
+      "lon": "10.761669"
     },
     {
       "id": "007900029",
       "name": "Ilirska Bistrica",
-      "coordinates": {
-        "lat": "45.569358",
-        "lon": "14.236126"
-      }
+      "lat": "45.569358",
+      "lon": "14.236126"
     },
     {
       "id": "005100015",
       "name": "Inowroclaw",
-      "coordinates": {
-        "lat": "52.804947",
-        "lon": "18.244057"
-      }
+      "lat": "52.804947",
+      "lon": "18.244057"
     },
     {
       "id": "005100075",
       "name": "Ilawa Glowna",
-      "coordinates": {
-        "lat": "53.582253",
-        "lon": "19.573849"
-      }
+      "lat": "53.582253",
+      "lon": "19.573849"
     },
     {
       "id": "008300231",
       "name": "Isola della Scala",
-      "coordinates": {
-        "lat": "45.269316",
-        "lon": "11.013466"
-      }
+      "lat": "45.269316",
+      "lon": "11.013466"
     },
     {
       "id": "008002159",
       "name": "Furth im Wald",
-      "coordinates": {
-        "lat": "49.309815",
-        "lon": "12.838807"
-      }
+      "lat": "49.309815",
+      "lon": "12.838807"
     },
     {
       "id": "008100043",
       "name": "St. Johann im Pongau",
-      "coordinates": {
-        "lat": "47.348377",
-        "lon": "13.194960"
-      }
+      "lat": "47.348377",
+      "lon": "13.194960"
     },
     {
       "id": "008100366",
       "name": "Brixen im Thale",
-      "coordinates": {
-        "lat": "47.449227",
-        "lon": "12.260549"
-      }
+      "lat": "47.449227",
+      "lon": "12.260549"
     },
     {
       "id": "008100059",
       "name": "Hopfgarten im Brixental",
-      "coordinates": {
-        "lat": "47.455349",
-        "lon": "12.149181"
-      }
+      "lat": "47.455349",
+      "lon": "12.149181"
     },
     {
       "id": "008100071",
       "name": "St.Michael in Obersteiermark",
-      "coordinates": {
-        "lat": "47.346625",
-        "lon": "15.009189"
-      }
+      "lat": "47.346625",
+      "lon": "15.009189"
     },
     {
       "id": "008100113",
       "name": "Seefeld in Tirol",
-      "coordinates": {
-        "lat": "47.328727",
-        "lon": "11.189484"
-      }
+      "lat": "47.328727",
+      "lon": "11.189484"
     },
     {
       "id": "008100057",
       "name": "Kirchberg in Tirol",
-      "coordinates": {
-        "lat": "47.448922",
-        "lon": "12.309100"
-      }
+      "lat": "47.448922",
+      "lon": "12.309100"
     },
     {
       "id": "008100054",
       "name": "St. Johann in Tirol",
-      "coordinates": {
-        "lat": "47.519622",
-        "lon": "12.430778"
-      }
+      "lat": "47.519622",
+      "lon": "12.430778"
     },
     {
       "id": "008100058",
       "name": "Westendorf in Tirol",
-      "coordinates": {
-        "lat": "47.441110",
-        "lon": "12.222902"
-      }
+      "lat": "47.441110",
+      "lon": "12.222902"
     },
     {
       "id": "008302177",
       "name": "S.Pietro in Casale",
-      "coordinates": {
-        "lat": "44.697980",
-        "lon": "11.404830"
-      }
+      "lat": "44.697980",
+      "lon": "11.404830"
     },
     {
       "id": "008011956",
       "name": "Jena Paradies",
-      "coordinates": {
-        "lat": "50.924853",
-        "lon": "11.587464"
-      }
+      "lat": "50.924853",
+      "lon": "11.587464"
     },
     {
       "id": "008100102",
       "name": "Jenbach",
-      "coordinates": {
-        "lat": "47.388451",
-        "lon": "11.778457"
-      }
+      "lat": "47.388451",
+      "lon": "11.778457"
     },
     {
       "id": "007900001",
       "name": "Jesenice(SL)",
-      "coordinates": {
-        "lat": "46.436350",
-        "lon": "14.053304"
-      }
+      "lat": "46.436350",
+      "lon": "14.053304"
     },
     {
       "id": "008300116",
       "name": "Jesolo-S. Dona di Piave",
-      "coordinates": {
-        "lat": "45.639762",
-        "lon": "12.559908"
-      }
+      "lat": "45.639762",
+      "lon": "12.559908"
     },
     {
       "id": "008000191",
       "name": "Karlsruhe Hbf",
-      "coordinates": {
-        "lat": "48.993511",
-        "lon": "8.402181"
-      }
+      "lat": "48.993511",
+      "lon": "8.402181"
     },
     {
       "id": "008000207",
       "name": "K\u00f6ln Hbf",
-      "coordinates": {
-        "lat": "50.943029",
-        "lon": "6.958729"
-      }
+      "lat": "50.943029",
+      "lon": "6.958729"
     },
     {
       "id": "008096022",
       "name": "K\u00d6LN",
-      "coordinates": {
-        "lat": "50.941312",
-        "lon": "6.967206"
-      }
+      "lat": "50.941312",
+      "lon": "6.967206"
     },
     {
       "id": "008096023",
       "name": "KASSEL",
-      "coordinates": {
-        "lat": "51.315946",
-        "lon": "9.470378"
-      }
+      "lat": "51.315946",
+      "lon": "9.470378"
     },
     {
       "id": "008003200",
       "name": "Kassel-Wilhelmsh\u00f6he",
-      "coordinates": {
-        "lat": "51.313115",
-        "lon": "9.446898"
-      }
+      "lat": "51.313115",
+      "lon": "9.446898"
     },
     {
       "id": "008003368",
       "name": "K\u00f6ln Messe\/Deutz",
-      "coordinates": {
-        "lat": "50.940871",
-        "lon": "6.975000"
-      }
+      "lat": "50.940871",
+      "lon": "6.975000"
     },
     {
       "id": "008000206",
       "name": "Koblenz Hbf",
-      "coordinates": {
-        "lat": "50.350927",
-        "lon": "7.588342"
-      }
+      "lat": "50.350927",
+      "lon": "7.588342"
     },
     {
       "id": "008000199",
       "name": "Kiel Hbf",
-      "coordinates": {
-        "lat": "54.314982",
-        "lon": "10.131975"
-      }
+      "lat": "54.314982",
+      "lon": "10.131975"
     },
     {
       "id": "008000189",
       "name": "Kaiserslautern Hbf",
-      "coordinates": {
-        "lat": "49.436140",
-        "lon": "7.768711"
-      }
+      "lat": "49.436140",
+      "lon": "7.768711"
     },
     {
       "id": "008000197",
       "name": "Kempten(Allg\u00e4u)Hbf",
-      "coordinates": {
-        "lat": "47.711748",
-        "lon": "10.317611"
-      }
+      "lat": "47.711748",
+      "lon": "10.317611"
     },
     {
       "id": "008000211",
       "name": "Krefeld Hbf",
-      "coordinates": {
-        "lat": "51.325718",
-        "lon": "6.569883"
-      }
+      "lat": "51.325718",
+      "lon": "6.569883"
     },
     {
       "id": "008010195",
       "name": "K\u00f6then",
-      "coordinates": {
-        "lat": "51.751932",
-        "lon": "11.989353"
-      }
+      "lat": "51.751932",
+      "lon": "11.989353"
     },
     {
       "id": "008003330",
       "name": "K\u00f6ln\/Bonn Flughafen",
-      "coordinates": {
-        "lat": "50.878900",
-        "lon": "7.119303"
-      }
+      "lat": "50.878900",
+      "lon": "7.119303"
     },
     {
       "id": "008003184",
       "name": "Karlsruhe-Durlach",
-      "coordinates": {
-        "lat": "49.002330",
-        "lon": "8.462822"
-      }
+      "lat": "49.002330",
+      "lon": "8.462822"
     },
     {
       "id": "008010018",
       "name": "Kleinen Bad",
-      "coordinates": {
-        "lat": "53.766972",
-        "lon": "11.466927"
-      }
+      "lat": "53.766972",
+      "lon": "11.466927"
     },
     {
       "id": "008000213",
       "name": "Kreiensen",
-      "coordinates": {
-        "lat": "51.851425",
-        "lon": "9.967796"
-      }
+      "lat": "51.851425",
+      "lon": "9.967796"
     },
     {
       "id": "008000194",
       "name": "Kaufbeuren",
-      "coordinates": {
-        "lat": "47.875433",
-        "lon": "10.629492"
-      }
+      "lat": "47.875433",
+      "lon": "10.629492"
     },
     {
       "id": "008010193",
       "name": "K\u00f6nigs Wusterhausen",
-      "coordinates": {
-        "lat": "52.296634",
-        "lon": "13.631476"
-      }
+      "lat": "52.296634",
+      "lon": "13.631476"
     },
     {
       "id": "008003400",
       "name": "Konstanz",
-      "coordinates": {
-        "lat": "47.658757",
-        "lon": "9.177312"
-      }
+      "lat": "47.658757",
+      "lon": "9.177312"
     },
     {
       "id": "008000718",
       "name": "Krozingen Bad",
-      "coordinates": {
-        "lat": "47.919723",
-        "lon": "7.697633"
-      }
+      "lat": "47.919723",
+      "lon": "7.697633"
     },
     {
       "id": "008003218",
       "name": "Kehl",
-      "coordinates": {
-        "lat": "48.576655",
-        "lon": "7.806556"
-      }
+      "lat": "48.576655",
+      "lon": "7.806556"
     },
     {
       "id": "008003411",
       "name": "Kornwestheim Pbf",
-      "coordinates": {
-        "lat": "48.862215",
-        "lon": "9.179964"
-      }
+      "lat": "48.862215",
+      "lon": "9.179964"
     },
     {
       "id": "008100085",
       "name": "Klagenfurt Hbf",
-      "coordinates": {
-        "lat": "46.615586",
-        "lon": "14.313568"
-      }
+      "lat": "46.615586",
+      "lon": "14.313568"
     },
     {
       "id": "008100001",
       "name": "Kufstein",
-      "coordinates": {
-        "lat": "47.583077",
-        "lon": "12.165551"
-      }
+      "lat": "47.583077",
+      "lon": "12.165551"
     },
     {
       "id": "008601318",
       "name": "Kolding st",
-      "coordinates": {
-        "lat": "55.490842",
-        "lon": "9.481525"
-      }
+      "lat": "55.490842",
+      "lon": "9.481525"
     },
     {
       "id": "005500008",
       "name": "Kelenf\u00f6ld",
-      "coordinates": {
-        "lat": "47.464356",
-        "lon": "19.020455"
-      }
+      "lat": "47.464356",
+      "lon": "19.020455"
     },
     {
       "id": "008696001",
       "name": "KOEBENHAVN",
-      "coordinates": {
-        "lat": "55.688237",
-        "lon": "12.578425"
-      }
+      "lat": "55.688237",
+      "lon": "12.578425"
     },
     {
       "id": "008601309",
       "name": "Koebenhavn H",
-      "coordinates": {
-        "lat": "55.672721",
-        "lon": "12.564618"
-      }
+      "lat": "55.672721",
+      "lon": "12.564618"
     },
     {
       "id": "008100079",
       "name": "Krumpendorf\/W\u00f6rthersee",
-      "coordinates": {
-        "lat": "46.626337",
-        "lon": "14.221510"
-      }
+      "lat": "46.626337",
+      "lon": "14.221510"
     },
     {
       "id": "005100026",
       "name": "Konin",
-      "coordinates": {
-        "lat": "52.231399",
-        "lon": "18.253333"
-      }
+      "lat": "52.231399",
+      "lon": "18.253333"
     },
     {
       "id": "005100032",
       "name": "Kutno",
-      "coordinates": {
-        "lat": "52.226958",
-        "lon": "19.348615"
-      }
+      "lat": "52.226958",
+      "lon": "19.348615"
     },
     {
       "id": "008601312",
       "name": "Koege st",
-      "coordinates": {
-        "lat": "55.457501",
-        "lon": "12.186469"
-      }
+      "lat": "55.457501",
+      "lon": "12.186469"
     },
     {
       "id": "005600081",
       "name": "Kuty",
-      "coordinates": {
-        "lat": "48.661890",
-        "lon": "17.047691"
-      }
+      "lat": "48.661890",
+      "lon": "17.047691"
     },
     {
       "id": "007900014",
       "name": "Kranj",
-      "coordinates": {
-        "lat": "46.239010",
-        "lon": "14.348168"
-      }
+      "lat": "46.239010",
+      "lon": "14.348168"
     },
     {
       "id": "008100055",
       "name": "Kitzb\u00fchel",
-      "coordinates": {
-        "lat": "47.454109",
-        "lon": "12.391045"
-      }
+      "lat": "47.454109",
+      "lon": "12.391045"
     },
     {
       "id": "008101044",
       "name": "Kitzb\u00fchel Hahnenkamm",
-      "coordinates": {
-        "lat": "47.443384",
-        "lon": "12.389859"
-      }
+      "lat": "47.443384",
+      "lon": "12.389859"
     },
     {
       "id": "005400022",
       "name": "Kolin(CZ)",
-      "coordinates": {
-        "lat": "50.025437",
-        "lon": "15.214278"
-      }
+      "lat": "50.025437",
+      "lon": "15.214278"
     },
     {
       "id": "008601343",
       "name": "Korsoer st",
-      "coordinates": {
-        "lat": "55.357200",
-        "lon": "11.135126"
-      }
+      "lat": "55.357200",
+      "lon": "11.135126"
     },
     {
       "id": "007900030",
       "name": "Krsko",
-      "coordinates": {
-        "lat": "45.956227",
-        "lon": "15.493286"
-      }
+      "lat": "45.956227",
+      "lon": "15.493286"
     },
     {
       "id": "008270630",
       "name": "Kautenbach",
-      "coordinates": {
-        "lat": "49.949190",
-        "lon": "6.021702"
-      }
+      "lat": "49.949190",
+      "lon": "6.021702"
     },
     {
       "id": "008000001",
       "name": "Aachen Hbf",
-      "coordinates": {
-        "lat": "50.767802",
-        "lon": "6.091495"
-      }
+      "lat": "50.767802",
+      "lon": "6.091495"
     },
     {
       "id": "008000235",
       "name": "Ludwigsburg",
-      "coordinates": {
-        "lat": "48.891861",
-        "lon": "9.185420"
-      }
+      "lat": "48.891861",
+      "lon": "9.185420"
     },
     {
       "id": "008010205",
       "name": "Leipzig Hbf",
-      "coordinates": {
-        "lat": "51.346546",
-        "lon": "12.383333"
-      }
+      "lat": "51.346546",
+      "lon": "12.383333"
     },
     {
       "id": "008010222",
       "name": "Lutherstadt Wittenberg Hbf",
-      "coordinates": {
-        "lat": "51.867812",
-        "lon": "12.662286"
-      }
+      "lat": "51.867812",
+      "lon": "12.662286"
     },
     {
       "id": "008000228",
       "name": "Lichtenfels",
-      "coordinates": {
-        "lat": "50.146450",
-        "lon": "11.059473"
-      }
+      "lat": "50.146450",
+      "lon": "11.059473"
     },
     {
       "id": "008003680",
       "name": "Limburg S\u00fcd",
-      "coordinates": {
-        "lat": "50.382498",
-        "lon": "8.096107"
-      }
+      "lat": "50.382498",
+      "lon": "8.096107"
     },
     {
       "id": "008000237",
       "name": "L\u00fcbeck Hbf",
-      "coordinates": {
-        "lat": "53.867543",
-        "lon": "10.669818"
-      }
+      "lat": "53.867543",
+      "lon": "10.669818"
     },
     {
       "id": "008000230",
       "name": "Lindau Hbf",
-      "coordinates": {
-        "lat": "47.544342",
-        "lon": "9.680465"
-      }
+      "lat": "47.544342",
+      "lon": "9.680465"
     },
     {
       "id": "008000236",
       "name": "Ludwigshafen(Rh)Hbf",
-      "coordinates": {
-        "lat": "49.477985",
-        "lon": "8.433400"
-      }
+      "lat": "49.477985",
+      "lon": "8.433400"
     },
     {
       "id": "008000238",
       "name": "L\u00fcneburg",
-      "coordinates": {
-        "lat": "53.249652",
-        "lon": "10.419891"
-      }
+      "lat": "53.249652",
+      "lon": "10.419891"
     },
     {
       "id": "008010216",
       "name": "Ludwigslust",
-      "coordinates": {
-        "lat": "53.334672",
-        "lon": "11.494488"
-      }
+      "lat": "53.334672",
+      "lon": "11.494488"
     },
     {
       "id": "008000225",
       "name": "Leer(Ostfriesl)",
-      "coordinates": {
-        "lat": "53.231647",
-        "lon": "7.465280"
-      }
+      "lat": "53.231647",
+      "lon": "7.465280"
     },
     {
       "id": "008012183",
       "name": "Leipzig\/Halle Flughafen",
-      "coordinates": {
-        "lat": "51.423340",
-        "lon": "12.223423"
-      }
+      "lat": "51.423340",
+      "lon": "12.223423"
     },
     {
       "id": "008100013",
       "name": "Linz Hbf",
-      "coordinates": {
-        "lat": "48.290177",
-        "lon": "14.292129"
-      }
+      "lat": "48.290177",
+      "lon": "14.292129"
     },
     {
       "id": "008003701",
       "name": "Lingen(Ems)",
-      "coordinates": {
-        "lat": "52.519863",
-        "lon": "7.321731"
-      }
+      "lat": "52.519863",
+      "lon": "7.321731"
     },
     {
       "id": "008000571",
       "name": "Lippstadt",
-      "coordinates": {
-        "lat": "51.670688",
-        "lon": "8.348785"
-      }
+      "lat": "51.670688",
+      "lon": "8.348785"
     },
     {
       "id": "008003487",
       "name": "LaatzenHannoverMesse",
-      "coordinates": {
-        "lat": "52.316895",
-        "lon": "9.792866"
-      }
+      "lat": "52.316895",
+      "lon": "9.792866"
     },
     {
       "id": "008012478",
       "name": "Leipzig Messe",
-      "coordinates": {
-        "lat": "51.396148",
-        "lon": "12.389274"
-      }
+      "lat": "51.396148",
+      "lon": "12.389274"
     },
     {
       "id": "008006713",
       "name": "Leverkusen Mitte",
-      "coordinates": {
-        "lat": "51.031510",
-        "lon": "6.991657"
-      }
+      "lat": "51.031510",
+      "lon": "6.991657"
     },
     {
       "id": "008003494",
       "name": "Lahr(Schwarzw)",
-      "coordinates": {
-        "lat": "48.340436",
-        "lon": "7.834737"
-      }
+      "lat": "48.340436",
+      "lon": "7.834737"
     },
     {
       "id": "008003515",
       "name": "Landstuhl",
-      "coordinates": {
-        "lat": "49.416283",
-        "lon": "7.565932"
-      }
+      "lat": "49.416283",
+      "lon": "7.565932"
     },
     {
       "id": "008003545",
       "name": "Langenhagen Mitte",
-      "coordinates": {
-        "lat": "52.440281",
-        "lon": "9.725429"
-      }
+      "lat": "52.440281",
+      "lon": "9.725429"
     },
     {
       "id": "008010203",
       "name": "Leinefelde",
-      "coordinates": {
-        "lat": "51.388750",
-        "lon": "10.329297"
-      }
+      "lat": "51.388750",
+      "lon": "10.329297"
     },
     {
       "id": "008010217",
       "name": "L\u00fcbben(Spreewald)",
-      "coordinates": {
-        "lat": "51.939735",
-        "lon": "13.877178"
-      }
+      "lat": "51.939735",
+      "lon": "13.877178"
     },
     {
       "id": "008010220",
       "name": "L\u00fcbbenau(Spreewald)",
-      "coordinates": {
-        "lat": "51.862167",
-        "lon": "13.960903"
-      }
+      "lat": "51.862167",
+      "lon": "13.960903"
     },
     {
       "id": "008000226",
       "name": "Lehrte",
-      "coordinates": {
-        "lat": "52.376718",
-        "lon": "9.974601"
-      }
+      "lat": "52.376718",
+      "lon": "9.974601"
     },
     {
       "id": "008003708",
       "name": "Linz(Rhein)",
-      "coordinates": {
-        "lat": "50.569338",
-        "lon": "7.276030"
-      }
+      "lat": "50.569338",
+      "lon": "7.276030"
     },
     {
       "id": "008100070",
       "name": "Leoben Hbf",
-      "coordinates": {
-        "lat": "47.386600",
-        "lon": "15.089607"
-      }
+      "lat": "47.386600",
+      "lon": "15.089607"
     },
     {
       "id": "008500023",
       "name": "Liestal",
-      "coordinates": {
-        "lat": "47.484375",
-        "lon": "7.731352"
-      }
+      "lat": "47.484375",
+      "lon": "7.731352"
     },
     {
       "id": "008601512",
       "name": "Lunderskov st",
-      "coordinates": {
-        "lat": "55.480118",
-        "lon": "9.303790"
-      }
+      "lat": "55.480118",
+      "lon": "9.303790"
     },
     {
       "id": "008509002",
       "name": "Landquart",
-      "coordinates": {
-        "lat": "46.967451",
-        "lon": "9.554059"
-      }
+      "lat": "46.967451",
+      "lon": "9.554059"
     },
     {
       "id": "008800012",
       "name": "Li\u00e8ge-Guillemins",
-      "coordinates": {
-        "lat": "50.624361",
-        "lon": "5.566480"
-      }
+      "lat": "50.624361",
+      "lon": "5.566480"
     },
     {
       "id": "008502119",
       "name": "Lenzburg",
-      "coordinates": {
-        "lat": "47.391301",
-        "lon": "8.170583"
-      }
+      "lat": "47.391301",
+      "lon": "8.170583"
     },
     {
       "id": "008100131",
       "name": "Liezen",
-      "coordinates": {
-        "lat": "47.562707",
-        "lon": "14.241888"
-      }
+      "lat": "47.562707",
+      "lon": "14.241888"
     },
     {
       "id": "008100063",
       "name": "Landeck-Zams",
-      "coordinates": {
-        "lat": "47.148242",
-        "lon": "10.578388"
-      }
+      "lat": "47.148242",
+      "lon": "10.578388"
     },
     {
       "id": "008100065",
       "name": "Langen am Arlberg",
-      "coordinates": {
-        "lat": "47.131719",
-        "lon": "10.120370"
-      }
+      "lat": "47.131719",
+      "lon": "10.120370"
     },
     {
       "id": "007900003",
       "name": "Ljubljana Avtobusna postaja",
-      "coordinates": {
-        "lat": "46.058686",
-        "lon": "14.512940"
-      }
+      "lat": "46.058686",
+      "lon": "14.512940"
     },
     {
       "id": "008200100",
       "name": "Luxembourg Gare",
-      "coordinates": {
-        "lat": "49.599717",
-        "lon": "6.134391"
-      }
+      "lat": "49.599717",
+      "lon": "6.134391"
     },
     {
       "id": "008700729",
       "name": "Lorraine",
-      "coordinates": {
-        "lat": "48.947406",
-        "lon": "6.169692"
-      }
+      "lat": "48.947406",
+      "lon": "6.169692"
     },
     {
       "id": "008796002",
       "name": "LYON",
-      "coordinates": {
-        "lat": "45.702255",
-        "lon": "4.863811"
-      }
+      "lat": "45.702255",
+      "lon": "4.863811"
     },
     {
       "id": "008700152",
       "name": "Lyon Part Dieu",
-      "coordinates": {
-        "lat": "45.760568",
-        "lon": "4.859991"
-      }
+      "lat": "45.760568",
+      "lon": "4.859991"
     },
     {
       "id": "007900002",
       "name": "Lesce-Bled",
-      "coordinates": {
-        "lat": "46.360427",
-        "lon": "14.157632"
-      }
+      "lat": "46.360427",
+      "lon": "14.157632"
     },
     {
       "id": "008601404",
       "name": "Langeskov st",
-      "coordinates": {
-        "lat": "55.344903",
-        "lon": "10.598596"
-      }
+      "lat": "55.344903",
+      "lon": "10.598596"
     },
     {
       "id": "008300100",
       "name": "Latisana-Lig.-Bibio.",
-      "coordinates": {
-        "lat": "45.777773",
-        "lon": "13.001188"
-      }
+      "lat": "45.777773",
+      "lon": "13.001188"
     },
     {
       "id": "008400387",
       "name": "Leeuwarden",
-      "coordinates": {
-        "lat": "53.196220",
-        "lon": "5.791686"
-      }
+      "lat": "53.196220",
+      "lon": "5.791686"
     },
     {
       "id": "008300682",
       "name": "Legnago",
-      "coordinates": {
-        "lat": "45.189070",
-        "lon": "11.304681"
-      }
+      "lat": "45.189070",
+      "lon": "11.304681"
     },
     {
       "id": "008700188",
       "name": "Longueau",
-      "coordinates": {
-        "lat": "49.863613",
-        "lon": "2.352512"
-      }
+      "lat": "49.863613",
+      "lon": "2.352512"
     },
     {
       "id": "008300601",
       "name": "Lonigo",
-      "coordinates": {
-        "lat": "45.413252",
-        "lon": "11.345060"
-      }
+      "lat": "45.413252",
+      "lon": "11.345060"
     },
     {
       "id": "008700436",
       "name": "Noisy-le-Sec",
-      "coordinates": {
-        "lat": "48.896509",
-        "lon": "2.458792"
-      }
+      "lat": "48.896509",
+      "lon": "2.458792"
     },
     {
       "id": "008000244",
       "name": "Mannheim Hbf",
-      "coordinates": {
-        "lat": "49.479351",
-        "lon": "8.468917"
-      }
+      "lat": "49.479351",
+      "lon": "8.468917"
     },
     {
       "id": "008000261",
       "name": "M\u00fcnchen Hbf",
-      "coordinates": {
-        "lat": "48.140228",
-        "lon": "11.558338"
-      }
+      "lat": "48.140228",
+      "lon": "11.558338"
     },
     {
       "id": "008000240",
       "name": "Mainz Hbf",
-      "coordinates": {
-        "lat": "50.001112",
-        "lon": "8.258722"
-      }
+      "lat": "50.001112",
+      "lon": "8.258722"
     },
     {
       "id": "008004158",
       "name": "M\u00fcnchen-Pasing",
-      "coordinates": {
-        "lat": "48.149856",
-        "lon": "11.461875"
-      }
+      "lat": "48.149856",
+      "lon": "11.461875"
     },
     {
       "id": "008000667",
       "name": "Montabaur",
-      "coordinates": {
-        "lat": "50.444838",
-        "lon": "7.825334"
-      }
+      "lat": "50.444838",
+      "lon": "7.825334"
     },
     {
       "id": "008000263",
       "name": "M\u00fcnster(Westf)Hbf",
-      "coordinates": {
-        "lat": "51.956563",
-        "lon": "7.635716"
-      }
+      "lat": "51.956563",
+      "lon": "7.635716"
     },
     {
       "id": "008010224",
       "name": "Magdeburg Hbf",
-      "coordinates": {
-        "lat": "52.130351",
-        "lon": "11.626890"
-      }
+      "lat": "52.130351",
+      "lon": "11.626890"
     },
     {
       "id": "008000259",
       "name": "M\u00fclheim(Ruhr)Hbf",
-      "coordinates": {
-        "lat": "51.431341",
-        "lon": "6.886510"
-      }
+      "lat": "51.431341",
+      "lon": "6.886510"
     },
     {
       "id": "008000253",
       "name": "M\u00f6nchengladbach Hbf",
-      "coordinates": {
-        "lat": "51.196579",
-        "lon": "6.446110"
-      }
+      "lat": "51.196579",
+      "lon": "6.446110"
     },
     {
       "id": "008000262",
       "name": "M\u00fcnchen Ost",
-      "coordinates": {
-        "lat": "48.127437",
-        "lon": "11.604975"
-      }
+      "lat": "48.127437",
+      "lon": "11.604975"
     },
     {
       "id": "008000252",
       "name": "Minden(Westf)",
-      "coordinates": {
-        "lat": "52.290134",
-        "lon": "8.934729"
-      }
+      "lat": "52.290134",
+      "lon": "8.934729"
     },
     {
       "id": "008000337",
       "name": "Marburg(Lahn)",
-      "coordinates": {
-        "lat": "50.819274",
-        "lon": "8.775017"
-      }
+      "lat": "50.819274",
+      "lon": "8.775017"
     },
     {
       "id": "008003978",
       "name": "Meppen",
-      "coordinates": {
-        "lat": "52.696024",
-        "lon": "7.298018"
-      }
+      "lat": "52.696024",
+      "lon": "7.298018"
     },
     {
       "id": "008000339",
       "name": "M\u00fchlacker",
-      "coordinates": {
-        "lat": "48.953195",
-        "lon": "8.846104"
-      }
+      "lat": "48.953195",
+      "lon": "8.846104"
     },
     {
       "id": "008000249",
       "name": "Memmingen",
-      "coordinates": {
-        "lat": "47.985578",
-        "lon": "10.186854"
-      }
+      "lat": "47.985578",
+      "lon": "10.186854"
     },
     {
       "id": "008003866",
       "name": "Marienhafe",
-      "coordinates": {
-        "lat": "53.520892",
-        "lon": "7.270727"
-      }
+      "lat": "53.520892",
+      "lon": "7.270727"
     },
     {
       "id": "008004043",
       "name": "Mittenwald",
-      "coordinates": {
-        "lat": "47.440031",
-        "lon": "11.265704"
-      }
+      "lat": "47.440031",
+      "lon": "11.265704"
     },
     {
       "id": "008004185",
       "name": "Murnau",
-      "coordinates": {
-        "lat": "47.682264",
-        "lon": "11.192630"
-      }
+      "lat": "47.682264",
+      "lon": "11.192630"
     },
     {
       "id": "008004009",
       "name": "Metzingen(W\u00fcrtt)",
-      "coordinates": {
-        "lat": "48.539727",
-        "lon": "9.290153"
-      }
+      "lat": "48.539727",
+      "lon": "9.290153"
     },
     {
       "id": "008000318",
       "name": "M\u00f6nchengladbach-Rhy",
-      "coordinates": {
-        "lat": "51.163031",
-        "lon": "6.439566"
-      }
+      "lat": "51.163031",
+      "lon": "6.439566"
     },
     {
       "id": "008004124",
       "name": "M\u00fcllheim(Baden)",
-      "coordinates": {
-        "lat": "47.809740",
-        "lon": "7.599327"
-      }
+      "lat": "47.809740",
+      "lon": "7.599327"
     },
     {
       "id": "008004147",
       "name": "M\u00fcnchen-Feldmoching",
-      "coordinates": {
-        "lat": "48.213814",
-        "lon": "11.541322"
-      }
+      "lat": "48.213814",
+      "lon": "11.541322"
     },
     {
       "id": "005500016",
       "name": "Mosonmagyarovar",
-      "coordinates": {
-        "lat": "47.850353",
-        "lon": "17.266426"
-      }
+      "lat": "47.850353",
+      "lon": "17.266426"
     },
     {
       "id": "008100093",
       "name": "Mallnitz-Obervellach",
-      "coordinates": {
-        "lat": "46.981671",
-        "lon": "13.176424"
-      }
+      "lat": "46.981671",
+      "lon": "13.176424"
     },
     {
       "id": "008506314",
       "name": "Margrethen St",
-      "coordinates": {
-        "lat": "47.453353",
-        "lon": "9.638413"
-      }
+      "lat": "47.453353",
+      "lon": "9.638413"
     },
     {
       "id": "008100071",
       "name": "Michael St",
-      "coordinates": {
-        "lat": "47.346625",
-        "lon": "15.009189"
-      }
+      "lat": "47.346625",
+      "lon": "15.009189"
     },
     {
       "id": "008396005",
       "name": "MILANO",
-      "coordinates": {
-        "lat": "45.462477",
-        "lon": "9.207596"
-      }
+      "lat": "45.462477",
+      "lon": "9.207596"
     },
     {
       "id": "008700074",
       "name": "Marseille-St-Charles",
-      "coordinates": {
-        "lat": "43.303816",
-        "lon": "5.381949"
-      }
+      "lat": "43.303816",
+      "lon": "5.381949"
     },
     {
       "id": "008700031",
       "name": "Mulhouse Ville",
-      "coordinates": {
-        "lat": "47.741952",
-        "lon": "7.343045"
-      }
+      "lat": "47.741952",
+      "lon": "7.343045"
     },
     {
       "id": "008300046",
       "name": "Milano Centrale",
-      "coordinates": {
-        "lat": "45.487143",
-        "lon": "9.204828"
-      }
+      "lat": "45.487143",
+      "lon": "9.204828"
     },
     {
       "id": "008300062",
       "name": "Milano Lambrate",
-      "coordinates": {
-        "lat": "45.485066",
-        "lon": "9.237225"
-      }
+      "lat": "45.485066",
+      "lon": "9.237225"
     },
     {
       "id": "008601593",
       "name": "Middelfart st",
-      "coordinates": {
-        "lat": "55.501621",
-        "lon": "9.734661"
-      }
+      "lat": "55.501621",
+      "lon": "9.734661"
     },
     {
       "id": "002196004",
       "name": "MINSK(BY)",
-      "coordinates": {
-        "lat": "53.868712",
-        "lon": "27.651025"
-      }
+      "lat": "53.868712",
+      "lon": "27.651025"
     },
     {
       "id": "002100003",
       "name": "Minsk-Passajirskii",
-      "coordinates": {
-        "lat": "53.890736",
-        "lon": "27.550643"
-      }
+      "lat": "53.890736",
+      "lon": "27.550643"
     },
     {
       "id": "008300232",
       "name": "Monselice",
-      "coordinates": {
-        "lat": "45.246196",
-        "lon": "11.747813"
-      }
+      "lat": "45.246196",
+      "lon": "11.747813"
     },
     {
       "id": "002096001",
       "name": "MOSKVA",
-      "coordinates": {
-        "lat": "55.790057",
-        "lon": "37.587899"
-      }
+      "lat": "55.790057",
+      "lon": "37.587899"
     },
     {
       "id": "002000058",
       "name": "Moskva Belorusskaja",
-      "coordinates": {
-        "lat": "55.776672",
-        "lon": "37.579809"
-      }
+      "lat": "55.776672",
+      "lon": "37.579809"
     },
     {
       "id": "002000056",
       "name": "Moskva Kurskaja",
-      "coordinates": {
-        "lat": "55.757364",
-        "lon": "37.662276"
-      }
+      "lat": "55.757364",
+      "lon": "37.662276"
     },
     {
       "id": "008400435",
       "name": "Meppel",
-      "coordinates": {
-        "lat": "52.691907",
-        "lon": "6.197882"
-      }
+      "lat": "52.691907",
+      "lon": "6.197882"
     },
     {
       "id": "008200110",
       "name": "Mersch(LUX)",
-      "coordinates": {
-        "lat": "49.752066",
-        "lon": "6.110480"
-      }
+      "lat": "49.752066",
+      "lon": "6.110480"
     },
     {
       "id": "008300636",
       "name": "Mogliano Veneto",
-      "coordinates": {
-        "lat": "45.561906",
-        "lon": "12.232835"
-      }
+      "lat": "45.561906",
+      "lon": "12.232835"
     },
     {
       "id": "008300521",
       "name": "Montegrotto Terme Eu",
-      "coordinates": {
-        "lat": "45.327378",
-        "lon": "11.796436"
-      }
+      "lat": "45.327378",
+      "lon": "11.796436"
     },
     {
       "id": "008007768",
       "name": "Norddeich Mole",
-      "coordinates": {
-        "lat": "53.624313",
-        "lon": "7.158802"
-      }
+      "lat": "53.624313",
+      "lon": "7.158802"
     },
     {
       "id": "008000284",
       "name": "N\u00fcrnberg Hbf",
-      "coordinates": {
-        "lat": "49.445615",
-        "lon": "11.082989"
-      }
+      "lat": "49.445615",
+      "lon": "11.082989"
     },
     {
       "id": "008010240",
       "name": "Naumburg(Saale)Hbf",
-      "coordinates": {
-        "lat": "51.163067",
-        "lon": "11.796984"
-      }
+      "lat": "51.163067",
+      "lon": "11.796984"
     },
     {
       "id": "008096025",
       "name": "N\u00dcRNBERG",
-      "coordinates": {
-        "lat": "49.450748",
-        "lon": "11.077955"
-      }
+      "lat": "49.450748",
+      "lon": "11.077955"
     },
     {
       "id": "008000275",
       "name": "Neustadt(Weinstr)Hbf",
-      "coordinates": {
-        "lat": "49.349556",
-        "lon": "8.140757"
-      }
+      "lat": "49.349556",
+      "lon": "8.140757"
     },
     {
       "id": "008010250",
       "name": "Neustrelitz Hbf",
-      "coordinates": {
-        "lat": "53.359257",
-        "lon": "13.074603"
-      }
+      "lat": "53.359257",
+      "lon": "13.074603"
     },
     {
       "id": "008000274",
       "name": "Neuss Hbf",
-      "coordinates": {
-        "lat": "51.204354",
-        "lon": "6.684522"
-      }
+      "lat": "51.204354",
+      "lon": "6.684522"
     },
     {
       "id": "008000279",
       "name": "Nienburg(Weser)",
-      "coordinates": {
-        "lat": "52.645568",
-        "lon": "9.217754"
-      }
+      "lat": "52.645568",
+      "lon": "9.217754"
     },
     {
       "id": "008000271",
       "name": "Neum\u00fcnster",
-      "coordinates": {
-        "lat": "54.075752",
-        "lon": "9.979815"
-      }
+      "lat": "54.075752",
+      "lon": "9.979815"
     },
     {
       "id": "008004449",
       "name": "Norddeich",
-      "coordinates": {
-        "lat": "53.621581",
-        "lon": "7.160825"
-      }
+      "lat": "53.621581",
+      "lon": "7.160825"
     },
     {
       "id": "008000800",
       "name": "Norden",
-      "coordinates": {
-        "lat": "53.588195",
-        "lon": "7.218913"
-      }
+      "lat": "53.588195",
+      "lon": "7.218913"
     },
     {
       "id": "008006730",
       "name": "Neu-Ulm",
-      "coordinates": {
-        "lat": "48.393041",
-        "lon": "10.004823"
-      }
+      "lat": "48.393041",
+      "lon": "10.004823"
     },
     {
       "id": "008000181",
       "name": "Husum",
-      "coordinates": {
-        "lat": "54.472275",
-        "lon": "9.055022"
-      }
+      "lat": "54.472275",
+      "lon": "9.055022"
     },
     {
       "id": "008004343",
       "name": "Nieb\u00fcll",
-      "coordinates": {
-        "lat": "54.789603",
-        "lon": "8.834571"
-      }
+      "lat": "54.789603",
+      "lon": "8.834571"
     },
     {
       "id": "008000283",
       "name": "Northeim(Han)",
-      "coordinates": {
-        "lat": "51.703139",
-        "lon": "9.986620"
-      }
+      "lat": "51.703139",
+      "lon": "9.986620"
     },
     {
       "id": "008012478",
       "name": "Neuwiederitzsch Messe Leipzig",
-      "coordinates": {
-        "lat": "51.396148",
-        "lon": "12.389274"
-      }
+      "lat": "51.396148",
+      "lon": "12.389274"
     },
     {
       "id": "008004305",
       "name": "Neumarkt(Oberpf)",
-      "coordinates": {
-        "lat": "49.273220",
-        "lon": "11.456985"
-      }
+      "lat": "49.273220",
+      "lon": "11.456985"
     },
     {
       "id": "008010256",
       "name": "Nordhausen",
-      "coordinates": {
-        "lat": "51.492917",
-        "lon": "10.789248"
-      }
+      "lat": "51.492917",
+      "lon": "10.789248"
     },
     {
       "id": "008004488",
       "name": "N\u00fcrtingen",
-      "coordinates": {
-        "lat": "48.628001",
-        "lon": "9.342650"
-      }
+      "lat": "48.628001",
+      "lon": "9.342650"
     },
     {
       "id": "008601645",
       "name": "Naestved st",
-      "coordinates": {
-        "lat": "55.231872",
-        "lon": "11.766924"
-      }
+      "lat": "55.231872",
+      "lon": "11.766924"
     },
     {
       "id": "008601745",
       "name": "Nykoebing F st",
-      "coordinates": {
-        "lat": "54.766833",
-        "lon": "11.877770"
-      }
+      "lat": "54.766833",
+      "lon": "11.877770"
     },
     {
       "id": "005100071",
       "name": "Neu Bentschen",
-      "coordinates": {
-        "lat": "52.242509",
-        "lon": "15.818093"
-      }
+      "lat": "52.242509",
+      "lon": "15.818093"
     },
     {
       "id": "008601699",
       "name": "Noerreport st",
-      "coordinates": {
-        "lat": "55.683517",
-        "lon": "12.571863"
-      }
+      "lat": "55.683517",
+      "lon": "12.571863"
     },
     {
       "id": "005600025",
       "name": "Nove Zamky",
-      "coordinates": {
-        "lat": "47.994999",
-        "lon": "18.173959"
-      }
+      "lat": "47.994999",
+      "lon": "18.173959"
     },
     {
       "id": "005500913",
       "name": "Nagymaros-Visegrad",
-      "coordinates": {
-        "lat": "47.790889",
-        "lon": "18.958798"
-      }
+      "lat": "47.790889",
+      "lon": "18.958798"
     },
     {
       "id": "008601739",
       "name": "Nyborg st",
-      "coordinates": {
-        "lat": "55.314070",
-        "lon": "10.802921"
-      }
+      "lat": "55.314070",
+      "lon": "10.802921"
     },
     {
       "id": "008300233",
       "name": "Nogara",
-      "coordinates": {
-        "lat": "45.180035",
-        "lon": "11.071024"
-      }
+      "lat": "45.180035",
+      "lon": "11.071024"
     },
     {
       "id": "008700436",
       "name": "Noisy-le-Sec",
-      "coordinates": {
-        "lat": "48.896509",
-        "lon": "2.458792"
-      }
+      "lat": "48.896509",
+      "lon": "2.458792"
     },
     {
       "id": "008000290",
       "name": "Offenburg",
-      "coordinates": {
-        "lat": "48.476479",
-        "lon": "7.946724"
-      }
+      "lat": "48.476479",
+      "lon": "7.946724"
     },
     {
       "id": "008000286",
       "name": "Oberhausen Hbf",
-      "coordinates": {
-        "lat": "51.474876",
-        "lon": "6.851587"
-      }
+      "lat": "51.474876",
+      "lon": "6.851587"
     },
     {
       "id": "008000294",
       "name": "Osnabr\u00fcck Hbf",
-      "coordinates": {
-        "lat": "52.272848",
-        "lon": "8.061777"
-      }
+      "lat": "52.272848",
+      "lon": "8.061777"
     },
     {
       "id": "008000349",
       "name": "Offenbach(Main)Hbf",
-      "coordinates": {
-        "lat": "50.099265",
-        "lon": "8.760743"
-      }
+      "lat": "50.099265",
+      "lon": "8.760743"
     },
     {
       "id": "008000291",
       "name": "Oldenburg(Oldb)",
-      "coordinates": {
-        "lat": "53.144325",
-        "lon": "8.222711"
-      }
+      "lat": "53.144325",
+      "lon": "8.222711"
     },
     {
       "id": "008011191",
       "name": "Ostseebad Binz",
-      "coordinates": {
-        "lat": "54.404820",
-        "lon": "13.600508"
-      }
+      "lat": "54.404820",
+      "lon": "13.600508"
     },
     {
       "id": "008000732",
       "name": "Oeynhausen Bad",
-      "coordinates": {
-        "lat": "52.205393",
-        "lon": "8.796520"
-      }
+      "lat": "52.205393",
+      "lon": "8.796520"
     },
     {
       "id": "008004610",
       "name": "Ocholt",
-      "coordinates": {
-        "lat": "53.202162",
-        "lon": "7.886470"
-      }
+      "lat": "53.202162",
+      "lon": "7.886470"
     },
     {
       "id": "008004669",
       "name": "Oldenburg(Holst)",
-      "coordinates": {
-        "lat": "54.283825",
-        "lon": "10.882835"
-      }
+      "lat": "54.283825",
+      "lon": "10.882835"
     },
     {
       "id": "008004585",
       "name": "Oberstdorf",
-      "coordinates": {
-        "lat": "47.411032",
-        "lon": "10.278095"
-      }
+      "lat": "47.411032",
+      "lon": "10.278095"
     },
     {
       "id": "008004506",
       "name": "Oberau",
-      "coordinates": {
-        "lat": "47.559273",
-        "lon": "11.139270"
-      }
+      "lat": "47.559273",
+      "lon": "11.139270"
     },
     {
       "id": "008500218",
       "name": "Olten",
-      "coordinates": {
-        "lat": "47.352009",
-        "lon": "7.907621"
-      }
+      "lat": "47.352009",
+      "lon": "7.907621"
     },
     {
       "id": "008601878",
       "name": "Oesterport st",
-      "coordinates": {
-        "lat": "55.692704",
-        "lon": "12.587612"
-      }
+      "lat": "55.692704",
+      "lon": "12.587612"
     },
     {
       "id": "007800002",
       "name": "Opatija Matulji",
-      "coordinates": {
-        "lat": "45.364809",
-        "lon": "14.321775"
-      }
+      "lat": "45.364809",
+      "lon": "14.321775"
     },
     {
       "id": "008601770",
       "name": "Odense st",
-      "coordinates": {
-        "lat": "55.401777",
-        "lon": "10.386001"
-      }
+      "lat": "55.401777",
+      "lon": "10.386001"
     },
     {
       "id": "002100012",
       "name": "Orscha Central",
-      "coordinates": {
-        "lat": "54.520834",
-        "lon": "30.374883"
-      }
+      "lat": "54.520834",
+      "lon": "30.374883"
     },
     {
       "id": "008300257",
       "name": "Orvieto",
-      "coordinates": {
-        "lat": "42.723931",
-        "lon": "12.126753"
-      }
+      "lat": "42.723931",
+      "lon": "12.126753"
     },
     {
       "id": "008300224",
       "name": "Orte",
-      "coordinates": {
-        "lat": "42.437606",
-        "lon": "12.409069"
-      }
+      "lat": "42.437606",
+      "lon": "12.409069"
     },
     {
       "id": "008000091",
       "name": "Steinach(b Rothenburg ob der Tauber)",
-      "coordinates": {
-        "lat": "49.453220",
-        "lon": "10.273537"
-      }
+      "lat": "49.453220",
+      "lon": "10.273537"
     },
     {
       "id": "008000128",
       "name": "G\u00f6ttingen",
-      "coordinates": {
-        "lat": "51.536811",
-        "lon": "9.926068"
-      }
+      "lat": "51.536811",
+      "lon": "9.926068"
     },
     {
       "id": "008100012",
       "name": "Amstetten N\u00d6",
-      "coordinates": {
-        "lat": "48.121603",
-        "lon": "14.878109"
-      }
+      "lat": "48.121603",
+      "lon": "14.878109"
     },
     {
       "id": "008000298",
       "name": "Passau Hbf",
-      "coordinates": {
-        "lat": "48.573634",
-        "lon": "13.450775"
-      }
+      "lat": "48.573634",
+      "lon": "13.450775"
     },
     {
       "id": "008000297",
       "name": "Paderborn Hbf",
-      "coordinates": {
-        "lat": "51.712982",
-        "lon": "8.740508"
-      }
+      "lat": "51.712982",
+      "lon": "8.740508"
     },
     {
       "id": "008000299",
       "name": "Pforzheim Hbf",
-      "coordinates": {
-        "lat": "48.894154",
-        "lon": "8.703095"
-      }
+      "lat": "48.894154",
+      "lon": "8.703095"
     },
     {
       "id": "008012666",
       "name": "Potsdam Hbf",
-      "coordinates": {
-        "lat": "52.391703",
-        "lon": "13.066782"
-      }
+      "lat": "52.391703",
+      "lon": "13.066782"
     },
     {
       "id": "008000302",
       "name": "Plochingen",
-      "coordinates": {
-        "lat": "48.713084",
-        "lon": "9.410807"
-      }
+      "lat": "48.713084",
+      "lon": "9.410807"
     },
     {
       "id": "008004885",
       "name": "Prien a Chiemsee",
-      "coordinates": {
-        "lat": "47.855513",
-        "lon": "12.346612"
-      }
+      "lat": "47.855513",
+      "lon": "12.346612"
     },
     {
       "id": "008010268",
       "name": "Pasewalk",
-      "coordinates": {
-        "lat": "53.515355",
-        "lon": "13.988878"
-      }
+      "lat": "53.515355",
+      "lon": "13.988878"
     },
     {
       "id": "008000301",
       "name": "Plattling",
-      "coordinates": {
-        "lat": "48.779622",
-        "lon": "12.863941"
-      }
+      "lat": "48.779622",
+      "lon": "12.863941"
     },
     {
       "id": "008010282",
       "name": "Prenzlau",
-      "coordinates": {
-        "lat": "53.321611",
-        "lon": "13.866535"
-      }
+      "lat": "53.321611",
+      "lon": "13.866535"
     },
     {
       "id": "008004751",
       "name": "Papenburg(Ems)",
-      "coordinates": {
-        "lat": "53.089707",
-        "lon": "7.386705"
-      }
+      "lat": "53.089707",
+      "lon": "7.386705"
     },
     {
       "id": "008004903",
       "name": "Puttgarden",
-      "coordinates": {
-        "lat": "54.500366",
-        "lon": "11.226717"
-      }
+      "lat": "54.500366",
+      "lon": "11.226717"
     },
     {
       "id": "008004760",
       "name": "Peine",
-      "coordinates": {
-        "lat": "52.318945",
-        "lon": "10.232142"
-      }
+      "lat": "52.318945",
+      "lon": "10.232142"
     },
     {
       "id": "008004815",
       "name": "Piding",
-      "coordinates": {
-        "lat": "47.759544",
-        "lon": "12.911530"
-      }
+      "lat": "47.759544",
+      "lon": "12.911530"
     },
     {
       "id": "008012683",
       "name": "Prora",
-      "coordinates": {
-        "lat": "54.444984",
-        "lon": "13.564057"
-      }
+      "lat": "54.444984",
+      "lon": "13.564057"
     },
     {
       "id": "008100008",
       "name": "P\u00f6lten Hbf St",
-      "coordinates": {
-        "lat": "48.208304",
-        "lon": "15.624672"
-      }
+      "lat": "48.208304",
+      "lon": "15.624672"
     },
     {
       "id": "008796001",
       "name": "PARIS",
-      "coordinates": {
-        "lat": "48.861496",
-        "lon": "2.333680"
-      }
+      "lat": "48.861496",
+      "lon": "2.333680"
     },
     {
       "id": "008700011",
       "name": "Paris Est",
-      "coordinates": {
-        "lat": "48.876975",
-        "lon": "2.359120"
-      }
+      "lat": "48.876975",
+      "lon": "2.359120"
     },
     {
       "id": "005600207",
       "name": "Pre\u00dfburg Hbf",
-      "coordinates": {
-        "lat": "48.158908",
-        "lon": "17.106463"
-      }
+      "lat": "48.158908",
+      "lon": "17.106463"
     },
     {
       "id": "005496001",
       "name": "PRAHA",
-      "coordinates": {
-        "lat": "50.081925",
-        "lon": "14.451481"
-      }
+      "lat": "50.081925",
+      "lon": "14.451481"
     },
     {
       "id": "005400014",
       "name": "Praha hl.n.",
-      "coordinates": {
-        "lat": "50.083058",
-        "lon": "14.436037"
-      }
+      "lat": "50.083058",
+      "lon": "14.436037"
     },
     {
       "id": "005400201",
       "name": "Praha-Holesovice",
-      "coordinates": {
-        "lat": "50.110214",
-        "lon": "14.440010"
-      }
+      "lat": "50.110214",
+      "lon": "14.440010"
     },
     {
       "id": "008601899",
       "name": "Padborg st",
-      "coordinates": {
-        "lat": "54.824247",
-        "lon": "9.358804"
-      }
+      "lat": "54.824247",
+      "lon": "9.358804"
     },
     {
       "id": "008100080",
       "name": "P\u00f6rtschach am W\u00f6rther See",
-      "coordinates": {
-        "lat": "46.636198",
-        "lon": "14.146234"
-      }
+      "lat": "46.636198",
+      "lon": "14.146234"
     },
     {
       "id": "008300098",
       "name": "Padova",
-      "coordinates": {
-        "lat": "45.417827",
-        "lon": "11.880620"
-      }
+      "lat": "45.417827",
+      "lon": "11.880620"
     },
     {
       "id": "005196002",
       "name": "POZNAN",
-      "coordinates": {
-        "lat": "52.410248",
-        "lon": "16.905365"
-      }
+      "lat": "52.410248",
+      "lon": "16.905365"
     },
     {
       "id": "005100081",
       "name": "Poznan Gl.",
-      "coordinates": {
-        "lat": "52.401996",
-        "lon": "16.910866"
-      }
+      "lat": "52.401996",
+      "lon": "16.910866"
     },
     {
       "id": "005400161",
       "name": "Pardubice hl.n.",
-      "coordinates": {
-        "lat": "50.031738",
-        "lon": "15.756211"
-      }
+      "lat": "50.031738",
+      "lon": "15.756211"
     },
     {
       "id": "005696001",
       "name": "POZSONY",
-      "coordinates": {
-        "lat": "48.154135",
-        "lon": "17.097851"
-      }
+      "lat": "48.154135",
+      "lon": "17.097851"
     },
     {
       "id": "008300124",
       "name": "Peschiera del Garda",
-      "coordinates": {
-        "lat": "45.437576",
-        "lon": "10.701181"
-      }
+      "lat": "45.437576",
+      "lon": "10.701181"
     },
     {
       "id": "007900011",
       "name": "Pivka",
-      "coordinates": {
-        "lat": "45.675710",
-        "lon": "14.191144"
-      }
+      "lat": "45.675710",
+      "lon": "14.191144"
     },
     {
       "id": "008300110",
       "name": "Pordenone",
-      "coordinates": {
-        "lat": "45.956353",
-        "lon": "12.653683"
-      }
+      "lat": "45.956353",
+      "lon": "12.653683"
     },
     {
       "id": "007900012",
       "name": "Postojna",
-      "coordinates": {
-        "lat": "45.772928",
-        "lon": "14.221276"
-      }
+      "lat": "45.772928",
+      "lon": "14.221276"
     },
     {
       "id": "005400204",
       "name": "Praha-Smichov",
-      "coordinates": {
-        "lat": "50.060944",
-        "lon": "14.408153"
-      }
+      "lat": "50.060944",
+      "lon": "14.408153"
     },
     {
       "id": "008302177",
       "name": "Pietro in Casale S",
-      "coordinates": {
-        "lat": "44.697980",
-        "lon": "11.404830"
-      }
+      "lat": "44.697980",
+      "lon": "11.404830"
     },
     {
       "id": "008301897",
       "name": "Pioltello-Limito",
-      "coordinates": {
-        "lat": "45.485732",
-        "lon": "9.328259"
-      }
+      "lat": "45.485732",
+      "lon": "9.328259"
     },
     {
       "id": "005496012",
       "name": "PLZEN",
-      "coordinates": {
-        "lat": "49.746888",
-        "lon": "13.377351"
-      }
+      "lat": "49.746888",
+      "lon": "13.377351"
     },
     {
       "id": "005400012",
       "name": "Plzen hl.n.",
-      "coordinates": {
-        "lat": "49.743167",
-        "lon": "13.388246"
-      }
+      "lat": "49.743167",
+      "lon": "13.388246"
     },
     {
       "id": "008300108",
       "name": "Pontebba",
-      "coordinates": {
-        "lat": "46.508407",
-        "lon": "13.311442"
-      }
+      "lat": "46.508407",
+      "lon": "13.311442"
     },
     {
       "id": "008300111",
       "name": "Portogruaro-Caorle",
-      "coordinates": {
-        "lat": "45.780910",
-        "lon": "12.831202"
-      }
+      "lat": "45.780910",
+      "lon": "12.831202"
     },
     {
       "id": "008300170",
       "name": "Prato Centrale",
-      "coordinates": {
-        "lat": "43.879063",
-        "lon": "11.109309"
-      }
+      "lat": "43.879063",
+      "lon": "11.109309"
     },
     {
       "id": "008000306",
       "name": "Rastatt",
-      "coordinates": {
-        "lat": "48.860480",
-        "lon": "8.215619"
-      }
+      "lat": "48.860480",
+      "lon": "8.215619"
     },
     {
       "id": "008000309",
       "name": "Regensburg Hbf",
-      "coordinates": {
-        "lat": "49.011669",
-        "lon": "12.099615"
-      }
+      "lat": "49.011669",
+      "lon": "12.099615"
     },
     {
       "id": "008000307",
       "name": "Recklinghausen Hbf",
-      "coordinates": {
-        "lat": "51.616357",
-        "lon": "7.203487"
-      }
+      "lat": "51.616357",
+      "lon": "7.203487"
     },
     {
       "id": "008010304",
       "name": "Rostock Hbf",
-      "coordinates": {
-        "lat": "54.078242",
-        "lon": "12.131077"
-      }
+      "lat": "54.078242",
+      "lon": "12.131077"
     },
     {
       "id": "008000314",
       "name": "Reutlingen Hbf",
-      "coordinates": {
-        "lat": "48.496075",
-        "lon": "9.209116"
-      }
+      "lat": "48.496075",
+      "lon": "9.209116"
     },
     {
       "id": "008000318",
       "name": "Rheydt Hbf",
-      "coordinates": {
-        "lat": "51.163031",
-        "lon": "6.439566"
-      }
+      "lat": "51.163031",
+      "lon": "6.439566"
     },
     {
       "id": "008000320",
       "name": "Rosenheim",
-      "coordinates": {
-        "lat": "47.850020",
-        "lon": "12.119202"
-      }
+      "lat": "47.850020",
+      "lon": "12.119202"
     },
     {
       "id": "008010297",
       "name": "Riesa",
-      "coordinates": {
-        "lat": "51.309654",
-        "lon": "13.287737"
-      }
+      "lat": "51.309654",
+      "lon": "13.287737"
     },
     {
       "id": "008010033",
       "name": "R\u00fcgen",
-      "coordinates": {
-        "lat": "54.420497",
-        "lon": "13.417820"
-      }
+      "lat": "54.420497",
+      "lon": "13.417820"
     },
     {
       "id": "008000310",
       "name": "Remagen",
-      "coordinates": {
-        "lat": "50.577213",
-        "lon": "7.229781"
-      }
+      "lat": "50.577213",
+      "lon": "7.229781"
     },
     {
       "id": "008012763",
       "name": "Ribnitz-Damgarten West",
-      "coordinates": {
-        "lat": "54.239175",
-        "lon": "12.436962"
-      }
+      "lat": "54.239175",
+      "lon": "12.436962"
     },
     {
       "id": "008000316",
       "name": "Rheine",
-      "coordinates": {
-        "lat": "52.276300",
-        "lon": "7.434258"
-      }
+      "lat": "52.276300",
+      "lon": "7.434258"
     },
     {
       "id": "008000322",
       "name": "Rottweil",
-      "coordinates": {
-        "lat": "48.165299",
-        "lon": "8.639298"
-      }
+      "lat": "48.165299",
+      "lon": "8.639298"
     },
     {
       "id": "008000312",
       "name": "Rendsburg",
-      "coordinates": {
-        "lat": "54.302262",
-        "lon": "9.671134"
-      }
+      "lat": "54.302262",
+      "lon": "9.671134"
     },
     {
       "id": "008000737",
       "name": "Reichenhall Bad",
-      "coordinates": {
-        "lat": "47.731165",
-        "lon": "12.881820"
-      }
+      "lat": "47.731165",
+      "lon": "12.881820"
     },
     {
       "id": "008000738",
       "name": "Reichenhall-Kir. Bad",
-      "coordinates": {
-        "lat": "47.718535",
-        "lon": "12.874000"
-      }
+      "lat": "47.718535",
+      "lon": "12.874000"
     },
     {
       "id": "008000880",
       "name": "Radolfzell",
-      "coordinates": {
-        "lat": "47.735875",
-        "lon": "8.968987"
-      }
+      "lat": "47.735875",
+      "lon": "8.968987"
     },
     {
       "id": "008004965",
       "name": "Ravensburg",
-      "coordinates": {
-        "lat": "47.784480",
-        "lon": "9.606097"
-      }
+      "lat": "47.784480",
+      "lon": "9.606097"
     },
     {
       "id": "008005213",
       "name": "R\u00fcdesheim(Rhein)",
-      "coordinates": {
-        "lat": "49.976886",
-        "lon": "7.915415"
-      }
+      "lat": "49.976886",
+      "lon": "7.915415"
     },
     {
       "id": "008601996",
       "name": "Roedekro st",
-      "coordinates": {
-        "lat": "55.069689",
-        "lon": "9.332753"
-      }
+      "lat": "55.069689",
+      "lon": "9.332753"
     },
     {
       "id": "005500080",
       "name": "Raab",
-      "coordinates": {
-        "lat": "47.681985",
-        "lon": "17.634795"
-      }
+      "lat": "47.681985",
+      "lon": "17.634795"
     },
     {
       "id": "008601988",
       "name": "R\u00f6dby BF",
-      "coordinates": {
-        "lat": "54.655718",
-        "lon": "11.357466"
-      }
+      "lat": "54.655718",
+      "lon": "11.357466"
     },
     {
       "id": "008602026",
       "name": "Roskilde st",
-      "coordinates": {
-        "lat": "55.639012",
-        "lon": "12.088855"
-      }
+      "lat": "55.639012",
+      "lon": "12.088855"
     },
     {
       "id": "005100082",
       "name": "Rzepin",
-      "coordinates": {
-        "lat": "52.350218",
-        "lon": "14.815076"
-      }
+      "lat": "52.350218",
+      "lon": "14.815076"
     },
     {
       "id": "008100138",
       "name": "Radstadt",
-      "coordinates": {
-        "lat": "47.384235",
-        "lon": "13.467809"
-      }
+      "lat": "47.384235",
+      "lon": "13.467809"
     },
     {
       "id": "008100309",
       "name": "Rottenmann Stadt",
-      "coordinates": {
-        "lat": "47.527227",
-        "lon": "14.367171"
-      }
+      "lat": "47.527227",
+      "lon": "14.367171"
     },
     {
       "id": "008300113",
       "name": "Rovereto",
-      "coordinates": {
-        "lat": "45.890956",
-        "lon": "11.033602"
-      }
+      "lat": "45.890956",
+      "lon": "11.033602"
     },
     {
       "id": "007800013",
       "name": "Rijeka",
-      "coordinates": {
-        "lat": "45.330083",
-        "lon": "14.430248"
-      }
+      "lat": "45.330083",
+      "lon": "14.430248"
     },
     {
       "id": "008300221",
       "name": "Rimini",
-      "coordinates": {
-        "lat": "44.064240",
-        "lon": "12.574012"
-      }
+      "lat": "44.064240",
+      "lon": "12.574012"
     },
     {
       "id": "008601979",
       "name": "Ringsted st",
-      "coordinates": {
-        "lat": "55.438040",
-        "lon": "11.786152"
-      }
+      "lat": "55.438040",
+      "lon": "11.786152"
     },
     {
       "id": "008396004",
       "name": "ROMA",
-      "coordinates": {
-        "lat": "41.901867",
-        "lon": "12.470654"
-      }
+      "lat": "41.901867",
+      "lon": "12.470654"
     },
     {
       "id": "008300263",
       "name": "Roma Termini",
-      "coordinates": {
-        "lat": "41.900492",
-        "lon": "12.502790"
-      }
+      "lat": "41.900492",
+      "lon": "12.502790"
     },
     {
       "id": "008301996",
       "name": "Redipuglia",
-      "coordinates": {
-        "lat": "45.853381",
-        "lon": "13.485841"
-      }
+      "lat": "45.853381",
+      "lon": "13.485841"
     },
     {
       "id": "008300262",
       "name": "Roma Tiburtina",
-      "coordinates": {
-        "lat": "41.911072",
-        "lon": "12.531457"
-      }
+      "lat": "41.911072",
+      "lon": "12.531457"
     },
     {
       "id": "008302025",
       "name": "Romano",
-      "coordinates": {
-        "lat": "45.523972",
-        "lon": "9.753394"
-      }
+      "lat": "45.523972",
+      "lon": "9.753394"
     },
     {
       "id": "008301993",
       "name": "Ronchi dei Leg. Nord",
-      "coordinates": {
-        "lat": "45.830612",
-        "lon": "13.505914"
-      }
+      "lat": "45.830612",
+      "lon": "13.505914"
     },
     {
       "id": "008400507",
       "name": "Rotterdam Alexander",
-      "coordinates": {
-        "lat": "51.951735",
-        "lon": "4.553521"
-      }
+      "lat": "51.951735",
+      "lon": "4.553521"
     },
     {
       "id": "008400530",
       "name": "Rotterdam Centraal",
-      "coordinates": {
-        "lat": "51.924804",
-        "lon": "4.468771"
-      }
+      "lat": "51.924804",
+      "lon": "4.468771"
     },
     {
       "id": "008300533",
       "name": "Rovato",
-      "coordinates": {
-        "lat": "45.552099",
-        "lon": "10.001362"
-      }
+      "lat": "45.552099",
+      "lon": "10.001362"
     },
     {
       "id": "008300238",
       "name": "Rovigo",
-      "coordinates": {
-        "lat": "45.076983",
-        "lon": "11.781064"
-      }
+      "lat": "45.076983",
+      "lon": "11.781064"
     },
     {
       "id": "008000236",
       "name": "Ludwigshafen(Rh)Hbf",
-      "coordinates": {
-        "lat": "49.477985",
-        "lon": "8.433400"
-      }
+      "lat": "49.477985",
+      "lon": "8.433400"
     },
     {
       "id": "008000096",
       "name": "Stuttgart Hbf",
-      "coordinates": {
-        "lat": "48.784081",
-        "lon": "9.181636"
-      }
+      "lat": "48.784081",
+      "lon": "9.181636"
     },
     {
       "id": "008005556",
       "name": "Siegburg\/Bonn",
-      "coordinates": {
-        "lat": "50.793916",
-        "lon": "7.203029"
-      }
+      "lat": "50.793916",
+      "lon": "7.203029"
     },
     {
       "id": "008010338",
       "name": "Stralsund Hbf",
-      "coordinates": {
-        "lat": "54.308626",
-        "lon": "13.077318"
-      }
+      "lat": "54.308626",
+      "lon": "13.077318"
     },
     {
       "id": "008000087",
       "name": "Solingen Hbf",
-      "coordinates": {
-        "lat": "51.160766",
-        "lon": "7.004187"
-      }
+      "lat": "51.160766",
+      "lon": "7.004187"
     },
     {
       "id": "008000323",
       "name": "Saarbr\u00fccken Hbf",
-      "coordinates": {
-        "lat": "49.241065",
-        "lon": "6.991018"
-      }
+      "lat": "49.241065",
+      "lon": "6.991018"
     },
     {
       "id": "008010324",
       "name": "Schwerin Hbf",
-      "coordinates": {
-        "lat": "53.634741",
-        "lon": "11.407455"
-      }
+      "lat": "53.634741",
+      "lon": "11.407455"
     },
     {
       "id": "008100002",
       "name": "Salzburg Hbf",
-      "coordinates": {
-        "lat": "47.813048",
-        "lon": "13.045820"
-      }
+      "lat": "47.813048",
+      "lon": "13.045820"
     },
     {
       "id": "008010334",
       "name": "Stendal",
-      "coordinates": {
-        "lat": "52.594725",
-        "lon": "11.854407"
-      }
+      "lat": "52.594725",
+      "lon": "11.854407"
     },
     {
       "id": "008010309",
       "name": "Saalfeld(Saale)",
-      "coordinates": {
-        "lat": "50.650313",
-        "lon": "11.374986"
-      }
+      "lat": "50.650313",
+      "lon": "11.374986"
     },
     {
       "id": "008100008",
       "name": "St.P\u00f6lten Hbf",
-      "coordinates": {
-        "lat": "48.208304",
-        "lon": "15.624672"
-      }
+      "lat": "48.208304",
+      "lon": "15.624672"
     },
     {
       "id": "008010022",
       "name": "Schandau Bad",
-      "coordinates": {
-        "lat": "50.918839",
-        "lon": "14.139321"
-      }
+      "lat": "50.918839",
+      "lon": "14.139321"
     },
     {
       "id": "008000329",
       "name": "Schw\u00e4bisch Gm\u00fcnd",
-      "coordinates": {
-        "lat": "48.801007",
-        "lon": "9.787796"
-      }
+      "lat": "48.801007",
+      "lon": "9.787796"
     },
     {
       "id": "008000129",
       "name": "Schwalmstadt-Treysa",
-      "coordinates": {
-        "lat": "50.910659",
-        "lon": "9.185672"
-      }
+      "lat": "50.910659",
+      "lon": "9.185672"
     },
     {
       "id": "008000073",
       "name": "Singen(Hohentwiel)",
-      "coordinates": {
-        "lat": "47.758438",
-        "lon": "8.840378"
-      }
+      "lat": "47.758438",
+      "lon": "8.840378"
     },
     {
       "id": "008000076",
       "name": "Soest",
-      "coordinates": {
-        "lat": "51.578422",
-        "lon": "8.104593"
-      }
+      "lat": "51.578422",
+      "lon": "8.104593"
     },
     {
       "id": "008005609",
       "name": "Sonthofen",
-      "coordinates": {
-        "lat": "47.513240",
-        "lon": "10.272342"
-      }
+      "lat": "47.513240",
+      "lon": "10.272342"
     },
     {
       "id": "008005424",
       "name": "Schorndorf",
-      "coordinates": {
-        "lat": "48.807147",
-        "lon": "9.526309"
-      }
+      "lat": "48.807147",
+      "lon": "9.526309"
     },
     {
       "id": "008005661",
       "name": "Stadtallendorf",
-      "coordinates": {
-        "lat": "50.825432",
-        "lon": "9.015281"
-      }
+      "lat": "50.825432",
+      "lon": "9.015281"
     },
     {
       "id": "008000095",
       "name": "Straubing",
-      "coordinates": {
-        "lat": "48.876975",
-        "lon": "12.574093"
-      }
+      "lat": "48.876975",
+      "lon": "12.574093"
     },
     {
       "id": "008006369",
       "name": "Sylt",
-      "coordinates": {
-        "lat": "54.906840",
-        "lon": "8.310922"
-      }
+      "lat": "54.906840",
+      "lon": "8.310922"
     },
     {
       "id": "008000091",
       "name": "Steinach(b Rothenburg ob der Tauber)",
-      "coordinates": {
-        "lat": "49.453220",
-        "lon": "10.273537"
-      }
+      "lat": "49.453220",
+      "lon": "10.273537"
     },
     {
       "id": "008010312",
       "name": "Sangerhausen",
-      "coordinates": {
-        "lat": "51.479892",
-        "lon": "11.294514"
-      }
+      "lat": "51.479892",
+      "lon": "11.294514"
     },
     {
       "id": "008005321",
       "name": "Scharbeutz",
-      "coordinates": {
-        "lat": "54.018742",
-        "lon": "10.745759"
-      }
+      "lat": "54.018742",
+      "lon": "10.745759"
     },
     {
       "id": "008002504",
       "name": "Scharbeutz-Haffkrug",
-      "coordinates": {
-        "lat": "54.054186",
-        "lon": "10.742684"
-      }
+      "lat": "54.054186",
+      "lon": "10.742684"
     },
     {
       "id": "008005362",
       "name": "Schleswig",
-      "coordinates": {
-        "lat": "54.499458",
-        "lon": "9.538139"
-      }
+      "lat": "54.499458",
+      "lon": "9.538139"
     },
     {
       "id": "008000891",
       "name": "Schl\u00fcchtern",
-      "coordinates": {
-        "lat": "50.341174",
-        "lon": "9.510038"
-      }
+      "lat": "50.341174",
+      "lon": "9.510038"
     },
     {
       "id": "008005561",
       "name": "Sierksdorf",
-      "coordinates": {
-        "lat": "54.068524",
-        "lon": "10.769104"
-      }
+      "lat": "54.068524",
+      "lon": "10.769104"
     },
     {
       "id": "008005644",
       "name": "St Georgen(Schwarzw)",
-      "coordinates": {
-        "lat": "48.123814",
-        "lon": "8.341953"
-      }
+      "lat": "48.123814",
+      "lon": "8.341953"
     },
     {
       "id": "008005662",
       "name": "Stadthagen",
-      "coordinates": {
-        "lat": "52.332833",
-        "lon": "9.189429"
-      }
+      "lat": "52.332833",
+      "lon": "9.189429"
     },
     {
       "id": "008700023",
       "name": "Strasbourg",
-      "coordinates": {
-        "lat": "48.585338",
-        "lon": "7.734067"
-      }
+      "lat": "48.585338",
+      "lon": "7.734067"
     },
     {
       "id": "008503424",
       "name": "Schaffhausen",
-      "coordinates": {
-        "lat": "47.698921",
-        "lon": "8.632898"
-      }
+      "lat": "47.698921",
+      "lon": "8.632898"
     },
     {
       "id": "008507483",
       "name": "Spiez",
-      "coordinates": {
-        "lat": "46.686394",
-        "lon": "7.680095"
-      }
+      "lat": "46.686394",
+      "lon": "7.680095"
     },
     {
       "id": "008509411",
       "name": "Sargans",
-      "coordinates": {
-        "lat": "47.044794",
-        "lon": "9.446269"
-      }
+      "lat": "47.044794",
+      "lon": "9.446269"
     },
     {
       "id": "008100044",
       "name": "Schwarzach-St.Veit",
-      "coordinates": {
-        "lat": "47.318533",
-        "lon": "13.154463"
-      }
+      "lat": "47.318533",
+      "lon": "13.154463"
     },
     {
       "id": "008100092",
       "name": "Spittal-Millst\u00e4ttersee",
-      "coordinates": {
-        "lat": "46.795703",
-        "lon": "13.487415"
-      }
+      "lat": "46.795703",
+      "lon": "13.487415"
     },
     {
       "id": "008100043",
       "name": "St. Johann im Pongau",
-      "coordinates": {
-        "lat": "47.348377",
-        "lon": "13.194960"
-      }
+      "lat": "47.348377",
+      "lon": "13.194960"
     },
     {
       "id": "008500026",
       "name": "Sissach",
-      "coordinates": {
-        "lat": "47.462747",
-        "lon": "7.812021"
-      }
+      "lat": "47.462747",
+      "lon": "7.812021"
     },
     {
       "id": "008101917",
       "name": "Salzburg S\u00fcd",
-      "coordinates": {
-        "lat": "47.770223",
-        "lon": "13.078486"
-      }
+      "lat": "47.770223",
+      "lon": "13.078486"
     },
     {
       "id": "008506302",
       "name": "St. Gallen(CH)",
-      "coordinates": {
-        "lat": "47.423276",
-        "lon": "9.369303"
-      }
+      "lat": "47.423276",
+      "lon": "9.369303"
     },
     {
       "id": "008506314",
       "name": "St. Margrethen",
-      "coordinates": {
-        "lat": "47.453353",
-        "lon": "9.638413"
-      }
+      "lat": "47.453353",
+      "lon": "9.638413"
     },
     {
       "id": "008100137",
       "name": "Schladming",
-      "coordinates": {
-        "lat": "47.393827",
-        "lon": "13.678148"
-      }
+      "lat": "47.393827",
+      "lon": "13.678148"
     },
     {
       "id": "008100150",
       "name": "Selzthal",
-      "coordinates": {
-        "lat": "47.550239",
-        "lon": "14.312840"
-      }
+      "lat": "47.550239",
+      "lon": "14.312840"
     },
     {
       "id": "008602175",
       "name": "Skanderborg st",
-      "coordinates": {
-        "lat": "56.043562",
-        "lon": "9.924495"
-      }
+      "lat": "56.043562",
+      "lon": "9.924495"
     },
     {
       "id": "008100071",
       "name": "St.Michael in Obersteiermark",
-      "coordinates": {
-        "lat": "47.346625",
-        "lon": "15.009189"
-      }
+      "lat": "47.346625",
+      "lon": "15.009189"
     },
     {
       "id": "008100309",
       "name": "Stadt Rottenmann",
-      "coordinates": {
-        "lat": "47.527227",
-        "lon": "14.367171"
-      }
+      "lat": "47.527227",
+      "lon": "14.367171"
     },
     {
       "id": "008100132",
       "name": "Stainach-Irdning",
-      "coordinates": {
-        "lat": "47.529195",
-        "lon": "14.106753"
-      }
+      "lat": "47.529195",
+      "lon": "14.106753"
     },
     {
       "id": "008100173",
       "name": "St\u00fdrsk\u00fd Hradec hl.n.",
-      "coordinates": {
-        "lat": "47.072301",
-        "lon": "15.416437"
-      }
+      "lat": "47.072301",
+      "lon": "15.416437"
     },
     {
       "id": "005103284",
       "name": "Swiebodzin",
-      "coordinates": {
-        "lat": "52.245143",
-        "lon": "15.539535"
-      }
+      "lat": "52.245143",
+      "lon": "15.539535"
     },
     {
       "id": "008100064",
       "name": "St. Anton am Arlberg",
-      "coordinates": {
-        "lat": "47.127566",
-        "lon": "10.266993"
-      }
+      "lat": "47.127566",
+      "lon": "10.266993"
     },
     {
       "id": "008100113",
       "name": "Seefeld in Tirol",
-      "coordinates": {
-        "lat": "47.328727",
-        "lon": "11.189484"
-      }
+      "lat": "47.328727",
+      "lon": "11.189484"
     },
     {
       "id": "008506210",
       "name": "Gossau SG",
-      "coordinates": {
-        "lat": "47.411635",
-        "lon": "9.253504"
-      }
+      "lat": "47.411635",
+      "lon": "9.253504"
     },
     {
       "id": "007900001",
       "name": "Jesenice(SL)",
-      "coordinates": {
-        "lat": "46.436350",
-        "lon": "14.053304"
-      }
+      "lat": "46.436350",
+      "lon": "14.053304"
     },
     {
       "id": "008100054",
       "name": "St. Johann in Tirol",
-      "coordinates": {
-        "lat": "47.519622",
-        "lon": "12.430778"
-      }
+      "lat": "47.519622",
+      "lon": "12.430778"
     },
     {
       "id": "008103000",
       "name": "Vieden hl.st.",
-      "coordinates": {
-        "lat": "48.184923",
-        "lon": "16.375864"
-      }
+      "lat": "48.184923",
+      "lon": "16.375864"
     },
     {
       "id": "008600623",
       "name": "Fredericia st",
-      "coordinates": {
-        "lat": "55.568087",
-        "lon": "9.738814"
-      }
+      "lat": "55.568087",
+      "lon": "9.738814"
     },
     {
       "id": "008601318",
       "name": "Kolding st",
-      "coordinates": {
-        "lat": "55.490842",
-        "lon": "9.481525"
-      }
+      "lat": "55.490842",
+      "lon": "9.481525"
     },
     {
       "id": "008601512",
       "name": "Lunderskov st",
-      "coordinates": {
-        "lat": "55.480118",
-        "lon": "9.303790"
-      }
+      "lat": "55.480118",
+      "lon": "9.303790"
     },
     {
       "id": "008601899",
       "name": "Padborg st",
-      "coordinates": {
-        "lat": "54.824247",
-        "lon": "9.358804"
-      }
+      "lat": "54.824247",
+      "lon": "9.358804"
     },
     {
       "id": "008601996",
       "name": "Roedekro st",
-      "coordinates": {
-        "lat": "55.069689",
-        "lon": "9.332753"
-      }
+      "lat": "55.069689",
+      "lon": "9.332753"
     },
     {
       "id": "008602553",
       "name": "Tinglev st",
-      "coordinates": {
-        "lat": "54.936172",
-        "lon": "9.258233"
-      }
+      "lat": "54.936172",
+      "lon": "9.258233"
     },
     {
       "id": "008602722",
       "name": "Vamdrup st",
-      "coordinates": {
-        "lat": "55.428089",
-        "lon": "9.286450"
-      }
+      "lat": "55.428089",
+      "lon": "9.286450"
     },
     {
       "id": "008602887",
       "name": "Vojens st",
-      "coordinates": {
-        "lat": "55.248475",
-        "lon": "9.304914"
-      }
+      "lat": "55.248475",
+      "lon": "9.304914"
     },
     {
       "id": "008602254",
       "name": "Slagelse st",
-      "coordinates": {
-        "lat": "55.407548",
-        "lon": "11.348054"
-      }
+      "lat": "55.407548",
+      "lon": "11.348054"
     },
     {
       "id": "008602350",
       "name": "Soroe st",
-      "coordinates": {
-        "lat": "55.419019",
-        "lon": "11.568793"
-      }
+      "lat": "55.419019",
+      "lon": "11.568793"
     },
     {
       "id": "008601031",
       "name": "Hoeje Taastrup st",
-      "coordinates": {
-        "lat": "55.648621",
-        "lon": "12.268801"
-      }
+      "lat": "55.648621",
+      "lon": "12.268801"
     },
     {
       "id": "008601645",
       "name": "Naestved st",
-      "coordinates": {
-        "lat": "55.231872",
-        "lon": "11.766924"
-      }
+      "lat": "55.231872",
+      "lon": "11.766924"
     },
     {
       "id": "008601745",
       "name": "Nykoebing F st",
-      "coordinates": {
-        "lat": "54.766833",
-        "lon": "11.877770"
-      }
+      "lat": "54.766833",
+      "lon": "11.877770"
     },
     {
       "id": "008602026",
       "name": "Roskilde st",
-      "coordinates": {
-        "lat": "55.639012",
-        "lon": "12.088855"
-      }
+      "lat": "55.639012",
+      "lon": "12.088855"
     },
     {
       "id": "008602903",
       "name": "Vordingborg st",
-      "coordinates": {
-        "lat": "55.012517",
-        "lon": "11.899416"
-      }
+      "lat": "55.012517",
+      "lon": "11.899416"
     },
     {
       "id": "008601089",
       "name": "Horsens st",
-      "coordinates": {
-        "lat": "55.862789",
-        "lon": "9.835502"
-      }
+      "lat": "55.862789",
+      "lon": "9.835502"
     },
     {
       "id": "008602756",
       "name": "Vejle st",
-      "coordinates": {
-        "lat": "55.706359",
-        "lon": "9.536871"
-      }
+      "lat": "55.706359",
+      "lon": "9.536871"
     },
     {
       "id": "008601312",
       "name": "Koege st",
-      "coordinates": {
-        "lat": "55.457501",
-        "lon": "12.186469"
-      }
+      "lat": "55.457501",
+      "lon": "12.186469"
     },
     {
       "id": "008700074",
       "name": "Marseille-St-Charles",
-      "coordinates": {
-        "lat": "43.303816",
-        "lon": "5.381949"
-      }
+      "lat": "43.303816",
+      "lon": "5.381949"
     },
     {
       "id": "008601699",
       "name": "Noerreport st",
-      "coordinates": {
-        "lat": "55.683517",
-        "lon": "12.571863"
-      }
+      "lat": "55.683517",
+      "lon": "12.571863"
     },
     {
       "id": "008601878",
       "name": "Oesterport st",
-      "coordinates": {
-        "lat": "55.692704",
-        "lon": "12.587612"
-      }
+      "lat": "55.692704",
+      "lon": "12.587612"
     },
     {
       "id": "005600207",
       "name": "Bratislava hl.st.",
-      "coordinates": {
-        "lat": "48.158908",
-        "lon": "17.106463"
-      }
+      "lat": "48.158908",
+      "lon": "17.106463"
     },
     {
       "id": "008600276",
       "name": "Borup st",
-      "coordinates": {
-        "lat": "55.494897",
-        "lon": "11.972930"
-      }
+      "lat": "55.494897",
+      "lon": "11.972930"
     },
     {
       "id": "008600929",
       "name": "Hedehusene st",
-      "coordinates": {
-        "lat": "55.648576",
-        "lon": "12.198182"
-      }
+      "lat": "55.648576",
+      "lon": "12.198182"
     },
     {
       "id": "008601343",
       "name": "Korsoer st",
-      "coordinates": {
-        "lat": "55.357200",
-        "lon": "11.135126"
-      }
+      "lat": "55.357200",
+      "lon": "11.135126"
     },
     {
       "id": "008601404",
       "name": "Langeskov st",
-      "coordinates": {
-        "lat": "55.344903",
-        "lon": "10.598596"
-      }
+      "lat": "55.344903",
+      "lon": "10.598596"
     },
     {
       "id": "008601593",
       "name": "Middelfart st",
-      "coordinates": {
-        "lat": "55.501621",
-        "lon": "9.734661"
-      }
+      "lat": "55.501621",
+      "lon": "9.734661"
     },
     {
       "id": "008601739",
       "name": "Nyborg st",
-      "coordinates": {
-        "lat": "55.314070",
-        "lon": "10.802921"
-      }
+      "lat": "55.314070",
+      "lon": "10.802921"
     },
     {
       "id": "008601770",
       "name": "Odense st",
-      "coordinates": {
-        "lat": "55.401777",
-        "lon": "10.386001"
-      }
+      "lat": "55.401777",
+      "lon": "10.386001"
     },
     {
       "id": "008601979",
       "name": "Ringsted st",
-      "coordinates": {
-        "lat": "55.438040",
-        "lon": "11.786152"
-      }
+      "lat": "55.438040",
+      "lon": "11.786152"
     },
     {
       "id": "008602623",
       "name": "Trekroner st",
-      "coordinates": {
-        "lat": "55.647812",
-        "lon": "12.130637"
-      }
+      "lat": "55.647812",
+      "lon": "12.130637"
     },
     {
       "id": "008602825",
       "name": "Viby Sjaelland st",
-      "coordinates": {
-        "lat": "55.544850",
-        "lon": "12.027548"
-      }
+      "lat": "55.544850",
+      "lon": "12.027548"
     },
     {
       "id": "008000141",
       "name": "T\u00fcbingen Hbf",
-      "coordinates": {
-        "lat": "48.515807",
-        "lon": "9.055409"
-      }
+      "lat": "48.515807",
+      "lon": "9.055409"
     },
     {
       "id": "008000116",
       "name": "Traunstein",
-      "coordinates": {
-        "lat": "47.869725",
-        "lon": "12.638797"
-      }
+      "lat": "47.869725",
+      "lon": "12.638797"
     },
     {
       "id": "008000122",
       "name": "Treuchtlingen",
-      "coordinates": {
-        "lat": "48.961267",
-        "lon": "10.908158"
-      }
+      "lat": "48.961267",
+      "lon": "10.908158"
     },
     {
       "id": "008000163",
       "name": "Tuttlingen",
-      "coordinates": {
-        "lat": "47.980580",
-        "lon": "8.798542"
-      }
+      "lat": "47.980580",
+      "lon": "8.798542"
     },
     {
       "id": "008005927",
       "name": "Tutzing",
-      "coordinates": {
-        "lat": "47.907138",
-        "lon": "11.272886"
-      }
+      "lat": "47.907138",
+      "lon": "11.272886"
     },
     {
       "id": "008005874",
       "name": "Timmendorferstrand",
-      "coordinates": {
-        "lat": "53.994210",
-        "lon": "10.762272"
-      }
+      "lat": "53.994210",
+      "lon": "10.762272"
     },
     {
       "id": "008005902",
       "name": "Triberg",
-      "coordinates": {
-        "lat": "48.140003",
-        "lon": "8.236806"
-      }
+      "lat": "48.140003",
+      "lon": "8.236806"
     },
     {
       "id": "005500009",
       "name": "Tatabanya",
-      "coordinates": {
-        "lat": "47.584929",
-        "lon": "18.393610"
-      }
+      "lat": "47.584929",
+      "lon": "18.393610"
     },
     {
       "id": "008507100",
       "name": "Thun",
-      "coordinates": {
-        "lat": "46.754856",
-        "lon": "7.629576"
-      }
+      "lat": "46.754856",
+      "lon": "7.629576"
     },
     {
       "id": "008300101",
       "name": "Trento",
-      "coordinates": {
-        "lat": "46.072287",
-        "lon": "11.118901"
-      }
+      "lat": "46.072287",
+      "lon": "11.118901"
     },
     {
       "id": "008303915",
       "name": "Tarvisio Boscoverde",
-      "coordinates": {
-        "lat": "46.506358",
-        "lon": "13.607214"
-      }
+      "lat": "46.506358",
+      "lon": "13.607214"
     },
     {
       "id": "008100060",
       "name": "Telfs-Pfaffenhofen",
-      "coordinates": {
-        "lat": "47.300708",
-        "lon": "11.078872"
-      }
+      "lat": "47.300708",
+      "lon": "11.078872"
     },
     {
       "id": "008300130",
       "name": "Treviso Centrale",
-      "coordinates": {
-        "lat": "45.659700",
-        "lon": "12.245132"
-      }
+      "lat": "45.659700",
+      "lon": "12.245132"
     },
     {
       "id": "005100061",
       "name": "Tczew",
-      "coordinates": {
-        "lat": "54.097317",
-        "lon": "18.790151"
-      }
+      "lat": "54.097317",
+      "lon": "18.790151"
     },
     {
       "id": "005100084",
       "name": "Terespol",
-      "coordinates": {
-        "lat": "52.074142",
-        "lon": "23.601223"
-      }
+      "lat": "52.074142",
+      "lon": "23.601223"
     },
     {
       "id": "008300521",
       "name": "Terme Euganee-Abano-Montegrotto",
-      "coordinates": {
-        "lat": "45.327378",
-        "lon": "11.796436"
-      }
+      "lat": "45.327378",
+      "lon": "11.796436"
     },
     {
       "id": "008300177",
       "name": "Terontola-Cortona",
-      "coordinates": {
-        "lat": "43.210400",
-        "lon": "12.007862"
-      }
+      "lat": "43.210400",
+      "lon": "12.007862"
     },
     {
       "id": "008300069",
       "name": "Treviglio",
-      "coordinates": {
-        "lat": "45.515036",
-        "lon": "9.588532"
-      }
+      "lat": "45.515036",
+      "lon": "9.588532"
     },
     {
       "id": "008200136",
       "name": "Troisvierges",
-      "coordinates": {
-        "lat": "50.119356",
-        "lon": "5.990447"
-      }
+      "lat": "50.119356",
+      "lon": "5.990447"
     },
     {
       "id": "008000168",
       "name": "Uelzen",
-      "coordinates": {
-        "lat": "52.969782",
-        "lon": "10.553057"
-      }
+      "lat": "52.969782",
+      "lon": "10.553057"
     },
     {
       "id": "008000260",
       "name": "W\u00fcrzburg Hbf",
-      "coordinates": {
-        "lat": "49.801794",
-        "lon": "9.935777"
-      }
+      "lat": "49.801794",
+      "lon": "9.935777"
     },
     {
       "id": "008000114",
       "name": "F\u00fcrth(Bay)Hbf",
-      "coordinates": {
-        "lat": "49.469706",
-        "lon": "10.989987"
-      }
+      "lat": "49.469706",
+      "lon": "10.989987"
     },
     {
       "id": "008000170",
       "name": "Ulm Hbf",
-      "coordinates": {
-        "lat": "48.399432",
-        "lon": "9.982224"
-      }
+      "lat": "48.399432",
+      "lon": "9.982224"
     },
     {
       "id": "008006053",
       "name": "Vaihingen(Enz)",
-      "coordinates": {
-        "lat": "48.948116",
-        "lon": "8.957633"
-      }
+      "lat": "48.948116",
+      "lon": "8.957633"
     },
     {
       "id": "008006076",
       "name": "Verden(Aller)",
-      "coordinates": {
-        "lat": "52.920818",
-        "lon": "9.237854"
-      }
+      "lat": "52.920818",
+      "lon": "9.237854"
     },
     {
       "id": "008010355",
       "name": "Velgast",
-      "coordinates": {
-        "lat": "54.277317",
-        "lon": "12.803138"
-      }
+      "lat": "54.277317",
+      "lon": "12.803138"
     },
     {
       "id": "008000174",
       "name": "Viersen",
-      "coordinates": {
-        "lat": "51.254946",
-        "lon": "6.403897"
-      }
+      "lat": "51.254946",
+      "lon": "6.403897"
     },
     {
       "id": "008000366",
       "name": "Villingen(Schwarzw)",
-      "coordinates": {
-        "lat": "48.058022",
-        "lon": "8.465258"
-      }
+      "lat": "48.058022",
+      "lon": "8.465258"
     },
     {
       "id": "008013188",
       "name": "Vetschau",
-      "coordinates": {
-        "lat": "51.789759",
-        "lon": "14.081026"
-      }
+      "lat": "51.789759",
+      "lon": "14.081026"
     },
     {
       "id": "008196001",
       "name": "VIENNA",
-      "coordinates": {
-        "lat": "48.207036",
-        "lon": "16.341553"
-      }
+      "lat": "48.207036",
+      "lon": "16.341553"
     },
     {
       "id": "008100147",
       "name": "Villach Hbf",
-      "coordinates": {
-        "lat": "46.618624",
-        "lon": "13.848538"
-      }
+      "lat": "46.618624",
+      "lon": "13.848538"
     },
     {
       "id": "005196003",
       "name": "VARSOVIE",
-      "coordinates": {
-        "lat": "52.224729",
-        "lon": "21.001417"
-      }
+      "lat": "52.224729",
+      "lon": "21.001417"
     },
     {
       "id": "008396008",
       "name": "VENEZIA",
-      "coordinates": {
-        "lat": "45.444426",
-        "lon": "12.315491"
-      }
+      "lat": "45.444426",
+      "lon": "12.315491"
     },
     {
       "id": "008100081",
       "name": "Velden am W\u00f6rther See",
-      "coordinates": {
-        "lat": "46.620053",
-        "lon": "14.044836"
-      }
+      "lat": "46.620053",
+      "lon": "14.044836"
     },
     {
       "id": "008300093",
       "name": "Venezia Mestre",
-      "coordinates": {
-        "lat": "45.481902",
-        "lon": "12.231900"
-      }
+      "lat": "45.481902",
+      "lon": "12.231900"
     },
     {
       "id": "008300094",
       "name": "Venezia Santa Lucia",
-      "coordinates": {
-        "lat": "45.441397",
-        "lon": "12.320462"
-      }
+      "lat": "45.441397",
+      "lon": "12.320462"
     },
     {
       "id": "008300120",
       "name": "Verona Porta Nuova",
-      "coordinates": {
-        "lat": "45.428659",
-        "lon": "10.982741"
-      }
+      "lat": "45.428659",
+      "lon": "10.982741"
     },
     {
       "id": "008300126",
       "name": "Vicenza",
-      "coordinates": {
-        "lat": "45.541096",
-        "lon": "11.540774"
-      }
+      "lat": "45.541096",
+      "lon": "11.540774"
     },
     {
       "id": "005501413",
       "name": "Vac",
-      "coordinates": {
-        "lat": "47.782727",
-        "lon": "19.133063"
-      }
+      "lat": "47.782727",
+      "lon": "19.133063"
     },
     {
       "id": "008100353",
       "name": "VIE Vienna Airport",
-      "coordinates": {
-        "lat": "48.120901",
-        "lon": "16.563074"
-      }
+      "lat": "48.120901",
+      "lon": "16.563074"
     },
     {
       "id": "008602714",
       "name": "Valby(Koebenhavn)",
-      "coordinates": {
-        "lat": "55.663795",
-        "lon": "12.514323"
-      }
+      "lat": "55.663795",
+      "lon": "12.514323"
     },
     {
       "id": "008400644",
       "name": "Venlo",
-      "coordinates": {
-        "lat": "51.364407",
-        "lon": "6.171840"
-      }
+      "lat": "51.364407",
+      "lon": "6.171840"
     },
     {
       "id": "008300615",
       "name": "Vernio-Montepiano-Cantagallo",
-      "coordinates": {
-        "lat": "44.043646",
-        "lon": "11.152368"
-      }
+      "lat": "44.043646",
+      "lon": "11.152368"
     },
     {
       "id": "008006552",
       "name": "Wolfsburg Hbf",
-      "coordinates": {
-        "lat": "52.429494",
-        "lon": "10.787783"
-      }
+      "lat": "52.429494",
+      "lon": "10.787783"
     },
     {
       "id": "008000266",
       "name": "Wuppertal Hbf",
-      "coordinates": {
-        "lat": "51.254361",
-        "lon": "7.149543"
-      }
+      "lat": "51.254361",
+      "lon": "7.149543"
     },
     {
       "id": "008000260",
       "name": "W\u00fcrzburg Hbf",
-      "coordinates": {
-        "lat": "49.801794",
-        "lon": "9.935777"
-      }
+      "lat": "49.801794",
+      "lon": "9.935777"
     },
     {
       "id": "008000250",
       "name": "Wiesbaden Hbf",
-      "coordinates": {
-        "lat": "50.070788",
-        "lon": "8.243728"
-      }
+      "lat": "50.070788",
+      "lon": "8.243728"
     },
     {
       "id": "008010222",
       "name": "Lutherstadt Wittenberg Hbf",
-      "coordinates": {
-        "lat": "51.867812",
-        "lon": "12.662286"
-      }
+      "lat": "51.867812",
+      "lon": "12.662286"
     },
     {
       "id": "008000192",
       "name": "Wanne-Eickel Hbf",
-      "coordinates": {
-        "lat": "51.531256",
-        "lon": "7.165787"
-      }
+      "lat": "51.531256",
+      "lon": "7.165787"
     },
     {
       "id": "008000257",
       "name": "Worms Hbf",
-      "coordinates": {
-        "lat": "49.634937",
-        "lon": "8.356444"
-      }
+      "lat": "49.634937",
+      "lon": "8.356444"
     },
     {
       "id": "008000377",
       "name": "Weinheim(Bergstr)",
-      "coordinates": {
-        "lat": "49.553306",
-        "lon": "8.665349"
-      }
+      "lat": "49.553306",
+      "lon": "8.665349"
     },
     {
       "id": "008006421",
       "name": "Wiesloch-Walldorf",
-      "coordinates": {
-        "lat": "49.291351",
-        "lon": "8.664145"
-      }
+      "lat": "49.291351",
+      "lon": "8.664145"
     },
     {
       "id": "008010382",
       "name": "Wittenberge",
-      "coordinates": {
-        "lat": "53.003114",
-        "lon": "11.762870"
-      }
+      "lat": "53.003114",
+      "lon": "11.762870"
     },
     {
       "id": "008103000",
       "name": "Wien Hbf",
-      "coordinates": {
-        "lat": "48.184923",
-        "lon": "16.375864"
-      }
+      "lat": "48.184923",
+      "lon": "16.375864"
     },
     {
       "id": "008004610",
       "name": "Westerstede-Ocholt",
-      "coordinates": {
-        "lat": "53.202162",
-        "lon": "7.886470"
-      }
+      "lat": "53.202162",
+      "lon": "7.886470"
     },
     {
       "id": "008000196",
       "name": "Warburg(Westf)",
-      "coordinates": {
-        "lat": "51.492953",
-        "lon": "9.163846"
-      }
+      "lat": "51.492953",
+      "lon": "9.163846"
     },
     {
       "id": "008000368",
       "name": "Wabern(Bz Kassel)",
-      "coordinates": {
-        "lat": "51.103136",
-        "lon": "9.358040"
-      }
+      "lat": "51.103136",
+      "lon": "9.358040"
     },
     {
       "id": "008010361",
       "name": "Waren(M\u00fcritz)",
-      "coordinates": {
-        "lat": "53.521513",
-        "lon": "12.680678"
-      }
+      "lat": "53.521513",
+      "lon": "12.680678"
     },
     {
       "id": "008013236",
       "name": "Warnem\u00fcnde",
-      "coordinates": {
-        "lat": "54.176853",
-        "lon": "12.091273"
-      }
+      "lat": "54.176853",
+      "lon": "12.091273"
     },
     {
       "id": "008010366",
       "name": "Weimar",
-      "coordinates": {
-        "lat": "50.991490",
-        "lon": "11.326462"
-      }
+      "lat": "50.991490",
+      "lon": "11.326462"
     },
     {
       "id": "008006369",
       "name": "Westerland(Sylt)",
-      "coordinates": {
-        "lat": "54.906840",
-        "lon": "8.310922"
-      }
+      "lat": "54.906840",
+      "lon": "8.310922"
     },
     {
       "id": "008010368",
       "name": "Wei\u00dfenfels",
-      "coordinates": {
-        "lat": "51.204615",
-        "lon": "11.970925"
-      }
+      "lat": "51.204615",
+      "lon": "11.970925"
     },
     {
       "id": "008006272",
       "name": "Weil am Rhein",
-      "coordinates": {
-        "lat": "47.593972",
-        "lon": "7.608415"
-      }
+      "lat": "47.593972",
+      "lon": "7.608415"
     },
     {
       "id": "008196001",
       "name": "WIEN",
-      "coordinates": {
-        "lat": "48.207036",
-        "lon": "16.341553"
-      }
+      "lat": "48.207036",
+      "lon": "16.341553"
     },
     {
       "id": "008100514",
       "name": "Wien Meidling",
-      "coordinates": {
-        "lat": "48.174450",
-        "lon": "16.333085"
-      }
+      "lat": "48.174450",
+      "lon": "16.333085"
     },
     {
       "id": "008100099",
       "name": "W\u00f6rgl Hbf",
-      "coordinates": {
-        "lat": "47.491800",
-        "lon": "12.060584"
-      }
+      "lat": "47.491800",
+      "lon": "12.060584"
     },
     {
       "id": "008100014",
       "name": "Wels Hbf",
-      "coordinates": {
-        "lat": "48.166081",
-        "lon": "14.026570"
-      }
+      "lat": "48.166081",
+      "lon": "14.026570"
     },
     {
       "id": "005196003",
       "name": "WARSZAWA",
-      "coordinates": {
-        "lat": "52.224729",
-        "lon": "21.001417"
-      }
+      "lat": "52.224729",
+      "lon": "21.001417"
     },
     {
       "id": "005100065",
       "name": "Warszawa Centralna",
-      "coordinates": {
-        "lat": "52.228864",
-        "lon": "21.003233"
-      }
+      "lat": "52.228864",
+      "lon": "21.003233"
     },
     {
       "id": "005100066",
       "name": "Warszawa Wschodnia",
-      "coordinates": {
-        "lat": "52.251544",
-        "lon": "21.052332"
-      }
+      "lat": "52.251544",
+      "lon": "21.052332"
     },
     {
       "id": "005100067",
       "name": "Warszawa Zachodnia",
-      "coordinates": {
-        "lat": "52.219974",
-        "lon": "20.965244"
-      }
+      "lat": "52.219974",
+      "lon": "20.965244"
     },
     {
       "id": "008506206",
       "name": "Wil(CH)",
-      "coordinates": {
-        "lat": "47.462343",
-        "lon": "9.040190"
-      }
+      "lat": "47.462343",
+      "lon": "9.040190"
     },
     {
       "id": "008506000",
       "name": "Winterthur",
-      "coordinates": {
-        "lat": "47.500511",
-        "lon": "8.723482"
-      }
+      "lat": "47.500511",
+      "lon": "8.723482"
     },
     {
       "id": "008100539",
       "name": "Werfen",
-      "coordinates": {
-        "lat": "47.472599",
-        "lon": "13.195184"
-      }
+      "lat": "47.472599",
+      "lon": "13.195184"
     },
     {
       "id": "008100004",
       "name": "Wien Hbf (Autoreisezuganlage)",
-      "coordinates": {
-        "lat": "48.176626",
-        "lon": "16.392872"
-      }
+      "lat": "48.176626",
+      "lon": "16.392872"
     },
     {
       "id": "008100353",
       "name": "Wien Airport",
-      "coordinates": {
-        "lat": "48.120901",
-        "lon": "16.563074"
-      }
+      "lat": "48.120901",
+      "lon": "16.563074"
     },
     {
       "id": "008100058",
       "name": "Westendorf in Tirol",
-      "coordinates": {
-        "lat": "47.441110",
-        "lon": "12.222902"
-      }
+      "lat": "47.441110",
+      "lon": "12.222902"
     },
     {
       "id": "008100003",
       "name": "Wien Westbahnhof",
-      "coordinates": {
-        "lat": "48.196914",
-        "lon": "16.337247"
-      }
+      "lat": "48.196914",
+      "lon": "16.337247"
     },
     {
       "id": "002000021",
       "name": "Wjasma",
-      "coordinates": {
-        "lat": "55.197390",
-        "lon": "34.317551"
-      }
+      "lat": "55.197390",
+      "lon": "34.317551"
     },
     {
       "id": "008271120",
       "name": "Wilwerwiltz",
-      "coordinates": {
-        "lat": "49.988204",
-        "lon": "6.000812"
-      }
+      "lat": "49.988204",
+      "lon": "6.000812"
     },
     {
       "id": "008000064",
       "name": "Zelle",
-      "coordinates": {
-        "lat": "52.621171",
-        "lon": "10.062704"
-      }
+      "lat": "52.621171",
+      "lon": "10.062704"
     },
     {
       "id": "008010396",
       "name": "Z\u00fcssow",
-      "coordinates": {
-        "lat": "53.973877",
-        "lon": "13.548191"
-      }
+      "lat": "53.973877",
+      "lon": "13.548191"
     },
     {
       "id": "008000770",
       "name": "Zwischenahn Bad",
-      "coordinates": {
-        "lat": "53.182547",
-        "lon": "8.003123"
-      }
+      "lat": "53.182547",
+      "lon": "8.003123"
     },
     {
       "id": "008596008",
       "name": "Z\u00dcRICH",
-      "coordinates": {
-        "lat": "47.378968",
-        "lon": "8.540534"
-      }
+      "lat": "47.378968",
+      "lon": "8.540534"
     },
     {
       "id": "008503000",
       "name": "Z\u00fcrich HB",
-      "coordinates": {
-        "lat": "47.378186",
-        "lon": "8.539203"
-      }
+      "lat": "47.378186",
+      "lon": "8.539203"
     },
     {
       "id": "008503016",
       "name": "Z\u00fcrich Flughafen",
-      "coordinates": {
-        "lat": "47.450279",
-        "lon": "8.562333"
-      }
+      "lat": "47.450279",
+      "lon": "8.562333"
     },
     {
       "id": "005100071",
       "name": "Zbaszynek",
-      "coordinates": {
-        "lat": "52.242509",
-        "lon": "15.818093"
-      }
+      "lat": "52.242509",
+      "lon": "15.818093"
     },
     {
       "id": "007896001",
       "name": "ZAGREB",
-      "coordinates": {
-        "lat": "45.807411",
-        "lon": "15.990290"
-      }
+      "lat": "45.807411",
+      "lon": "15.990290"
     },
     {
       "id": "007800020",
       "name": "Zagreb Glavni Kolod.",
-      "coordinates": {
-        "lat": "45.804453",
-        "lon": "15.978478"
-      }
+      "lat": "45.804453",
+      "lon": "15.978478"
     },
     {
       "id": "007900004",
       "name": "Zidani Most",
-      "coordinates": {
-        "lat": "46.085267",
-        "lon": "15.170708"
-      }
+      "lat": "46.085267",
+      "lon": "15.170708"
     },
     {
       "id": "008100048",
       "name": "Zell am See",
-      "coordinates": {
-        "lat": "47.320520",
-        "lon": "12.796567"
-      }
+      "lat": "47.320520",
+      "lon": "12.796567"
     },
     {
       "id": "005100056",
       "name": "Zoppot-",
-      "coordinates": {
-        "lat": "54.440165",
-        "lon": "18.562320"
-      }
+      "lat": "54.440165",
+      "lon": "18.562320"
     },
     {
       "id": "008400747",
       "name": "Zwolle",
-      "coordinates": {
-        "lat": "52.505624",
-        "lon": "6.089904"
-      }
+      "lat": "52.505624",
+      "lon": "6.089904"
     }
   ]
 }
