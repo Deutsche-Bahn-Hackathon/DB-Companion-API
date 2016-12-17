@@ -6,7 +6,7 @@
  * Time: 12:41 AM
  */
 
-namespace api\model;
+namespace api\model\timetable;
 
 use JsonSerializable;
 
@@ -65,6 +65,17 @@ class Departure implements JsonSerializable {
      */
     private $journey;
 
+    public function __construct($name, $type, $stop_id, $stop, \DateTime $datetime, $direction, $track, $journey) {
+        $this->name = $name;
+        $this->type = $type;
+        $this->stop_id = $stop_id;
+        $this->stop = $stop;
+        $this->datetime = $datetime;
+        $this->direction = $direction;
+        $this->track = $track;
+        $this->journey = $journey;
+    }
+
 
     function jsonSerialize() {
         return [
@@ -72,7 +83,7 @@ class Departure implements JsonSerializable {
             'type' => $this->type,
             'stop_id' => $this->stop_id,
             'stop' => $this->stop,
-            'datetime' => $this->datetime,
+            'datetime' => date(DATE_RFC3339, strtotime($this->datetime)),
             'direction' => $this->direction,
             'track' => $this->track,
             'journey' => $this->journey

@@ -1,8 +1,9 @@
 <?php
 
-namespace api\model;
+namespace api\model\wagon;
 
 use JsonSerializable;
+use api\model\Beacon;
 
 /**
  * @SWG\Definition(

@@ -9,7 +9,9 @@
 namespace api\endpoint;
 
 use api\model\Coordinates;
-use api\model\Location;
+use api\model\timetable\Departure;
+use api\model\timetable\Location;
+use DateTime;
 use Interop\Container\ContainerInterface;
 use Slim\Http\Request;
 use Slim\Http\Response;
@@ -41,10 +43,20 @@ class Timetable {
     }
 
     public static function departures(Request $request, Response $response, array $args) {
-        $departures = json_decode(file_get_contents('https://open-api.bahn.de/bin/rest.exe/departureBoard?authKey=DBhackFrankfurt0316&lang=en&id=' . $args['id'] . '&date=' . date('Y-m-d') .'&time=' . date('G') . '%3a' . date('i') . '&format=json'), true);
+        $departures = json_decode(file_get_contents('https://open-api.bahn.de/bin/rest.exe/departureBoard?authKey=DBhackFrankfurt0316&lang=en&id=' . $args['id'] . '&date=' . date('Y-m-d') . '&time=' . date('G') . '%3a' . date('i') . '&format=json'), true);
+        $data = [];
 
-        foreach ($departures['DepartureBoard']['Departure'] as $location) {
-            $data[] = new Location($location['id'], $location['name'], new Coordinates($location['lat'], $location['lon']));
+        if (!isset($locations['DepartureBoard']['Departure']['name'])) {
+            foreach ($departures['DepartureBoard']['Departure'] as $departure) {
+                $data[] = new Departure($departure['name'], $departure['type'], $departure['stopid'], $departure['stop'], DateTime::createFromFormat('Y-m-d G:i', $departure['date'] . ' ' . $departure['time']), $departure['direction'], $departure['track'], str_replace('https://open-api.bahn.de/bin/rest.exe/', '', $departure['JourneyDetailRef']['ref']));
+            }
+        } else {
+            $departure = $departures['DepartureBoard']['Departure'];
+            $data[] = new Departure($departure['name'], $departure['type'], $departure['stopid'], $departure['stop'], DateTime::createFromFormat('Y-m-d G:i', $departure['date'] . ' ' . $departure['time']), $departure['direction'], $departure['track'], str_replace('https://open-api.bahn.de/bin/rest.exe/', '', $departure['JourneyDetailRef']['ref']));
         }
+
+        return $response
+            ->withHeader('Content-Type', 'application/json')
+            ->withJson(['departures' => $data]);
     }
 }
