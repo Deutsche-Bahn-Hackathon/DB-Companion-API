@@ -26,8 +26,8 @@ use Slim\App;
 use Slim\Http\Request;
 use Slim\Http\Response;
 
-//define('BASE_URL', 'https://deutsche-bahn-api.appspot.com');
-define('BASE_URL', 'http://localhost:8080');
+define('BASE_URL', 'https://deutsche-bahn-api.appspot.com');
+//define('BASE_URL', 'http://localhost:8080');
 
 require_once __DIR__ . '/vendor/autoload.php';
 
@@ -98,12 +98,12 @@ $app->get('/stations', Endpoint::add('Station', 'getAll'));
  *         description="successful operation",
  *         @SWG\Schema(
  *             type="array",
- *             @SWG\Items(ref="#/definitions/Location")
+ *             @SWG\Items(ref="#/definitions/Station")
  *         ),
  *     )
  * )
  */
-$app->get('/stations/search/{arg}', Endpoint::add('Timetable', 'search'));
+$app->get('/stations/search/{arg}', Endpoint::add('Station', 'search'));
 
 /**
  * @SWG\Get(
@@ -127,12 +127,12 @@ $app->get('/stations/search/{arg}', Endpoint::add('Timetable', 'search'));
  *         description="successful operation",
  *         @SWG\Schema(
  *             type="array",
- *             @SWG\Items(ref="#/definitions/Location")
+ *             @SWG\Items(ref="#/definitions/Station")
  *         ),
  *     )
  * )
  */
-$app->get('/stations/{id}/departures', Endpoint::add('Timetable', 'departures'));
+$app->get('/stations/{id}/departures', Endpoint::add('Station', 'departures'));
 
 /**
  * @SWG\Get(
@@ -156,12 +156,12 @@ $app->get('/stations/{id}/departures', Endpoint::add('Timetable', 'departures'))
  *         description="successful operation",
  *         @SWG\Schema(
  *             type="array",
- *             @SWG\Items(ref="#/definitions/Location")
+ *             @SWG\Items(ref="#/definitions/Station")
  *         ),
  *     )
  * )
  */
-$app->get('/stations/{id}/arrivals', Endpoint::add('Timetable', 'arrivals'));
+$app->get('/stations/{id}/arrivals', Endpoint::add('Station', 'arrivals'));
 
 $app->get('/get', Endpoint::add('Get', 'get'));
 

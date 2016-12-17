@@ -6,17 +6,19 @@
  * Time: 11:15 PM
  */
 
-namespace api\model\timetable;
-
-use JsonSerializable;
-use api\model\Coordinates;
-
 /**
  * @SWG\Definition(
- *   @SWG\Xml(name="Location")
+ *   @SWG\Xml(name="Station")
  * )
  */
-class Location implements JsonSerializable {
+namespace api\model\station;
+
+use api\model\Coordinates;
+use JsonSerializable;
+
+
+class Station implements JsonSerializable {
+
     /**
      * @SWG\Property(format="string")
      * @var string
@@ -35,12 +37,6 @@ class Location implements JsonSerializable {
      */
     private $coordinates;
 
-    /**
-     * Location constructor.
-     * @param string $id
-     * @param string $name
-     * @param Coordinates $coordinates
-     */
     public function __construct($id, $name, Coordinates $coordinates) {
         $this->id = $id;
         $this->name = $name;

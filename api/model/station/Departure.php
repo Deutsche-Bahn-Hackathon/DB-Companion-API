@@ -3,31 +3,31 @@
  * Created by PhpStorm.
  * User: Moriz
  * Date: 12/17/2016
- * Time: 3:04 AM
+ * Time: 3:02 AM
  */
 
-namespace api\model\timetable;
+namespace api\model\station;
 
 /**
  * @SWG\Definition(
- *   @SWG\Xml(name="Arrival")
+ *   @SWG\Xml(name="Departure")
  * )
  */
-class Arrival {
+class Departure {
 
     /**
      * @SWG\Property(format="string")
      * @var string
      */
-    private $origin;
+    private $direction;
 
-    public function __construct($name, $type, $stop_id, $stop, \DateTime $datetime, $origin, $track, $journey) {
+    public function __construct($name, $type, $stop_id, $stop, \DateTime $datetime, $direction, $track, $journey) {
         $this->name = $name;
         $this->type = $type;
         $this->stop_id = $stop_id;
         $this->stop = $stop;
         $this->datetime = $datetime;
-        $this->origin = $origin;
+        $this->direction = $direction;
         $this->track = $track;
         $this->journey = $journey;
     }
@@ -39,7 +39,7 @@ class Arrival {
             'stop_id' => $this->stop_id,
             'stop' => $this->stop,
             'datetime' => date(DATE_RFC3339, strtotime($this->datetime)),
-            'origin' => $this->origin,
+            'direction' => $this->direction,
             'track' => $this->track,
             'journey' => $this->journey
         ];

@@ -6,7 +6,7 @@
  * Time: 12:41 AM
  */
 
-namespace api\model\timetable;
+namespace api\model\station;
 
 use JsonSerializable;
 

@@ -3,7 +3,7 @@
 namespace api\endpoint;
 
 use api\model\Coordinates;
-use api\model\timetable\Location;
+use api\model\station\Station;
 use Slim\Http\Request;
 use Slim\Http\Response;
 
@@ -26,11 +26,11 @@ class get {
 
                 if (!isset($locations['LocationList']['StopLocation']['id'])) {
                     foreach ($locations['LocationList']['StopLocation'] as $location) {
-                        $data[] = new Location($location['id'], $location['name'], new Coordinates($location['lat'], $location['lon']));
+                        $data[] = new Station($location['id'], $location['name'], new Coordinates($location['lat'], $location['lon']));
                     }
                 } else {
                     $location = $locations['LocationList']['StopLocation'];
-                    $data[] = new Location($location['id'], $location['name'], new Coordinates($location['lat'], $location['lon']));
+                    $data[] = new Station($location['id'], $location['name'], new Coordinates($location['lat'], $location['lon']));
                 }
 
                 foreach ($data as $item) {
