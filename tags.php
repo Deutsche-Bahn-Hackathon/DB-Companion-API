@@ -12,12 +12,18 @@
  *   description="Stations",
  * )
  *
+ * * @SWG\Tag(
+ *   name="toilet",
+ *   description="Stations",
+ * )
+ *
  * @SWG\Tag(
- *   name="user",
- *   description="Access to Petstore orders",
- *   @SWG\ExternalDocumentation(
- *     description="Find out more about our store",
- *     url="http://swagger.io"
- *   )
+ *   name="beacons",
+ *   description="Beacons",
+ * )
+ *
+ * @SWG\Tag(
+ *   name="coffee",
+ *   description="Coffee",
  * )
  */

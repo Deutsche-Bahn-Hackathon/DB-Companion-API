@@ -194,11 +194,135 @@ $app->get('/stations/{journey}', Endpoint::add('Station', 'journey'));
 
 $app->get('/get', Endpoint::add('Get', 'get'));
 
+/**
+ * @SWG\Get(
+ *     path="/train/{train}/wagon/{wagon}/toilet",
+ *     summary="Get status of Toilet",
+ *     description="Displays the status of the toilet",
+ *     operationId="get",
+ *     consumes={""},
+ *     produces={"application/json"},
+ *     tags={"toilet"},
+ *     @SWG\Parameter(
+ *         description="Train ID",
+ *         in="path",
+ *         name="train",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Parameter(
+ *         description="Wagon ID",
+ *         in="path",
+ *         name="wagon",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Response(
+ *         response=200,
+ *         description="successful operation",
+ *         ),
+ *     )
+ * )
+ */
 $app->get('/train/{train}/wagon/{wagon}/toilet', Endpoint::add('Toilet', 'get'));
+
+/**
+ * @SWG\Get(
+ *     path="/train/{train}/wagon/{wagon}/toilet/{status}",
+ *     summary="Set status of Toilet",
+ *     description="Sets the status of the toilet",
+ *     operationId="put",
+ *     consumes={""},
+ *     produces={"application/json"},
+ *     tags={"toilet"},
+ *     @SWG\Parameter(
+ *         description="Train ID",
+ *         in="path",
+ *         name="train",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Parameter(
+ *         description="Wagon ID",
+ *         in="path",
+ *         name="wagon",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Parameter(
+ *         description="Status",
+ *         in="path",
+ *         name="status",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Response(
+ *         response=200,
+ *         description="successful operation",
+ *         ),
+ *     )
+ * )
+ */
 $app->put('/train/{train}/wagon/{wagon}/toilet/{status}', Endpoint::add('Toilet', 'put'));
 
+
+
+/**
+ * @SWG\Get(
+ *     path="/train/{train}/wagon",
+ *     summary="Get Beacons of a train",
+ *     description="Get Beacons of a train",
+ *     operationId="getBeacons",
+ *     consumes={""},
+ *     produces={"application/json"},
+ *     tags={"beacons"},
+ *     @SWG\Parameter(
+ *         description="Train ID",
+ *         in="path",
+ *         name="train",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Response(
+ *         response=200,
+ *         description="successful operation",
+ *         ),
+ *     )
+ * )
+ */
 $app->get('/train/{train}/wagons', Endpoint::add('TrainBeacon', 'getBeacons'));
 
+
+/**
+ * @SWG\Post(
+ *     path="/train/{train}/coffee",
+ *     summary="Order coffee",
+ *     description="Order coffee",
+ *     operationId="startOffer",
+ *     consumes={""},
+ *     produces={"application/json"},
+ *     tags={"coffee"},
+ *     @SWG\Parameter(
+ *         description="Train ID",
+ *         in="path",
+ *         name="train",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Response(
+ *         response=200,
+ *         description="successful operation",
+ *         ),
+ *     )
+ * )
+ */
 $app->post('/train/{train}/coffee', Endpoint::add('Coffee', 'startOffer'));
 
 $app->run();

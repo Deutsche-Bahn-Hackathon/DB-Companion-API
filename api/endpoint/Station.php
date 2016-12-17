@@ -81,7 +81,7 @@ class Station {
     }
 
     public static function journey(Request $request, Response $response, array $args) {
-        $arrivals = json_decode(file_get_contents('https://open-api.bahn.de/bin/rest.exe/arrivalBoard?authKey=DBhackFrankfurt0316&lang=en&id=' . $args['id'] . '&date=' . date('Y-m-d') . '&time=' . date('G') . '%3a' . date('i') . '&format=json'), true);
+        $arrivals = json_decode(file_get_contents('https://open-api.bahn.de/bin/rest.exe/' . $args['journey']), true);
         $data = [];
     }
 }
