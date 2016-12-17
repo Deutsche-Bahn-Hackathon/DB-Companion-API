@@ -52,7 +52,7 @@ class Facility {
                         'wagon' => 20
                     ],
                     [
-                        'driving_direction' => $wagon >= 20 && $wagon <= 22 ? false : (($wagon == 23) ? null : true),
+                        'driving_direction' => $wagon >= 20 && $wagon <= 22 ? false : ($wagon == 23 ? null : true),
                         'free' => $toilet_23->free,
                         'to_go' => abs($wagon - 23),
                         'wagon' => 23
