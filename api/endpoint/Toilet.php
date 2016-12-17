@@ -15,16 +15,6 @@ class Toilet {
         $this->containerInterface = $containerInterface;
     }
 
-    public static function get(Request $request, Response $response, array $args) {
-        $toilet = Datastore::toilet()->fetchOne("SELECT * FROM Toilet WHERE train = '${args['train']}' AND wagon = ${args['wagon']}");
-
-        return $response
-            ->withHeader('Content-Type', 'application/json')
-            ->withJson([
-                'free' => $toilet == null ? null : $toilet->free
-            ]);
-    }
-
     public static function put(Request $request, Response $response, array $args) {
         $db = Datastore::toilet();
         $toilet = $db->fetchOne("SELECT * FROM Toilet WHERE train = '${args['train']}' AND wagon = ${args['wagon']}");
