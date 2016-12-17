@@ -168,7 +168,7 @@ $app->get('/get', Endpoint::add('Get', 'get'));
 $app->get('/train/{train}/wagon/{wagon}/status', Endpoint::add('Toilet', 'get'));
 $app->put('/train/{train}/wagon/{wagon}/status/{status}', Endpoint::add('Toilet', 'put'));
 
-$app->post('/train/{train}/wagons', Endpoint::add('TrainBeacon', 'getBeacons'));
+$app->get('/train/{train}/wagons', Endpoint::add('TrainBeacon', 'getBeacons'));
 
 $app->post('/train/{train}/coffee', Endpoint::add('Coffee', 'startOffer'));
 
