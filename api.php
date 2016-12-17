@@ -325,6 +325,47 @@ $app->get('/train/{train}/wagons', Endpoint::add('TrainBeacon', 'getBeacons'));
  */
 $app->post('/train/{train}/coffee', Endpoint::add('Coffee', 'startOffer'));
 
+
+/**
+ * @SWG\Get(
+ *     path="/train/{train}/wagon/{wagon}/next/{facility}",
+ *     summary="Next facility",
+ *     description="Shows the nearest facility",
+ *     operationId="getNext",
+ *     consumes={""},
+ *     produces={"application/json"},
+ *     tags={"toilet"},
+ *     @SWG\Parameter(
+ *         description="Train",
+ *         in="path",
+ *         name="train",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Parameter(
+ *         description="Wagon",
+ *         in="path",
+ *         name="wagon",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Parameter(
+ *         description="Facility",
+ *         in="path",
+ *         name="facility",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Response(
+ *         response=200,
+ *         description="successful operation",
+ *         ),
+ *     )
+ * )
+ */
 $app->get('/train/{train}/wagon/{wagon}/next/{facility}', Endpoint::add('Facility', 'getNext'));
 
 /**
