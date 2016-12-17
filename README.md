@@ -21,9 +21,9 @@ This is the API of a winning project at the DBHackathon Berlin 2016, so it has b
 
 ## Credits
 
-Dejori David
-Fink Martin
-Lardschneider Alex
+Dejori David,
+Fink Martin,
+Lardschneider Alex and
 Martiner Moriz
 
 ## License
