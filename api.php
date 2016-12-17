@@ -165,8 +165,6 @@ $app->get('/stations/{id}/arrivals', Endpoint::add('Timetable', 'arrivals'));
 
 $app->get('/get', Endpoint::add('Get', 'get'));
 
-$app->get('/train/{train}/toilet/{id}/status', Endpoint::add('Toilet', 'get'));
-$app->put('/train/{train}/toilet/{id}/status/{status}', Endpoint::add('Toilet', 'put'));
 $app->get('/train/{train}/wagon/{wagon}/status', Endpoint::add('Toilet', 'get'));
 $app->put('/train/{train}/wagon/{wagon}/status/{status}', Endpoint::add('Toilet', 'put'));
 
