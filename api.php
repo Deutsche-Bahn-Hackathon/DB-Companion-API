@@ -192,8 +192,6 @@ $app->get('/stations/{id}/arrivals', Endpoint::add('Station', 'arrivals'));
  */
 $app->get('/stations/journey/[{journey:.*}]', Endpoint::add('Station', 'journey'));
 
-$app->get('/get', Endpoint::add('Get', 'get'));
-
 /**
  * @SWG\Get(
  *     path="/train/{train}/wagon/{wagon}/toilet",
@@ -270,7 +268,6 @@ $app->get('/train/{train}/wagon/{wagon}/toilet', Endpoint::add('Toilet', 'get'))
  */
 $app->put('/train/{train}/wagon/{wagon}/toilet/{status}', Endpoint::add('Toilet', 'put'));
 
-
 /**
  * @SWG\Get(
  *     path="/train/{train}/wagon",
@@ -297,7 +294,6 @@ $app->put('/train/{train}/wagon/{wagon}/toilet/{status}', Endpoint::add('Toilet'
  */
 $app->get('/train/{train}/wagons', Endpoint::add('TrainBeacon', 'getBeacons'));
 
-
 /**
  * @SWG\Post(
  *     path="/train/{train}/coffee",
@@ -323,7 +319,6 @@ $app->get('/train/{train}/wagons', Endpoint::add('TrainBeacon', 'getBeacons'));
  * )
  */
 $app->post('/train/{train}/coffee', Endpoint::add('Coffee', 'startOffer'));
-
 
 /**
  * @SWG\Get(
