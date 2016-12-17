@@ -83,7 +83,7 @@ $app->get('/stations', Endpoint::add('Station', 'getAll'));
  *     operationId="search",
  *     consumes={""},
  *     produces={"application/json"},
- *     tags={"timetable"},
+ *     tags={"station"},
  *     @SWG\Parameter(
  *         description="Search term ",
  *         in="path",
@@ -112,7 +112,7 @@ $app->get('/stations/search/{arg}', Endpoint::add('Timetable', 'search'));
  *     operationId="departures",
  *     consumes={""},
  *     produces={"application/json"},
- *     tags={"timetable"},
+ *     tags={"station"},
  *     @SWG\Parameter(
  *         description="Station ID",
  *         in="path",
@@ -136,12 +136,12 @@ $app->get('/stations/{id}/departures', Endpoint::add('Timetable', 'departures'))
 /**
  * @SWG\Get(
  *     path="/stations/{id}/arrivals",
- *     summary="Get the departures of a station",
+ *     summary="Get the arrivals of a station",
  *     description="If you want to select the time, ask the backend developer",
- *     operationId="departures",
+ *     operationId="arrivals",
  *     consumes={""},
  *     produces={"application/json"},
- *     tags={"timetable"},
+ *     tags={"station"},
  *     @SWG\Parameter(
  *         description="Station ID",
  *         in="path",

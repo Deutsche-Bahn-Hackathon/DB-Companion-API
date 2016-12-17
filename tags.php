@@ -13,11 +13,6 @@
  * )
  *
  * @SWG\Tag(
- *   name="timetable",
- *   description="Timetables",
- * )
- *
- * @SWG\Tag(
  *   name="user",
  *   description="Access to Petstore orders",
  *   @SWG\ExternalDocumentation(
