@@ -107,6 +107,6 @@ $app->get('/stations/search/{arg}', Endpoint::add('Timetable', 'search'));
 $app->get('/stations/{id}/departures', Endpoint::add('Timetable', 'departures'));
 
 $app->get('/train/{train}/toilet/{id}/status', Endpoint::add('Toilet', 'get'));
-$app->get('/train/{train}/toilet/{id}/status/{status}', Endpoint::add('Toilet', 'put'));
+$app->put('/train/{train}/toilet/{id}/status/{status}', Endpoint::add('Toilet', 'put'));
 
 $app->run();
