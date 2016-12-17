@@ -163,6 +163,35 @@ $app->get('/stations/{id}/departures', Endpoint::add('Station', 'departures'));
  */
 $app->get('/stations/{id}/arrivals', Endpoint::add('Station', 'arrivals'));
 
+/**
+ * @SWG\Get(
+ *     path="/stations/{journey}",
+ *     summary="Display the journey",
+ *     description="Displays the whole journey",
+ *     operationId="journey",
+ *     consumes={""},
+ *     produces={"application/json"},
+ *     tags={"station"},
+ *     @SWG\Parameter(
+ *         description="Journey URL",
+ *         in="path",
+ *         name="id",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Response(
+ *         response=200,
+ *         description="successful operation",
+ *         @SWG\Schema(
+ *             type="array",
+ *             @SWG\Items(ref="#/definitions/Station")
+ *         ),
+ *     )
+ * )
+ */
+$app->get('/stations/{journey}', Endpoint::add('Station', 'journey'));
+
 $app->get('/get', Endpoint::add('Get', 'get'));
 
 $app->get('/train/{train}/wagon/{wagon}/toilet', Endpoint::add('Toilet', 'get'));

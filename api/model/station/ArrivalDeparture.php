@@ -12,7 +12,7 @@ use JsonSerializable;
 
 /**
  * @SWG\Definition(
- *   @SWG\Xml(name="Departure")
+ *   @SWG\Xml(name="ArrivalDeparture")
  * )
  */
 abstract class ArrivalDeparture implements JsonSerializable {
