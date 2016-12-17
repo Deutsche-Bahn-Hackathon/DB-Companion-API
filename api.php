@@ -327,4 +327,38 @@ $app->post('/train/{train}/coffee', Endpoint::add('Coffee', 'startOffer'));
 
 $app->get('/train/{train}/wagon/{wagon}/next/{facility}', Endpoint::add('Facility', 'getNext'));
 
+/**
+ * @SWG\Get(
+ *     path="/weather/{lat}/{lon}",
+ *     summary="Weather at the given coordinates",
+ *     description="Weather at the given coordinates",
+ *     operationId="getWeather",
+ *     consumes={""},
+ *     produces={"application/json"},
+ *     tags={"weather"},
+ *     @SWG\Parameter(
+ *         description="Latitude",
+ *         in="path",
+ *         name="lat",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Parameter(
+ *         description="Longitude",
+ *         in="path",
+ *         name="lon",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Response(
+ *         response=200,
+ *         description="successful operation",
+ *         ),
+ *     )
+ * )
+ */
+$app->get('/weather/{lat}/{lon}', Endpoint::add('Weather', 'getWeather'));
+
 $app->run();
