@@ -7,12 +7,6 @@ use api\model\timetable\Location;
 use Slim\Http\Request;
 use Slim\Http\Response;
 
-/**
- * Created by PhpStorm.
- * User: Moriz
- * Date: 12/17/2016
- * Time: 3:36 AM
- */
 class get {
 
     public static function get(Request $request, Response $response, array $args) {
