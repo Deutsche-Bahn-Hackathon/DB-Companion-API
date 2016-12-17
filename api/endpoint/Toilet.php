@@ -16,12 +16,12 @@ class Toilet {
     }
 
     public static function get(Request $request, Response $response, array $args) {
-        $toilet = Datastore::toilet()->fetchOne("SELECT * FROM Toilet WHERE train = '${args['train']}' AND id = '${args['id']}'");
+        $toilet = Datastore::toilet()->fetchOne("SELECT * FROM Toilet WHERE train = '${args['train']}' AND id = ${args['id']}");
 
         return $response
             ->withHeader('Content-Type', 'application/json')
             ->withJson([
-                'free' => $toilet == null ? null : $toilet->status
+                'free' => $toilet == null ? null : $toilet->free
             ]);
     }
 
@@ -31,12 +31,12 @@ class Toilet {
 
         if ($toilet == null) {
             $toilet = $db->createEntity([
+                'free' => $args['status'] == 1,
                 'id' => (int) $args['id'],
-                'train' => $args['train'],
-                'status' => $args['status'] == 1
+                'train' => $args['train']
             ]);
         } else {
-            $toilet->status = $args['status'] == 1;
+            $toilet->free = $args['status'] == 1;
         }
 
         $db->upsert($toilet);

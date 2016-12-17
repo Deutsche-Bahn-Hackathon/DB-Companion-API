@@ -11,9 +11,9 @@ class Datastore {
     public static function toilet() {
         return new Store(
             (new Schema('Toilet'))
+                ->addBoolean('free')
                 ->addInteger('id')
-                ->addString('train')
-                ->addBoolean('status'),
+                ->addString('train'),
             new ProtoBuf(null, 'Toilets')
         );
     }
