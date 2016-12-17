@@ -23,6 +23,7 @@ class Datastore {
             (new Schema('Ticket'))
                 ->addString('id')
                 ->addDatetime('acquired')
+                ->addDatetime('departure')
                 ->addString('origin')
                 ->addString('destination')
                 ->addInteger('travel_class')

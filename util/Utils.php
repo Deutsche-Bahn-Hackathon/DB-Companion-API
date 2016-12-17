@@ -12,4 +12,10 @@ class Utils {
 
         return vsprintf('%s%s-%s-%s-%s-%s%s%s', str_split(bin2hex($data), 4));
     }
+
+    public static function randomTicketID() {
+        $data = openssl_random_pseudo_bytes(8);
+
+        return strtoupper(substr(base_convert(bin2hex($data), 16, 36), 0, 8));
+    }
 }
