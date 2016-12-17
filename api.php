@@ -26,7 +26,8 @@ use Slim\App;
 use Slim\Http\Request;
 use Slim\Http\Response;
 
-define('BASE_URL', 'http://deutsche-bahn-api.appspot.com');
+//define('BASE_URL', 'https://deutsche-bahn-api.appspot.com');
+define('BASE_URL', 'http://localhost:8080');
 
 require_once __DIR__ . '/vendor/autoload.php';
 
@@ -162,6 +163,10 @@ $app->get('/stations/{id}/departures', Endpoint::add('Timetable', 'departures'))
  */
 $app->get('/stations/{id}/arrivals', Endpoint::add('Timetable', 'arrivals'));
 
+$app->get('/get', Endpoint::add('Get', 'get'));
+
+$app->get('/train/{train}/toilet/{id}/status', Endpoint::add('Toilet', 'get'));
+$app->put('/train/{train}/toilet/{id}/status/{status}', Endpoint::add('Toilet', 'put'));
 $app->get('/train/{train}/wagon/{wagon}/status', Endpoint::add('Toilet', 'get'));
 $app->put('/train/{train}/wagon/{wagon}/status/{status}', Endpoint::add('Toilet', 'put'));
 

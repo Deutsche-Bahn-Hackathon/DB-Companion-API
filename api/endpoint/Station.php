@@ -15,17 +15,10 @@ class Station {
     }
 
     public static function getAll(Request $request, Response $response, array $args) {
-        $stations_raw = file(BASE_URL . '/static/stations.csv');
-        $stations = [];
-
-        foreach ($stations_raw as $station_csv) {
-            $station = str_getcsv($station_csv, ';');
-            $station = new \api\model\Station($station[2], $station[0], $station[3], $station[6], $station[7], $station[8]);
-            $stations[] = $station;
-        }
+        $stations = file_get_contents(BASE_URL . '/static/stations.json');
 
         return $response
             ->withHeader('Content-Type', 'application/json')
-            ->withJson(['stations' => $stations]);
+            ->write($stations);
     }
 }

@@ -21,7 +21,7 @@ class Location implements JsonSerializable {
      * @SWG\Property(format="string")
      * @var string
      */
-    private $id;
+    public $id;
 
     /**
      * @SWG\Property(format="string")
