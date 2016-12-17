@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Moriz
- * Date: 12/17/2016
- * Time: 7:19 AM
- */
 
 namespace api\endpoint;
 
