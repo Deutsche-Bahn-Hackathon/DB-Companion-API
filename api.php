@@ -432,4 +432,6 @@ $app->get('/pois/{lat}/{lon}', Endpoint::add('POI', 'getPois'));
 
 $app->get('/ticket', Endpoint::add('Ticket', 'create'));
 
+$app->get('/update-dep', Endpoint::add('Departure', 'update'));
+
 $app->run();
