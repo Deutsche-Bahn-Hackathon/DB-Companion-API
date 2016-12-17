@@ -2,8 +2,8 @@
 
 /**
  * @SWG\Swagger(
- *     schemes={"http"},
- *     host="localhost:8080",
+ *     schemes={"https"},
+ *     host="deutsche-bahn-api.appspot.com",
  *     basePath="/",
  *     @SWG\Info(
  *         version="0.0.1",
@@ -25,6 +25,8 @@ use api\endpoint\Endpoint;
 use Slim\App;
 use Slim\Http\Request;
 use Slim\Http\Response;
+
+define('BASE_URL', 'http://deutsche-bahn-api.appspot.com');
 
 require_once __DIR__ . '/vendor/autoload.php';
 
@@ -72,9 +74,39 @@ $app->get('/swagger.json', Endpoint::add('Swagger', 'get'));
  * )
  * */
 $app->get('/stations', Endpoint::add('Station', 'getAll'));
+
+/**
++ * @SWG\Get(
++ *     path="/stations/search/{arg}",
++ *     summary="Search for stations",
++ *     description="Multiple search terms can be separated by a '+'",
++ *     operationId="search",
++ *     consumes={""},
++ *     produces={"application/json"},
++ *     tags={"timetable"},
++ *     @SWG\Parameter(
++ *         description="Search term ",
++ *         in="path",
++ *         name="arg",
++ *         required=true,
++ *         type="string",
++ *         format="string"
++ *     ),
++ *     @SWG\Response(
++ *         response=200,
++ *         description="successful operation",
++ *         @SWG\Schema(
++ *             type="array",
++ *             @SWG\Items(ref="#/definitions/Location")
++ *         ),
++ *     )
++ * )
++ */
+$app->get('/stations/search/{arg}', Endpoint::add('Timetable', 'search'));
+
+$app->get('/stations/{id}/departures', Endpoint::add('Timetable', 'departures'));
+
 $app->get('/train/ice1206/toilet/1/status', Endpoint::add('Toilet', 'get'));
 $app->put('/train/ice1206/toilet/1/status/{status}', Endpoint::add('Toilet', 'put'));
-
-$app->get('/search/stations/{arg}', Endpoint::add('Timetable', 'search'));
 
 $app->run();
