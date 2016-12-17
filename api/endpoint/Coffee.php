@@ -2,8 +2,8 @@
 
 namespace api\endpoint;
 
-use google\appengine\ext\remote_api\Request;
 use Interop\Container\ContainerInterface;
+use Slim\Http\Request;
 use Slim\Http\Response;
 use util\Fcm;
 
