@@ -165,8 +165,10 @@ $app->get('/stations/{id}/arrivals', Endpoint::add('Station', 'arrivals'));
 
 $app->get('/get', Endpoint::add('Get', 'get'));
 
-$app->get('/train/{train}/toilet/{id}/status', Endpoint::add('Toilet', 'get'));
-$app->put('/train/{train}/toilet/{id}/status/{status}', Endpoint::add('Toilet', 'put'));
+$app->get('/train/{train}/wagon/{wagon}/toilet', Endpoint::add('Toilet', 'get'));
+$app->put('/train/{train}/wagon/{wagon}/toilet/{status}', Endpoint::add('Toilet', 'put'));
+
+$app->get('/train/{train}/wagons', Endpoint::add('TrainBeacon', 'getBeacons'));
 
 $app->post('/train/{train}/coffee', Endpoint::add('Coffee', 'startOffer'));
 
