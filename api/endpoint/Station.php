@@ -2,7 +2,6 @@
 
 namespace api\endpoint;
 
-use api\model\Coordinates;
 use api\model\station\Arrival;
 use api\model\station\Departure;
 use DateTime;
@@ -32,11 +31,11 @@ class Station {
 
         if (!isset($locations['LocationList']['StopLocation']['id'])) {
             foreach ($locations['LocationList']['StopLocation'] as $location) {
-                $data[] = new \api\model\station\Station($location['id'], $location['name'], new Coordinates($location['lat'], $location['lon']));
+                $data[] = new \api\model\station\Station($location['id'], $location['name'], $location['lat'], $location['lon']);
             }
         } else {
             $location = $locations['LocationList']['StopLocation'];
-            $data[] = new \api\model\station\Station($location['id'], $location['name'], new Coordinates($location['lat'], $location['lon']));
+            $data[] = new \api\model\station\Station($location['id'], $location['name'], $location['lat'], $location['lon']);
         }
 
         return $response

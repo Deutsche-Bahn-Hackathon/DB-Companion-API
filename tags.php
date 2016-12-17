@@ -14,7 +14,7 @@
  *
  * * @SWG\Tag(
  *   name="toilet",
- *   description="Stations",
+ *   description="Toilet",
  * )
  *
  * @SWG\Tag(

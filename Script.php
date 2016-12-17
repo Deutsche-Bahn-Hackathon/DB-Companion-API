@@ -1,21 +1,11 @@
 <?php
+
 /**
  * Created by PhpStorm.
  * User: Moriz
- * Date: 12/16/2016
- * Time: 11:15 PM
+ * Date: 12/17/2016
+ * Time: 6:36 AM
  */
-
-/**
- * @SWG\Definition(
- *   @SWG\Xml(name="Station")
- * )
- */
-namespace api\model\station;
-
-use JsonSerializable;
-
-
 class Station implements JsonSerializable {
 
     /**
@@ -58,3 +48,13 @@ class Station implements JsonSerializable {
         ];
     }
 }
+
+$content = json_decode(file_get_contents('http://localhost:8080/static/stations.json'), true);
+
+$tmp = [];
+
+foreach ($content['stations'] as $item) {
+    $tmp[] = new Station($item['id'], $item['name'], $item['coordinates']['lat'], $item['coordinates']['lon']);
+}
+
+echo json_encode($tmp);
