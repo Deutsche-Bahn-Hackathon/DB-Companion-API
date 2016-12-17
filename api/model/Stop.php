@@ -7,7 +7,7 @@ use JsonSerializable;
 
 /**
  * @SWG\Definition(
- *   @SWG\Xml(name="Stop)
+ *   @SWG\Xml(name="Stop")
  * )
  */
 class Stop implements JsonSerializable {

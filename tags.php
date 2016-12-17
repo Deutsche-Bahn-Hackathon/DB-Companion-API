@@ -31,4 +31,9 @@
  *   name="weather",
  *   description="Weather",
  * )
+ *
+ * @SWG\Tag(
+ *   name="pois",
+ *   description="Points Of Interest",
+ * )
  */

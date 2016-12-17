@@ -401,4 +401,38 @@ $app->get('/train/{train}/wagon/{wagon}/next/{facility}', Endpoint::add('Facilit
  */
 $app->get('/weather/{lat}/{lon}', Endpoint::add('Weather', 'getWeather'));
 
+/**
+ * @SWG\Get(
+ *     path="/pois/{lat}/{lon}",
+ *     summary="Nearby POIs",
+ *     description="Returns nearby POIs",
+ *     operationId="getPois",
+ *     consumes={""},
+ *     produces={"application/json"},
+ *     tags={"pois"},
+ *     @SWG\Parameter(
+ *         description="Latitude",
+ *         in="path",
+ *         name="lat",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Parameter(
+ *         description="Longitude",
+ *         in="path",
+ *         name="lon",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Response(
+ *         response=200,
+ *         description="successful operation",
+ *         ),
+ *     )
+ * )
+ */
+$app->get('/pois/{lat}/{lon}', Endpoint::add('POI', 'getPois'));
+
 $app->run();
