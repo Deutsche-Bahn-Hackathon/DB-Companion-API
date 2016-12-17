@@ -1,14 +1,10 @@
-# Project Name
+# DB Companion
 
-TODO: Write a project description
-
-## Installation
-
-TODO: Describe the installation process
+RESTful API of our winning project at DBHackathon 2016 in Berlin.
 
 ## Usage
 
-TODO: Write usage instructions
+Swagger can be found at: https://deutsche-bahn-api.appspot.com/docs/index.html
 
 ## Contributing
 
