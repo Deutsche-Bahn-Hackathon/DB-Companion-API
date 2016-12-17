@@ -1,14 +1,15 @@
 <?php
 
+namespace api\model;
+
+use JsonSerializable;
+
+
 /**
  * @SWG\Definition(
  *   @SWG\Xml(name="Beacon")
  * )
  */
-namespace api\model;
-
-use JsonSerializable;
-
 class Beacon implements JsonSerializable {
 
     /**

@@ -200,7 +200,7 @@ $app->get('/stations/journey/[{journey:.*}]', Endpoint::add('Station', 'journey'
  *     operationId="get",
  *     consumes={""},
  *     produces={"application/json"},
- *     tags={"toilet"},
+ *     tags={"facility"},
  *     @SWG\Parameter(
  *         description="Train ID",
  *         in="path",
@@ -234,7 +234,7 @@ $app->get('/train/{train}/wagon/{wagon}/toilet', Endpoint::add('Toilet', 'get'))
  *     operationId="put",
  *     consumes={""},
  *     produces={"application/json"},
- *     tags={"toilet"},
+ *     tags={"facility"},
  *     @SWG\Parameter(
  *         description="Train ID",
  *         in="path",
@@ -328,7 +328,7 @@ $app->post('/train/{train}/coffee', Endpoint::add('Coffee', 'startOffer'));
  *     operationId="getNext",
  *     consumes={""},
  *     produces={"application/json"},
- *     tags={"toilet"},
+ *     tags={"facility"},
  *     @SWG\Parameter(
  *         description="Train",
  *         in="path",
@@ -429,6 +429,32 @@ $app->get('/weather/{lat}/{lon}', Endpoint::add('Weather', 'getWeather'));
  * )
  */
 $app->get('/pois/{lat}/{lon}', Endpoint::add('POI', 'getPois'));
+
+/**
+ * @SWG\Get(
+ *     path="/photo/{reference}",
+ *     summary="Image of POI",
+ *     description="Image of POI",
+ *     operationId="getPhoto",
+ *     consumes={""},
+ *     produces={"application/json"},
+ *     tags={"pois"},
+ *     @SWG\Parameter(
+ *         description="Reference",
+ *         in="path",
+ *         name="reference",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Response(
+ *         response=200,
+ *         description="successful operation",
+ *         ),
+ *     )
+ * )
+ */
+$app->get('/photo/{reference}', Endpoint::add('POI', 'getPhoto'));
 
 $app->get('/ticket', Endpoint::add('Ticket', 'create'));
 

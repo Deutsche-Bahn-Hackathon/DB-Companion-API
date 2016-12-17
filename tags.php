@@ -13,8 +13,8 @@
  * )
  *
  * * @SWG\Tag(
- *   name="toilet",
- *   description="Toilet",
+ *   name="facility",
+ *   description="Facilities",
  * )
  *
  * @SWG\Tag(
