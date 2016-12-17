@@ -19,10 +19,22 @@ class Facility {
         switch ($args['facility']) {
             case 'restaurant':
                 $json = [
-                    'driving_direction' => $args['wagon'] == 26 ? null : $args['wagon'] == 27,
-                    'to_go' => 26 - $args['wagon'],
-                    'wagon' => 26,
+                    [
+                        'driving_direction' => $args['wagon'] == 26 ? null : $args['wagon'] == 27,
+                        'to_go' => 26 - $args['wagon'],
+                        'wagon' => 26,
+                    ],
+                    [
+                        'driving_direction' => $args['wagon'] == 27 ? null : false,
+                        'to_go' => 27 - $args['wagon'],
+                        'wagon' => 27,
+                    ]
                 ];
+
+                usort($json, function ($a, $b) {
+                    return $a['to_go'] - $b['to_go'];
+                });
+
                 break;
             case 'toilet':
                 $wagon = $args['wagon'];
@@ -32,21 +44,25 @@ class Facility {
                 $toilet_20 = Datastore::toilet()->fetchOne("SELECT * FROM Toilet WHERE train = '${args['train']}' AND wagon = 20");
                 $toilet_23 = Datastore::toilet()->fetchOne("SELECT * FROM Toilet WHERE train = '${args['train']}' AND wagon = 23");
 
-                if ($toilet_20->free && $toilet_23->free) {
-                    $toilet = $args['wagon'] <= 21 ? 20 : 23;
-                } else if ($toilet_20->free) {
-                    $toilet = 20;
-                } else if ($toilet_23->free) {
-                    $toilet = 23;
-                }
+                $json = [
+                    [
+                        'driving_direction' => $wagon == 22 ? false : (($wagon == 20 || $wagon == 23) ? null : true),
+                        'free' => $toilet_20->free,
+                        'to_go' => abs($wagon - 20),
+                        'wagon' => 20
+                    ],
+                    [
+                        'driving_direction' => $wagon == 22 ? false : (($wagon == 20 || $wagon == 23) ? null : true),
+                        'free' => $toilet_23->free,
+                        'to_go' => abs($wagon - 23),
+                        'wagon' => 23
+                    ]
+                ];
 
-                return $response
-                    ->withHeader('Content-Type', 'application/json')
-                    ->withJson($json = [
-                        'driving_direction' => $wagon == 22 ? false : ($wagon == 20 || $wagon == 23) ? null : true,
-                        'to_go' => $toilet == null ? null : abs($wagon - $toilet),
-                        'wagon' => $toilet
-                    ]);
+                usort($json, function ($a, $b) {
+                   return $a['to_go'] - $b['to_go'];
+                });
+
                 break;
             default:
                 $json = ['error' => 'Facility must be one of: restaurant; toilet.'];
