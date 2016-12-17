@@ -325,4 +325,6 @@ $app->get('/train/{train}/wagons', Endpoint::add('TrainBeacon', 'getBeacons'));
  */
 $app->post('/train/{train}/coffee', Endpoint::add('Coffee', 'startOffer'));
 
+$app->get('/train/{train}/wagon/{wagon}/next/{facility}', Endpoint::add('Facility', 'getNext'));
+
 $app->run();

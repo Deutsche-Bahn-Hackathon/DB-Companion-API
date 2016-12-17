@@ -17,7 +17,7 @@ class TrainBeacon {
     public static function getBeacons(Request $request, Response $response, array $args) {
         return $response->withJson([
             'train' => 9361,
-            'wagons' => [2204, 2203, 2202, 2201, 2104, 2103, 2102]
+            'wagons' => [2001, 2002, 2101, 2102, 2201, 2202, 2301, 2302, 2401, 2402, 2501, 2502, 2601, 2602, 2701, 2702]
         ]);
     }
 }
