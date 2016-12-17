@@ -15,7 +15,7 @@ class Station {
     }
 
     public static function getAll(Request $request, Response $response, array $args) {
-        $stations_raw = file('http://localhost:8080/static/stations.csv');
+        $stations_raw = file(BASE_URL . '/static/stations.csv');
         $stations = [];
 
         foreach ($stations_raw as $station_csv) {
