@@ -8,14 +8,17 @@ handlers:
    - url: /api-docs
      static_files: swagger.json
      upload: swagger.json
+     secure: always
 
    - url: /docs
      static_files: vendor/swagger-api/swagger-ui/dist/index.html
      upload: vendor/swagger-api/swagger-ui/dist/index.html
+     secure: always
 
    - url: /docs/(.*)
      static_files: vendor/swagger-api/swagger-ui/dist/\1
      upload: vendor/swagger-api/swagger-ui/dist/.
+     secure: always
 
    - url: /static
      static_dir: static

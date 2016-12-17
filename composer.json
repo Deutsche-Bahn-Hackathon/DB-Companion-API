@@ -12,6 +12,7 @@
   "require": {
     "zircote/swagger-php": "2.0.7",
     "swagger-api/swagger-ui": "v2.2.4",
-    "slim/slim": "3.6.0"
+    "slim/slim": "3.6.0",
+    "tomwalder/php-gds": "v3.0.1"
   }
 }
