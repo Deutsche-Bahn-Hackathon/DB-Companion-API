@@ -1,7 +1,7 @@
 # DB Companion
 
-RESTful API for DB Applications.
-Primary used for the DB Companion.
+RESTful API for DB applications.
+Created for and used by the DB Companion Android application.
 
 ## Usage
 
