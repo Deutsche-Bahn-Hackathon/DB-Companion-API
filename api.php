@@ -76,32 +76,32 @@ $app->get('/swagger.json', Endpoint::add('Swagger', 'get'));
 $app->get('/stations', Endpoint::add('Station', 'getAll'));
 
 /**
-+ * @SWG\Get(
-+ *     path="/stations/search/{arg}",
-+ *     summary="Search for stations",
-+ *     description="Multiple search terms can be separated by a '+'",
-+ *     operationId="search",
-+ *     consumes={""},
-+ *     produces={"application/json"},
-+ *     tags={"timetable"},
-+ *     @SWG\Parameter(
-+ *         description="Search term ",
-+ *         in="path",
-+ *         name="arg",
-+ *         required=true,
-+ *         type="string",
-+ *         format="string"
-+ *     ),
-+ *     @SWG\Response(
-+ *         response=200,
-+ *         description="successful operation",
-+ *         @SWG\Schema(
-+ *             type="array",
-+ *             @SWG\Items(ref="#/definitions/Location")
-+ *         ),
-+ *     )
-+ * )
-+ */
+ * @SWG\Get(
+ *     path="/stations/search/{arg}",
+ *     summary="Search for stations",
+ *     description="Multiple search terms can be separated by a '+'",
+ *     operationId="search",
+ *     consumes={""},
+ *     produces={"application/json"},
+ *     tags={"timetable"},
+ *     @SWG\Parameter(
+ *         description="Search term ",
+ *         in="path",
+ *         name="arg",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Response(
+ *         response=200,
+ *         description="successful operation",
+ *         @SWG\Schema(
+ *             type="array",
+ *             @SWG\Items(ref="#/definitions/Location")
+ *         ),
+ *     )
+ * )
+ */
 $app->get('/stations/search/{arg}', Endpoint::add('Timetable', 'search'));
 
 $app->get('/stations/{id}/departures', Endpoint::add('Timetable', 'departures'));

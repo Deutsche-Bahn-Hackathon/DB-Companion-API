@@ -43,7 +43,7 @@ class Timetable {
     public static function departures(Request $request, Response $response, array $args) {
         $departures = json_decode(file_get_contents('https://open-api.bahn.de/bin/rest.exe/departureBoard?authKey=DBhackFrankfurt0316&lang=en&id=' . $args['id'] . '&date=' . date('Y-m-d') .'&time=' . date('G') . '%3a' . date('i') . '&format=json'), true);
 
-        foreach ($departures['LocationList']['StopLocation'] as $location) {
+        foreach ($departures['DepartureBoard']['Departure'] as $location) {
             $data[] = new Location($location['id'], $location['name'], new Coordinates($location['lat'], $location['lon']));
         }
     }
