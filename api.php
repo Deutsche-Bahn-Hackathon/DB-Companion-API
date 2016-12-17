@@ -401,4 +401,6 @@ $app->get('/train/{train}/wagon/{wagon}/next/{facility}', Endpoint::add('Facilit
  */
 $app->get('/weather/{lat}/{lon}', Endpoint::add('Weather', 'getWeather'));
 
+$app->get('/ticket', Endpoint::add('Ticket', 'create'));
+
 $app->run();
