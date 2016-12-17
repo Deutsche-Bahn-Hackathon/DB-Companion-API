@@ -109,4 +109,6 @@ $app->get('/stations/{id}/departures', Endpoint::add('Timetable', 'departures'))
 $app->get('/train/{train}/toilet/{id}/status', Endpoint::add('Toilet', 'get'));
 $app->put('/train/{train}/toilet/{id}/status/{status}', Endpoint::add('Toilet', 'put'));
 
+$app->post('/train/{train}/coffee', Endpoint::add('Coffee', 'startOffer'));
+
 $app->run();
