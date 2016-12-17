@@ -2,6 +2,7 @@
 
 namespace api\endpoint;
 
+use DateTime;
 use Slim\Http\Request;
 use Slim\Http\Response;
 use util\Datastore;
@@ -13,17 +14,17 @@ class Ticket {
     private $acquired;
     private $origin;
     private $destination;
-    private $class;
+    private $travel_class;
     private $train;
     private $wagon;
     private $seat;
 
     public function __construct($id) {
         $this->id = $id;
-        $this->acquired = new DateTime();
+        $this->acquired = new DateTime;
         $this->origin = 'München';
         $this->destination = 'Kiel';
-        $this->class = 1;
+        $this->travel_class = 1;
         $this->train = 'ICE-1206';
         $this->wagon = 22;
         $this->seat = 64;
@@ -35,7 +36,7 @@ class Ticket {
             'acquired' => $this->acquired,
             'origin' => $this->origin,
             'destination' => $this->destination,
-            'class' => $this->class,
+            'class' => $this->travel_class,
             'train' => $this->train,
             'wagon' => $this->wagon,
             'seat' => $this->seat,
@@ -46,9 +47,6 @@ class Ticket {
     }
 
     public static function create(Request $request, Response $response, array $args) {
-        $id = Utils::randomUUID();
-        $ticket = new Ticket($id);
-
-        return $response->withJson($ticket);
+        return $response->withJson(new Ticket(strtoupper(explode('-', Utils::randomUUID())[0])));
     }
 }
