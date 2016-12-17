@@ -26,4 +26,9 @@
  *   name="coffee",
  *   description="Coffee",
  * )
+ *
+ * @SWG\Tag(
+ *   name="weather",
+ *   description="Weather",
+ * )
  */
