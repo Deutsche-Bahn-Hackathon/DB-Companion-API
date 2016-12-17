@@ -5,6 +5,9 @@ api_version: 1
 threadsafe: true
 
 handlers:
+   - url: /coffee
+     script: web/coffee.php
+
    - url: /api-docs
      static_files: swagger.json
      upload: swagger.json
