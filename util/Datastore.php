@@ -7,6 +7,7 @@ use GDS\Schema;
 use GDS\Store;
 
 class Datastore {
+
     public static function toilet() {
         return new Store(
             (new Schema('Toilet'))
@@ -22,9 +23,10 @@ class Datastore {
             (new Schema('Ticket'))
                 ->addString('id')
                 ->addDatetime('acquired')
+                ->addDatetime('departure')
                 ->addString('origin')
                 ->addString('destination')
-                ->addInteger('class')
+                ->addInteger('travel_class')
                 ->addString('train')
                 ->addInteger('wagon')
                 ->addInteger('seat')

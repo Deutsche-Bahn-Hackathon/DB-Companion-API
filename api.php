@@ -458,4 +458,6 @@ $app->get('/photo/{reference}', Endpoint::add('POI', 'getPhoto'));
 
 $app->get('/ticket', Endpoint::add('Ticket', 'create'));
 
+$app->get('/update-dep', Endpoint::add('Departure', 'update'));
+
 $app->run();
