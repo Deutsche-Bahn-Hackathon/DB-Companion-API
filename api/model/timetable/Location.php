@@ -6,9 +6,10 @@
  * Time: 11:15 PM
  */
 
-namespace api\model;
+namespace api\model\timetable;
 
 use JsonSerializable;
+use api\model\Coordinates;
 
 /**
  * @SWG\Definition(

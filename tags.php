@@ -8,18 +8,8 @@
 
 /**
  * @SWG\Tag(
- *   name="test",
- *   description="Test Endpoints",
- * )
- *
- * @SWG\Tag(
  *   name="station",
  *   description="Stations",
- * )
- *
- * @SWG\Tag(
- *   name="timetable",
- *   description="Timetables",
  * )
  *
  * @SWG\Tag(

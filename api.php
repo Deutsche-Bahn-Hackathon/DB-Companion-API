@@ -83,7 +83,7 @@ $app->get('/stations', Endpoint::add('Station', 'getAll'));
  *     operationId="search",
  *     consumes={""},
  *     produces={"application/json"},
- *     tags={"timetable"},
+ *     tags={"station"},
  *     @SWG\Parameter(
  *         description="Search term ",
  *         in="path",
@@ -104,7 +104,63 @@ $app->get('/stations', Endpoint::add('Station', 'getAll'));
  */
 $app->get('/stations/search/{arg}', Endpoint::add('Timetable', 'search'));
 
+/**
+ * @SWG\Get(
+ *     path="/stations/{id}/departures",
+ *     summary="Get the departures of a station",
+ *     description="If you want to select the time, ask the backend developer",
+ *     operationId="departures",
+ *     consumes={""},
+ *     produces={"application/json"},
+ *     tags={"station"},
+ *     @SWG\Parameter(
+ *         description="Station ID",
+ *         in="path",
+ *         name="id",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Response(
+ *         response=200,
+ *         description="successful operation",
+ *         @SWG\Schema(
+ *             type="array",
+ *             @SWG\Items(ref="#/definitions/Location")
+ *         ),
+ *     )
+ * )
+ */
 $app->get('/stations/{id}/departures', Endpoint::add('Timetable', 'departures'));
+
+/**
+ * @SWG\Get(
+ *     path="/stations/{id}/arrivals",
+ *     summary="Get the arrivals of a station",
+ *     description="If you want to select the time, ask the backend developer",
+ *     operationId="arrivals",
+ *     consumes={""},
+ *     produces={"application/json"},
+ *     tags={"station"},
+ *     @SWG\Parameter(
+ *         description="Station ID",
+ *         in="path",
+ *         name="id",
+ *         required=true,
+ *         type="string",
+ *         format="string"
+ *     ),
+ *     @SWG\Response(
+ *         response=200,
+ *         description="successful operation",
+ *         @SWG\Schema(
+ *             type="array",
+ *             @SWG\Items(ref="#/definitions/Location")
+ *         ),
+ *     )
+ * )
+ */
+$app->get('/stations/{id}/arrivals', Endpoint::add('Timetable', 'arrivals'));
 
 $app->get('/train/{train}/toilet/{id}/status', Endpoint::add('Toilet', 'get'));
 $app->put('/train/{train}/toilet/{id}/status/{status}', Endpoint::add('Toilet', 'put'));
