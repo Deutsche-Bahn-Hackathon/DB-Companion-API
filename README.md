@@ -1,6 +1,7 @@
 # DB Companion
 
-RESTful API of our winning project at DBHackathon 2016 in Berlin.
+RESTful API for DB Applications.
+Primary used for the DB Companion.
 
 ## Usage
 
@@ -16,12 +17,15 @@ Swagger can be found at: https://deutsche-bahn-api.appspot.com/docs/index.html
 
 ## History
 
-TODO: Write history
+This is the API of a winning project at the DBHackathon Berlin 2016, so it has been created in 24h.
 
 ## Credits
 
-TODO: Write credits
+Dejori David
+Fink Martin
+Lardschneider Alex
+Martiner Moriz
 
 ## License
 
-TODO: Write license
+This project is licensed under the terms of the Apache 2.0 license
