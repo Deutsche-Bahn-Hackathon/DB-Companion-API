@@ -43,7 +43,7 @@ class Facility {
                 return $response
                     ->withHeader('Content-Type', 'application/json')
                     ->withJson($json = [
-                        'driving_direction' => $wagon == 22 ? false : $wagon == 20 || $wagon == 23 ? null : true,
+                        'driving_direction' => $wagon == 22 ? false : ($wagon == 20 || $wagon == 23) ? null : true,
                         'to_go' => $toilet == null ? null : abs($wagon - $toilet),
                         'wagon' => $toilet
                     ]);
