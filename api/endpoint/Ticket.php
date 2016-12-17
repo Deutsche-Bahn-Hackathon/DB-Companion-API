@@ -1,5 +1,7 @@
 <?php
 
+namespace api\endpoint;
+
 use Slim\Http\Request;
 use Slim\Http\Response;
 use util\Datastore;
