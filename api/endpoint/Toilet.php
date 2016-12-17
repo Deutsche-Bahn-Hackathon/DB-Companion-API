@@ -16,7 +16,7 @@ class Toilet {
     }
 
     public static function get(Request $request, Response $response, array $args) {
-        $toilet = Datastore::toilet()->fetchOne("SELECT * FROM Toilet WHERE train = '${args['train']}' AND id = ${args['id']}");
+        $toilet = Datastore::toilet()->fetchOne("SELECT * FROM Toilet WHERE train = '${args['train']}' AND wagon = ${args['wagon']}");
 
         return $response
             ->withHeader('Content-Type', 'application/json')
@@ -27,13 +27,13 @@ class Toilet {
 
     public static function put(Request $request, Response $response, array $args) {
         $db = Datastore::toilet();
-        $toilet = $db->fetchOne("SELECT * FROM Toilet WHERE train = '${args['train']}' AND id = ${args['id']}");
+        $toilet = $db->fetchOne("SELECT * FROM Toilet WHERE train = '${args['train']}' AND wagon = ${args['wagon']}");
 
         if ($toilet == null) {
             $toilet = $db->createEntity([
                 'free' => $args['status'] == 1,
-                'id' => (int) $args['id'],
-                'train' => $args['train']
+                'train' => $args['train'],
+                'wagon' => (int) $args['wagon']
             ]);
         } else {
             $toilet->free = $args['status'] == 1;

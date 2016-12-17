@@ -12,8 +12,8 @@ class Datastore {
         return new Store(
             (new Schema('Toilet'))
                 ->addBoolean('free')
-                ->addInteger('id')
-                ->addString('train'),
+                ->addString('train')
+                ->addInteger('wagon'),
             new ProtoBuf(null, 'Toilets')
         );
     }
