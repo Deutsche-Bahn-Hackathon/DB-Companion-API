@@ -2,15 +2,15 @@
 
 namespace api\model\wagon;
 
-use JsonSerializable;
 use api\model\Beacon;
+use JsonSerializable;
 
 /**
  * @SWG\Definition(
  *   @SWG\Xml(name="Wagon")
  * )
  */
-abstract class Wagon implements JsonSerializable{
+abstract class Wagon implements JsonSerializable {
     /**
      * @SWG\Property(format="string")
      * @var string
@@ -30,5 +30,10 @@ abstract class Wagon implements JsonSerializable{
     protected $beacons;
 
     function jsonSerialize() {
+        return [
+            'id' => $this->id,
+            'construction_year' => $this->construction_year,
+            'beacons' => $this->beacons
+        ];
     }
 }

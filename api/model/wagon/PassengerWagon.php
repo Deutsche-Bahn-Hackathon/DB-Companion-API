@@ -21,4 +21,10 @@ class PassengerWagon extends Wagon {
      */
     private $taken_seats;
 
+    function jsonSerialize() {
+        return [
+            parent::jsonSerialize(),
+            'seats' => $this->seats,
+            'taken_seats' => $this->taken_seats];
+    }
 }
