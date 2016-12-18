@@ -8,5 +8,9 @@ namespace api\model\wagon;
  * )
  */
 class DinerWagon extends Wagon {
-
+    function jsonSerialize() {
+        return [
+            parent::jsonSerialize()
+        ];
+    }
 }
