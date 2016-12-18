@@ -25,14 +25,14 @@ class Stop implements JsonSerializable {
     private $name;
 
     /**
-     * @SWG\Property(format="number")
-     * @var double
+     * @SWG\Property(format="string")
+     * @var string
      */
     private $lat;
 
     /**
-     * @SWG\Property(format="number")
-     * @var double
+     * @SWG\Property(format="string")
+     * @var string
      */
     private $lon;
 

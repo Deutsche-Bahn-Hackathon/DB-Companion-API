@@ -36,11 +36,18 @@ class Beacon implements JsonSerializable {
         $this->minor = $minor;
     }
 
+    public function getMajor() {
+        return $this->major;
+    }
+
+    public function getMinor() {
+        return $this->minor;
+    }
+
+    public function getUuid() {
+        return $this->uuid;
+    }
+
     function jsonSerialize() {
-        return [
-            'uuid' => $this->uuid,
-            'major' => $this->major,
-            'minor' => $this->minor
-        ];
     }
 }

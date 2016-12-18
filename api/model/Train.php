@@ -2,7 +2,6 @@
 
 namespace api\model;
 
-use api\model\wagon\Wagon;
 use JsonSerializable;
 
 /**
@@ -19,7 +18,7 @@ class Train implements JsonSerializable {
     private $id;
 
     /**
-     * @var Wagon
+     * @var Wagon[]
      * * @SWG\Property(@SWG\Xml(name="wagons",wrapped=true))
      */
     private $wagons;
@@ -27,7 +26,6 @@ class Train implements JsonSerializable {
     /**
      * Train constructor.
      * @param string $id
-     * @param Wagon[] $wagons
      */
     public function __construct($id, $wagons) {
         $this->id = $id;
@@ -35,9 +33,28 @@ class Train implements JsonSerializable {
     }
 
     function jsonSerialize() {
-        return [
-            'id' => $this->id,
-            'wagons' => $this->wagons,
-        ];
     }
+
+    /**
+     * @return string
+     */
+    public function getId() {
+        return $this->id;
+    }
+
+    /**
+     * @return Wagon[]
+     */
+    public function getWagons() {
+        return $this->wagons;
+    }
+
+    /**
+     * @param Wagon[] $wagons
+     */
+    public function setWagons($wagons) {
+        $this->wagons = $wagons;
+    }
+
+
 }

@@ -1,14 +1,15 @@
 <?php
 
-namespace api\model\station;
-
-use JsonSerializable;
-
 /**
  * @SWG\Definition(
  *   @SWG\Xml(name="Station")
  * )
  */
+namespace api\model\station;
+
+use JsonSerializable;
+
+
 class Station implements JsonSerializable {
 
     /**
