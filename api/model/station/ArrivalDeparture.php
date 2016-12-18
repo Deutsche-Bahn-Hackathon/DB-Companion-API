@@ -15,53 +15,41 @@ abstract class ArrivalDeparture implements JsonSerializable {
      * @SWG\Property(format="string")
      * @var string
      */
-    protected $name;
+    private $name;
 
     /**
      * @SWG\Property(format="string")
      * @var string
      */
-    protected $type;
+    private $type;
 
     /**
      * @SWG\Property(format="int32")
      * @var int
      */
-    protected $stop_id;
+    private $stop_id;
 
     /**
      * @SWG\Property(format="string")
      * @var string
      */
-    protected $stop;
+    private $stop;
 
     /**
      * @SWG\Property(format="dateTime")
      * @var \DateTime
      */
-    protected $datetime;
+    private $datetime;
 
     /**
      * @SWG\Property(format="string")
      * @var string
      */
-    protected $track;
+    private $track;
 
     /**
      * @SWG\Property(format="string")
      * @var string
      */
-    protected $journey;
-
-    function jsonSerialize() {
-        return [
-            'name' => $this->name,
-            'type' => $this->type,
-            'stop_id' => $this->stop_id,
-            'stop' => $this->stop,
-            'datetime' => date(DATE_RFC3339, strtotime($this->datetime)),
-            'track' => $this->track,
-            'journey' => $this->journey
-        ];
-    }
+    private $journey;
 }

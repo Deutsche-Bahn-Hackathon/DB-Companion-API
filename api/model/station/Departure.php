@@ -7,7 +7,7 @@ namespace api\model\station;
  *   @SWG\Xml(name="Departure")
  * )
  */
-class Departure extends ArrivalDeparture {
+class Departure {
 
     /**
      * @SWG\Property(format="string")
@@ -28,8 +28,14 @@ class Departure extends ArrivalDeparture {
 
     function jsonSerialize() {
         return [
-            parent::jsonSerialize(),
-            'direction' => $this->direction
+            'name' => $this->name,
+            'type' => $this->type,
+            'stop_id' => $this->stop_id,
+            'stop' => $this->stop,
+            'datetime' => date(DATE_RFC3339, strtotime($this->datetime)),
+            'direction' => $this->direction,
+            'track' => $this->track,
+            'journey' => $this->journey
         ];
     }
 }

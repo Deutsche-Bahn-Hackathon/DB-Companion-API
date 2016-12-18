@@ -1,4 +1,10 @@
 <?php
+/**
+ * Created by PhpStorm.
+ * User: Moriz
+ * Date: 12/17/2016
+ * Time: 12:26 PM
+ */
 
 namespace api\model;
 
@@ -9,23 +15,21 @@ use JsonSerializable;
  *   @SWG\Xml(name="POI")
  * )
  */
-class POI implements JsonSerializable {
-
+class POI implements \JsonSerializable {
     /**
      * @SWG\Property(format="string")
      * @var string
      */
     private $address;
-
     /**
-     * @SWG\Property(format="number")
-     * @var double
+     * @SWG\Property(format="string")
+     * @var string
      */
     private $lat;
 
     /**
-     * @SWG\Property(format="number")
-     * @var float
+     * @SWG\Property(format="string")
+     * @var string
      */
     private $lon;
 
@@ -33,7 +37,7 @@ class POI implements JsonSerializable {
      * @SWG\Property(format="string")
      * @var string
      */
-    private $photo_reference;
+    private $photo;
 
     /**
      * @SWG\Property(format="string")
@@ -52,7 +56,7 @@ class POI implements JsonSerializable {
         $this->address = $address;
         $this->lat = $lat;
         $this->lon = $lon;
-        $this->photo_reference = $photo;
+        $this->photo = $photo;
         $this->url = $url;
         $this->website = $website;
     }
@@ -62,9 +66,11 @@ class POI implements JsonSerializable {
             'address' => $this->address,
             'lat' => $this->lat,
             'lon' => $this->lon,
-            'photo_reference' => $this->photo_reference,
+            'photo' => $this->photo,
             'url' => $this->url,
             'website' => $this->website,
         ];
     }
+
+
 }
