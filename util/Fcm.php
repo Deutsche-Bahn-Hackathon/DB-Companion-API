@@ -2,7 +2,7 @@
 
 namespace util;
 
-const API_KEY = 'AIzaSyCqsYMvGgUK4bnG8BoXSh70D2znH2IxOLM';
+const API_KEY = 'AIzaSyDRWd4OfnKpQ7CIaFl7cE2Sc47BgdtuP30';
 
 class Fcm {
     public static function send($topic, $receiver, $content) {

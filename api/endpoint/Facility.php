@@ -47,13 +47,13 @@ class Facility {
                 $json = [
                     [
                         'driving_direction' => $wagon == 20 ? null : true,
-                        'free' => $toilet_20->free,
+                        'free' => true,
                         'to_go' => abs($wagon - 20),
                         'wagon' => 20
                     ],
                     [
                         'driving_direction' => $wagon >= 20 && $wagon <= 22 ? false : ($wagon == 23 ? null : true),
-                        'free' => $toilet_23->free,
+                        'free' => true,
                         'to_go' => abs($wagon - 23),
                         'wagon' => 23
                     ]

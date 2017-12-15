@@ -26,7 +26,7 @@ use Slim\App;
 use Slim\Http\Request;
 use Slim\Http\Response;
 
-define('BASE_URL', 'https://deutsche-bahn-api.appspot.com');
+define('BASE_URL', 'https://deutsche-bahn-hackathon.appspot.com');
 //define('BASE_URL', 'http://localhost:8080');
 
 require_once __DIR__ . '/vendor/autoload.php';
